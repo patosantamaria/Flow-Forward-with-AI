@@ -1,0 +1,30 @@
+<StreamlinerMessage>
+    <Header>
+        <MessageID>MSG-9928374</MessageID>
+        <Timestamp>2026-02-11T09:15:00Z</Timestamp>
+        <Source>Vopak_MyService</Source>
+        <Target>Customs_EU</Target>
+    </Header>
+    <Body>
+        <Declaration>
+            <Type>IMPORT</Type>
+            <Reference>REF-2026-KK-99</Reference>
+            <Goods>
+                <Code>27101999</Code>
+                <Quantity>5000</Quantity>
+                <Unit>MT</Unit>
+            </Goods>
+        </Declaration>
+        <Error>
+            <Code>ERR-902</Code>
+            <Severity>CRITICAL</Severity>
+            <Description>Stock Mismatch: Insufficient Bonded Quantity.</Description>
+            <Detail>
+                <Field>CustomsStatus</Field>
+                <Value>BONDED</Value>
+                <Expected>FREE</Expected>
+                <Message>The tank TK-101 requires status 'FREE' for this operation type.</Message>
+            </Detail>
+        </Error>
+    </Body>
+</StreamlinerMessage>

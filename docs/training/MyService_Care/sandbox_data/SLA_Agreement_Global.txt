@@ -1,0 +1,20 @@
+# MASTER SERVICE AGREEMENT - SERVICE LEVEL ADDENDUM
+# Vendor: TechStream Global
+# Client: Vopak MyService
+
+## 4. Service Level Objectives (SLOs)
+
+### 4.1 Priority Definitions
+- **P1 (Critical):** Complete loss of service. Terminal operations halted.
+- **P2 (High):** Major functionality impaired. Workaround difficult.
+
+### 4.2 Response & Resolution Times
+| Priority | Response Time (Ack) | Resolution Time (Fix) |
+|----------|---------------------|-----------------------|
+| P1       | 15 Minutes          | 4 Hours               |
+| P2       | 30 Minutes          | 8 Hours               |
+| P3       | 4 Hours             | 24 Hours              |
+
+### 5. Penalties & Credits
+- **Clause 5.1:** Failure to meet P1 Response Time results in a 5% credit of the monthly fee per incident.
+- **Clause 5.2:** Failure to meet P1 Resolution Time results in a 10% credit.

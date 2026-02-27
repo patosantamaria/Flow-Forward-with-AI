@@ -1,0 +1,22 @@
+# MyService Release 18.0 - Technical Specifications
+# Date: Feb 10, 2026
+# Status: RELEASED
+
+## Feature 1: Multi-Tiered Pricing Engine (MTP)
+- **Technical ID:** FEAT-2024
+- **Component:** Pricing_Service_v2
+- **Description:** Implemented tiered logic for storage fees.
+- **API Changes:** POST /api/v2/calculate_price now accepts 'tier_level' parameter (int).
+- **Database:** Added 'tier_config' table to RDS.
+- **User Story:** "As a Commercial Manager, I want to define different rates for high-volume customers."
+
+## Feature 2: Terminal Gate Integration Update
+- **Technical ID:** FEAT-2099
+- **Component:** Gate_Connector
+- **Description:** Updated polling frequency from 60s to 10s.
+- **Protocol:** MQTT over WebSocket.
+- **User Story:** "As a Terminal Operator, I want near-real-time truck status."
+
+## Bug Fixes
+- **BUG-991:** Fixed NullPointerException in User Login when SSO is down.
+- **BUG-992:** Corrected floating point error in Tank Level display (rounding to 3 decimals).
