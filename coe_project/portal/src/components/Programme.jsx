@@ -28,11 +28,11 @@ const phases = [
     badge: 'bg-orange-100 text-orange-700',
     tag: 'Automate & Build',
     title: 'Phase 3 — Automate & Build',
-    sub: 'M10–M11 · Full day · Requires Phase 1',
+    sub: 'M10–M11 · Full day · M10 requires M6–M9 · M11 requires M10',
     tagline: 'From user to creator — build AI colleagues and automate the work that slows you down.',
     desc: `You build your first Gems: pre-loaded AI specialists with a fixed role, rules, and knowledge base — the difference between briefing a temp every day and having a specialist on call. Then you create automation flows in Workspace Studio and, with Gemini writing the code, connect anything Studio can't reach yet through Apps Script.`,
     outcome: "You leave with: two working Gems, one Studio automation flow, and one Gemini-written Apps Script — all yours.",
-    chips: ['Full-day hands-on', 'Build & showcase format', 'Requires Phase 1'],
+    chips: ['Full-day hands-on', 'Build & showcase format', 'M10 requires M6–M9', 'M11 requires M10'],
     comingSoon: false,
   },
   {

@@ -54,11 +54,11 @@ const phase2 = [
     tag: 'Pair with M6 for a tools half-day', tagColor: 'bg-slate-100 text-slate-500',
   },
   {
-    id: 'M8', dur: '20 min', icon: 'phone_android',
+    id: 'M8', dur: '30 min', icon: 'phone_android',
     title: 'Gemini on Mobile',
-    what: 'For operations, field staff, and anyone working away from a desk.',
-    detail: `Take a photo of a physical gauge, checklist, or form → get structured data. Speak your site walk observations → get a formatted safety report. Translate a notice or instruction on the spot. Mobile Gemini is the same enterprise-protected tool — in your pocket, at the terminal, in the field.`,
-    tag: 'Essential for field & ops teams', tagColor: 'bg-slate-100 text-slate-500',
+    what: 'For everyone — Gemini in your pocket, wherever you are.',
+    detail: `The same enterprise-protected Gemini that runs on your laptop is available on your phone. Take a photo of a document, form, or physical object and ask questions about it. Speak observations and get a structured output. Translate on the spot.\n\nThe session includes a Gemini Live speed-prompting exercise: open a voice conversation, talk through an idea, problem, or brief — let Gemini push back, refine it, and explore it with you in real time — then ask it to turn that conversation into a finished report, an app brief, or a concrete action plan. It is the fastest way to go from a half-formed thought to something you can actually use.`,
+    tag: 'For all colleagues · includes Gemini Live', tagColor: 'bg-primary/15 text-navy-deep',
   },
   {
     id: 'M9', dur: '60 min', icon: 'auto_stories',
@@ -75,14 +75,14 @@ const phase3 = [
     title: 'Gems — build your AI colleague',
     what: 'A pre-loaded specialist, ready when you need them.',
     detail: `A Gem is a Gemini conversation pre-loaded with a persona, a set of rules, and a knowledge base you define. The difference between a Gem and a regular prompt is the difference between briefing a temp every single day and having a specialist on call who already knows your context. You build two: one for yourself, one for your department. By the end of the session, both are live and shareable.`,
-    tag: '60 min instruction + 60 min build', tagColor: 'bg-slate-100 text-slate-500',
+    tag: 'Requires M6–M9 · 60 min instruction + 60 min build', tagColor: 'bg-slate-100 text-slate-500',
   },
   {
     id: 'M11', dur: '90 min', icon: 'automation',
     title: 'Workspace Studio & Apps Script',
     what: 'Automate what repeats — without writing a single line of code yourself.',
     detail: `Workspace Studio lets you describe an automation flow in plain language and it builds and runs it for you. For anything Studio can't do yet, Gemini writes the Apps Script — you describe what you want automated, Gemini produces the code, you paste it and click Run. No programming skills required. We automate one real task from your week before the session ends.`,
-    tag: '45 min instruction + 45 min build', tagColor: 'bg-slate-100 text-slate-500',
+    tag: 'Requires M10 · 45 min instruction + 45 min build', tagColor: 'bg-slate-100 text-slate-500',
   },
 ]
 
