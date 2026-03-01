@@ -7,13 +7,14 @@
 
 ## 📚 Core Curriculum (Generic — all departments)
 
-| Phase   | File                                                      | Description                                                                               |
-| :------ | :-------------------------------------------------------- | :---------------------------------------------------------------------------------------- |
-| Phase 1 | [Foundation & Ethics](phases/phase1_foundation_ethics.md) | GenAI foundations, AI vision, security guardrails, TCF framework                          |
-| Phase 2 | [Core Tools Deep Dive](phases/phase2_core_tools.md)       | Gemini in Workspace, Gemini Web App, NotebookLM, Gemini on Mobile                         |
-| **1+2** | [**Combined Full-Day**](phases/phase1+2_combined.md)      | **Standard delivery format — both phases on one day**                                     |
-| Phase 3 | [Automate & Build](phases/phase3_automate_build.md)       | Custom Gems, Workspace Studio automation, Gemini-powered Apps Script, capstone challenges |
-| Post    | [Post-Training Programme](phases/post_training_coe.md)    | Champions Network, Tip of the Week, BigQuery analytics                                    |
+| Phase   | File                                                      | Description                                                                                |
+| :------ | :-------------------------------------------------------- | :----------------------------------------------------------------------------------------- |
+| Phase 1 | [Foundation & Ethics](phases/phase1_foundation_ethics.md) | GenAI foundations, AI vision, security guardrails, PTCF framework                          |
+| Phase 2 | [Core Tools Deep Dive](phases/phase2_core_tools.md)       | Gemini in Workspace, Gemini Web App, NotebookLM, Gemini on Mobile + Gemini Live            |
+| **1+2** | [**Combined Full-Day**](phases/phase1+2_combined.md)      | **Standard delivery format — both phases on one day**                                      |
+| Phase 3 | [Automate & Build](phases/phase3_automate_build.md)       | Custom Gems, Workspace Studio automation, Gemini-powered Apps Script, capstone challenges  |
+| Phase 4 | _(in development)_                                        | AI Agents, multi-step autonomous workflows, system integrations, Gemini Enterprise licence |
+| Post    | [Post-Training Programme](phases/post_training_coe.md)    | Champions Network, Tip of the Week, BigQuery analytics                                     |
 
 ---
 

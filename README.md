@@ -35,14 +35,14 @@ It was created for Vopak's Asia & Middle East Business Unit and delivered across
 | **M1**  | GenAI Foundations                | Phase 1 | 15 min  | ✅ Opens any session                   |
 | **M2**  | The Flow Forward Vision          | Phase 1 | 10 min  | ✅ Always pair with M1                 |
 | **M3**  | Security & Zero Trust            | Phase 1 | 20 min  | ⚠️ Needs M1 · Must run before practice |
-| **M4**  | TCF Prompting Framework          | Phase 1 | 35 min  | ✅ **The most important module**       |
+| **M4**  | PTCF Prompting Framework         | Phase 1 | 60 min  | ✅ **The most important module**       |
 | **M5**  | Live Demo: The Difference        | Phase 1 | 15 min  | ⚠️ After M4 only                       |
 | **M6**  | Gemini in Workspace (Side Panel) | Phase 2 | 60 min  | ✅ Great standalone or local session   |
-| **M7**  | Gemini Web App                   | Phase 2 | 60 min  | ✅ Pair with M6 for half-day           |
-| **M8**  | Gemini on Mobile                 | Phase 2 | 20 min  | ✅ Add-on for operational/field staff  |
+| **M7**  | Gemini Web App                   | Phase 2 | 60 min  | ✅ Builds on M4 advanced techniques    |
+| **M8**  | Gemini on Mobile + Gemini Live   | Phase 2 | 30 min  | ✅ For all colleagues                  |
 | **M9**  | NotebookLM                       | Phase 2 | 60 min  | ✅ Ideal for Finance, SHEQ, HR, Legal  |
-| **M10** | Gems — Build Your AI Colleague   | Phase 3 | 120 min | ✅ Half-day Gems workshop              |
-| **M11** | Workspace Studio & Apps Script   | Phase 3 | 105 min | ✅ Afternoon automation session        |
+| **M10** | Gems — Build Your AI Colleague   | Phase 3 | 120 min | ⚠️ Requires M6–M9                      |
+| **M11** | Workspace Studio & Apps Script   | Phase 3 | 105 min | ⚠️ Requires M10                        |
 
 📄 **[Full Module Catalogue with all configurations →](docs/modules/module_catalogue.md)**
 
@@ -57,11 +57,11 @@ It was created for Vopak's Asia & Middle East Business Unit and delivered across
 ## 🗺️ The Three Phases
 
 ```
-Phase 1 (M1–M5)            Phase 2 (M6–M9)            Phase 3 (M10–M11)
-Foundation & Ethics   →    Core Tools Deep Dive   →   Automate & Build
-───────────────────         ────────────────────        ────────────────────
-60–90 min online            Half-day or Full-day        Full day or 2 halves
-or 2 hrs on-site            On-site workshop            On-site workshop
+Phase 1 (M1–M5)            Phase 2 (M6–M9)            Phase 3 (M10–M11)          Phase 4 (future)
+Foundation & Ethics   →    Core Tools Deep Dive   →   Automate & Build      →    Agents & Enterprise
+───────────────────         ────────────────────        ────────────────────        ────────────────────
+60–90 min online            Half-day or Full-day        Full day or 2 halves        Gemini Enterprise
+or 2 hrs on-site            On-site workshop            On-site workshop            licence required
 ```
 
 ---
@@ -70,13 +70,13 @@ or 2 hrs on-site            On-site workshop            On-site workshop
 
 > _"Welcome to the new way of working — safe, structured, and empowered by AI."_
 
-| Module | Topic                                                                                               | Time   |
-| :----- | :-------------------------------------------------------------------------------------------------- | :----- |
-| **M1** | GenAI Foundations — what AI is, where Gemini fits, what Vopak has access to _(Gemini Introductory)_ | 15 min |
-| **M2** | The Flow Forward Vision — why Vopak is investing, the real ROI numbers                              | 10 min |
-| **M3** | Security & Zero Trust — PII, hallucinations, data boundaries, legal limits                          | 20 min |
-| **M4** | TCF Prompting Framework — Persona + Task + Context + Format + live practice                         | 35 min |
-| **M5** | Live Demo — side-by-side proof that better prompts produce better results                           | 15 min |
+| Module | Topic                                                                                                                    | Time   |
+| :----- | :----------------------------------------------------------------------------------------------------------------------- | :----- |
+| **M1** | GenAI Foundations — what AI is, where Gemini fits, what Vopak has access to _(Gemini Introductory)_                      | 15 min |
+| **M2** | The Flow Forward Vision — why Vopak is investing, the real ROI numbers                                                   | 10 min |
+| **M3** | Security & Zero Trust — PII, hallucinations, data boundaries, legal limits                                               | 20 min |
+| **M4** | PTCF Prompting Framework — Persona + Task + Context + Format + advanced techniques (chain of thought, conditional logic) | 60 min |
+| **M5** | Live Demo — side-by-side proof that better prompts produce better results                                                | 15 min |
 
 📄 **[Full Phase 1 Curriculum →](docs/phases/phase1_foundation_ethics.md)**
 
@@ -86,12 +86,12 @@ or 2 hrs on-site            On-site workshop            On-site workshop
 
 > _"Turning Ask Gemini into your unstoppable daily co-pilot."_
 
-| Module | Tool                                                                         | Time   | Best solo session                |
-| :----- | :--------------------------------------------------------------------------- | :----- | :------------------------------- |
-| **M6** | Gemini in Workspace — the side panel across Gmail, Docs, Drive, Sheets       | 60 min | 90-min focused session           |
-| **M7** | Gemini Web App — file upload, comparison, web research, visual analysis      | 60 min | Pair with M6 for half-day        |
-| **M8** | Gemini on Mobile — voice to report, photo to table, for field/terminal staff | 20 min | Add-on to any session            |
-| **M9** | NotebookLM — grounded Q&A across 300 sources with citations, Audio Overviews | 60 min | 90-min for knowledge-heavy teams |
+| Module | Tool                                                                                                          | Time   | Best solo session                |
+| :----- | :------------------------------------------------------------------------------------------------------------ | :----- | :------------------------------- |
+| **M6** | Gemini in Workspace — the side panel across Gmail, Docs, Drive, Sheets                                        | 60 min | 90-min focused session           |
+| **M7** | Gemini Web App — file upload, comparison, web research, visual analysis                                       | 60 min | Pair with M6 for half-day        |
+| **M8** | Gemini on Mobile + Gemini Live — voice-to-output, photo-to-table, speed-prompting exercise for all colleagues | 30 min | Add-on to any session            |
+| **M9** | NotebookLM — grounded Q&A across 300 sources with citations, Audio Overviews                                  | 60 min | 90-min for knowledge-heavy teams |
 
 📄 **[Full Phase 2 Curriculum →](docs/phases/phase2_core_tools.md)**
 
@@ -101,14 +101,31 @@ or 2 hrs on-site            On-site workshop            On-site workshop
 
 > _"From user to creator — build AI colleagues, automate workflows, bridge the last mile."_
 
-| Module  | Topic                                                                        | Time    | What they get            |
-| :------ | :--------------------------------------------------------------------------- | :------ | :----------------------- |
-| **M10** | Gems — custom AI colleagues with persona, rules, and grounded knowledge      | 120 min | 2 working Gems           |
-| **M11** | Workspace Studio + Apps Script — no-code flows and Gemini-written automation | 105 min | 1 Studio flow + 1 Script |
+| Module  | Topic                                                                        | Time    | What they get                           |
+| :------ | :--------------------------------------------------------------------------- | :------ | :-------------------------------------- |
+| **M10** | Gems — custom AI colleagues with persona, rules, and grounded knowledge      | 120 min | 2 working Gems · Requires M6–M9         |
+| **M11** | Workspace Studio + Apps Script — no-code flows and Gemini-written automation | 105 min | 1 Studio flow + 1 Script · Requires M10 |
 
 > **M11 note:** Studio and Apps Script are combined — Studio handles 80% of automation needs, Apps Script bridges the rest. Gemini writes every line of code; participants just click Run.
 
 📄 **[Full Phase 3 Curriculum →](docs/phases/phase3_automate_build.md)**
+
+---
+
+## 🤖 Phase 4 — AI Agents & Gemini Enterprise _(coming soon)_
+
+> _"The next frontier: AI that doesn't wait to be asked."_
+
+Phase 4 is in development. Where Phase 3 automates a task, Phase 4 deploys **agents** — AI systems that reason, plan, and act across multiple steps autonomously, integrated into Vopak's business systems.
+
+| Area                | What's planned                                                                                                  |
+| :------------------ | :-------------------------------------------------------------------------------------------------------------- |
+| Multi-step agents   | Agents that execute sequences of actions across tools and systems without step-by-step human instruction        |
+| System integrations | Connections to Oracle, SAP, and Vopak's internal data infrastructure via Google's Agent Builder                 |
+| Gemini Enterprise   | Extended context, deeper grounding, and enterprise-grade agent capabilities beyond the current Business licence |
+| Who it's for        | Phase 3 graduates — colleagues who have built Gems and automations and are ready to go further                  |
+
+> **Licence note:** Phase 4 requires a **Gemini Enterprise** licence upgrade. The CoE will communicate this separately when Phase 4 is ready to run.
 
 ---
 
