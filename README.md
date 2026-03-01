@@ -151,12 +151,12 @@ Phase 4 is in development. Where Phase 3 automates a task, Phase 4 deploys **age
 
 ### Production Gems (Ready to Deploy)
 
-| Gem                              | What it does                                                    | Best for              |
-| :------------------------------- | :-------------------------------------------------------------- | :-------------------- |
-| **EB Minute Generator**          | Transforms raw notes into Executive Board minutes               | Finance, Leadership   |
-| **12M CFF Analyzer**             | Analyzes Cash Flow Forecasts, flags variances and naming errors | Treasury, Finance     |
-| **Bilingual Translator Persona** | Translates + maintains tone across English, Spanish, Dutch      | Comms, HR, Commercial |
-| **SHEQ Investigator**            | Structured incident root-cause analysis + recommended actions   | SHEQ, Operations      |
+| Gem                               | What it does                                                                                    | Best for               |
+| :-------------------------------- | :---------------------------------------------------------------------------------------------- | :--------------------- |
+| **Leadership Meeting Summariser** | Converts meeting notes into a structured leadership summary with decisions, actions, and owners | Operations, Leadership |
+| **12M CFF Analyzer**              | Analyzes Cash Flow Forecasts, flags variances and naming errors                                 | Treasury, Finance      |
+| **Bilingual Translator Persona**  | Translates + maintains tone across English, Spanish, Dutch                                      | Comms, HR, Commercial  |
+| **SHEQ Investigator**             | Structured incident root-cause analysis + recommended actions                                   | SHEQ, Operations       |
 
 📄 **[Production Gem Templates →](docs/gems/production_gem_templates.md)**
 
