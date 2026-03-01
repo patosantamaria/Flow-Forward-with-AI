@@ -10,7 +10,7 @@
 
 ## Block A: "CRAWL" - The Trust & The Hook (09:30 - 10:30)
 
-**Goal:** Establish psychological safety and master the TCF prompting framework.
+**Goal:** Establish psychological safety and master the PTCF prompting framework.
 
 ### 09:30 - 09:50 (20 min): Welcome & The "Service Safety" Demo
 
@@ -21,12 +21,12 @@
 - **Live Demo 2 (Visual):** Trainer opens Gemini on mobile, points camera at a complex server rack or a printed P&ID diagram (or a mock image on screen).
   - _Prompt:_ "Explain this diagram to me like I'm a junior consultant. Where is the potential failure point?"
 
-### 09:50 - 10:10 (20 min): The Mindset & TCF Framework
+### 09:50 - 10:10 (20 min): The Mindset & PTCF Framework
 
 - **Concept:** Treat AI as a "Junior Analyst", not a search engine.
 - **Activity:** The "Bad Briefing" Game.
   - _Trainer:_ "I need an email." (Audience asks: To who? About what?).
-  - _Result:_ The TCF Framework (Task, Context, Format).
+  - _Result:_ The PTCF Framework (Persona, Task, Context, Format).
 - **MyService Example:**
   - _Task:_ Draft a Service Notification.
   - _Context:_ P1 Incident, ATG Polling Failure, Europoort.

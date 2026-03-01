@@ -22,7 +22,7 @@ _Ensure these files are shared with all participants before 09:30._
 
 ### 🔹 09:30 - 10:30 | BLOCK A: CRAWL (The First Win)
 
-**Goal:** Build trust and master the TCF (Task, Context, Format) Framework.
+**Goal:** Build trust and master the PTCF (Persona, Task, Context, Format) Framework.
 
 #### **09:30 - 09:50 | Welcome & The "Service Safety" Demo**
 
@@ -32,11 +32,11 @@ _Ensure these files are shared with all participants before 09:30._
 - **Demo 2 (Visual):** Use Gemini on Mobile. Point at a complex diagram (or screen).
   - _Prompt:_ "Explain this process flow like I'm a junior consultant. Where does the data go?"
 
-#### **09:50 - 10:10 | The TCF Framework (Theory)**
+#### **09:50 - 10:10 | The PTCF Framework (Theory)**
 
 - **Concept:** "Garbage in, Garbage out."
 - **Bad Prompt:** "Write a reply to this ticket."
-- **Good Prompt (TCF):**
+- **Good Prompt (PTCF):**
   - **Task:** "Draft a Service Notification for the Portal."
   - **Context:** "P1 Incident. ATG Polling Down at Europoort. ETA 4 hours."
   - **Format:** "Professional, apologetic, bullet list of workarounds."
@@ -148,7 +148,7 @@ It is Friday, 16:30. The "Ticketmaster" queue just exploded with 50 new tickets.
 #### **15:30 - 16:00 | Show, Tell & Award**
 
 - Groups present their "Crisis Report".
-- Trainer awards the "AI Champion" title to the best TCF prompt or finding.
+- Trainer awards the "AI Champion" title to the best PTCF prompt or finding.
 
 ---
 

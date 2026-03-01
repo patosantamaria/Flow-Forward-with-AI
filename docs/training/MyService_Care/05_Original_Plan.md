@@ -38,13 +38,13 @@ _Goal: Establish psychological safety and master structure._
 2.  **Prompt:** "Analyze this text for strict PII or IP risks. act as a paranoid security officer."
 3.  **Outcome:** Understand that Gemini processes data _within_ the Vopak tenant and does not train on it.
 
-#### Module 1.2: The TCF Framework (Task, Context, Format)
+#### Module 1.2: The PTCF Framework (Persona, Task, Context, Format)
 
 **Scenario:** A "System Slow" ticket arrives.
-**Activity:** Transform a lazy prompt into a TCF Prompt.
+**Activity:** Transform a lazy prompt into a PTCF Prompt.
 
 - **Bad Prompt:** "Write a reply to this ticket."
-- **Good Prompt (TCF):**
+- **Good Prompt (PTCF):**
   - **Task:** "Draft a Service Notification for the Service Portal."
   - **Context:** "For MyService Operations at Europoort. ATG polling is down due to line failure. ETD 4 hours. P1 Incident."
   - **Format:** "Professional, apologetic but firm. Bulleted list of manual workarounds."
@@ -119,5 +119,5 @@ _Ready-to-use synthetic data for the training session._
 
 - **Observe:** Time to detect P1 risk (Goal: < 1 min via Sheets).
 - **Orient:** Time to diagnose Error 902 (Goal: < 2 mins via NotebookLM).
-- **Decide:** Time to choose escalation path (Goal: Instant via TCF).
+- **Decide:** Time to choose escalation path (Goal: Instant via PTCF).
 - **Act:** Time to draft email (Goal: < 30 secs via Gem).

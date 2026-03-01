@@ -81,7 +81,7 @@ Output Format:
 **Tone:** Exciting, Clear, Benefit-Focused.
 **Goal:** Announce new features to non-technical stakeholders (Terminal Managers).
 
-**Prompt Strategy (TCF):**
+**Prompt Strategy (PTCF):**
 
 ```text
 Task: Draft a formal Release Announcement for the "MyService Terminal User Group".

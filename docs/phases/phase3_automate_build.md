@@ -121,7 +121,7 @@
 
 - **Analogy:** Hiring a specialist vs. using a temp every day
 - The "Blank Page Problem" — most people stare at the prompt box not knowing where to start
-- Gems eliminate this by pre-loading **P**ersona + Task + Context + Format
+- Gems eliminate this by pre-loading **P**ersona + Persona + Task + Context + Format
 
 #### Live Comparison: With vs Without a Gem (10 min)
 
