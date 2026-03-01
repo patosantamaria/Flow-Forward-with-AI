@@ -315,25 +315,31 @@ A meta-Gem that writes System Instructions for other Gems.
 
 **What Studio Can and Can't Do:**
 
-| ✅ Studio CAN                     | ❌ Studio CAN'T (yet)                   |
-| :-------------------------------- | :-------------------------------------- |
-| Monitor and respond to emails     | Move files to Shared Drives             |
-| Generate documents from templates | Cross-reference data between two Sheets |
-| Summarize and classify content    | Run complex multi-step file operations  |
-| Route to Chat/Drive               | Execute custom data transformations     |
-| Connect third-party apps          | Bulk process files with custom logic    |
+> [!IMPORTANT]
+> **Studio is a personal tool.** Every flow runs under your own account. It can draft emails (not send them), send Chat notifications to **you only** (not to team Chat spaces), and save files to **your personal Drive folders** (not Shared Drives). This is intentional — it is a highly personal productivity assistant. **Apps Script is the solution for team-shared workflows.**
+
+| ✅ Studio CAN                                  | ❌ Studio CAN'T                                       |
+| :--------------------------------------------- | :---------------------------------------------------- |
+| Monitor your inbox and **draft** a reply       | Send emails or messages on your behalf                |
+| Send a Chat notification **to yourself**       | Send Chat messages to team spaces or other people     |
+| Summarize and classify content                 | Save to or read from **Shared Drives**                |
+| Save a doc or sheet to **your personal Drive** | Share documents with teammates automatically          |
+| Create flows triggered by your Calendar events | Cross-reference data between two separate Sheets      |
+| Run on a schedule (e.g., every Monday 8 AM)    | Bulk-process files or run custom data transformations |
 
 #### Live Demo: Email Triage Flow (10 min)
 
 1. Open [studio.workspace.google.com](https://studio.workspace.google.com)
 2. In **"Describe a task for Gemini"**, type:
-   > "When I receive an email from a customer with the word 'complaint' or 'urgent', draft a professional acknowledgment, classify it as High Priority, and send a summary to the team Chat space."
-3. Show the generated flow: Starter → Step 1 (classify) → Step 2 (draft) → Step 3 (Chat)
-4. Click **Test run** → show the result live
-5. Click **Turn on** → it now runs 24/7
+   > "When I receive an email with the word 'complaint' or 'urgent', classify it as High Priority, draft a professional acknowledgment reply, and send me a Chat notification with the sender name and subject."
+3. Show the generated flow: Starter (email arrives) → Step 1 (classify with Gemini) → Step 2 (create a draft reply) → Step 3 (Chat notification to you)
+4. Click **Test run** → show the draft in Gmail + the Chat notification to yourself
+5. Click **Turn on** → it now runs automatically for every matching email
 
-**Good:** "Notify me in Chat whenever I get an email from person@example.com"
-**Bad:** "Handle emails from person@example.com" ← too vague — Studio needs specifics
+> **Key clarification:** Studio creates a **Gmail draft**, not a sent email. You are always in control of when it goes out. The Chat notification goes to **your own Chat**, not a team space — it's your personal alert system.
+
+**Good:** "When I get an email from a customer, draft a reply and notify me in Chat"
+**Bad:** "Send a summary to the team Chat space" ← Studio cannot send to team spaces
 
 #### Sharing & Monitoring (5 min)
 
@@ -346,25 +352,29 @@ A meta-Gem that writes System Instructions for other Gems.
 Build a **"Weekly Report Summarizer"** together:
 
 1. In **"Describe a task for Gemini"**, type:
-   > "Every Monday at 8 AM, find all Google Docs in my 'Weekly Reports' folder modified in the last 7 days. Summarize each in 3 bullet points and send the combined summary to me via email."
+   > "Every Monday at 8 AM, find all Google Docs in my personal 'Weekly Reports' Drive folder modified in the last 7 days. Summarize each in 3 bullet points. Create a new Doc in my Drive with all summaries combined, and send me a Chat notification with a link."
 2. Review the Starter (Monday 8 AM) + Steps
-3. Show how Variables pass data (document title → email subject)
-4. Click **Test run** → verify output
-5. Add a Chat notification step, adjust the schedule
+3. Show how Variables pass data (document title → new doc title)
+4. Click **Test run** → verify the new Doc is created in your personal Drive + Chat notification to you
+5. Adjust the schedule if needed
 6. Click **Turn on** → runs automatically, every week, forever
+
+> **Important:** The summary Doc is saved to **your personal Drive** and the Chat notification goes to **you**. To share the result with the team, use Apps Script (M11B) to copy the file to a Shared Drive or send a team email.
 
 #### Practice: Solo Studio Flow (30 min)
 
-Build a flow that solves a **real problem you have**:
+Build a flow that solves a **real problem you have** — remember, all outputs go to **you personally**:
 
-| Flow Idea       | Starter                    | AI Step                 | Output                  |
-| :-------------- | :------------------------- | :---------------------- | :---------------------- |
-| Inbox Organizer | New email arrives          | Classify by category    | Label + summary to Chat |
-| Document Guard  | New file in Drive folder   | Review for completeness | Email report            |
-| Meeting Prep    | Calendar event in 1 hour   | Gather related docs     | Email briefing pack     |
-| Customer Pulse  | Email from specific domain | Sentiment analysis      | Log to Sheet            |
+| Flow Idea         | Starter                     | AI Step                      | Output (Personal)                     |
+| :---------------- | :-------------------------- | :--------------------------- | :------------------------------------ |
+| Inbox Classifier  | New email arrives           | Classify by urgency/category | Gmail draft reply + Chat alert to you |
+| Document Reviewer | New file in my Drive folder | Review for completeness      | Summary Doc saved to your Drive       |
+| Meeting Prep      | Calendar event in 1 hour    | Gather related docs          | Draft email briefing to yourself      |
+| Customer Watch    | Email from specific domain  | Sentiment analysis           | Save summary to a Sheet in your Drive |
 
-After building: Click **Share** → post the link in the workshop Chat space.
+> **💡 "How do I share this with my team?"** This is the most common question. The answer is: **Apps Script** (M11B). Studio automates _your_ personal workflow; Apps Script can push the result to a Shared Drive, send a team email, or update a shared Sheet. They are designed to work together.
+
+After building: Click **Share** → post the **flow template link** in the workshop Chat. Teammates can make their own personal copy of the flow.
 
 > **Facilitator tip:** If stuck, use the "Create with AI" method — describe in plain language and let Studio propose the flow.
 
