@@ -52,6 +52,9 @@ By tracking the ratio of Creator Events to Assistant Events, we can assess the m
 
 ## 3. Data Architecture Overview
 
+> [!WARNING]
+> The `Department` and `Standardized_Job_Title` columns used throughout this analysis were generated using Gemini AI to normalize raw, unstructured HR data from the source logs. While highly accurate for analytical grouping, these fields **may not 100% align with official Vopak HR records**. Do not use them for headcount reporting, compliance documentation, or any HR decision-making without cross-referencing against the official HR Master.
+
 This reporting suite is built on a Modern Data Stack using Google BigQuery. We do not report on raw logs directly; instead, we perform an **Enrichment Layer** to ensure accuracy.
 
 ### The Data Pipeline
@@ -141,6 +144,13 @@ _(See `coe_project/queries/action_leaderboard.sql` for full code)_
 
 _(See `coe_project/queries/skill_sophistication.sql` for full code)_
 
+### Query 8: Training Impact Correlation
+
+**Purpose:** Join the Participant Tracker (training roster) with Workspace Admin logs to measure the before/after adoption delta for trained users.
+**Strategy:** The core proof of training ROI. Compares each trained user's Gemini event volume 30 days pre-training vs. 30 days post-training. Also identifies Skill Expansion (new Action Types emerging post-training).
+
+_(See `coe_project/queries/training_impact.sql` for full code)_
+
 ### Query 9: Action Detail Log
 
 **Purpose:** Detailed breakdown of specific Gemini actions per user/day.
@@ -178,5 +188,4 @@ To keep dashboards fast and costs low, use Query 1 and Query 11 as daily increme
 
 ---
 
-**Note on Data Provenance:**
-The `Department` and `Standardized_Job_Title` columns used in this analysis were generated using **Gemini 3 Thinking** to normalize the raw, unstructured HR data found in the source logs. While highly accurate for analytical grouping, these fields should be treated as an analytical overlay and may not 100% align with official Vopak HR records.
+_Data provenance note moved to Section 3 — see WARNING callout above._

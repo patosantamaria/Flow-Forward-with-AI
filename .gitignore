@@ -3,6 +3,9 @@
 .env.local
 .env.*.local
 
+# Agent local config (project-specific values)
+.agent/config.local.md
+
 # Python (legacy)
 __pycache__/
 *.pyc
