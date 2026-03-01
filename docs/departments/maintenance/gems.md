@@ -1,6 +1,5 @@
 # Maintenance — Gem Ideas
 
-> **Track D: SUSTAIN** | Custom Gems for Maintenance teams.
 
 ---
 

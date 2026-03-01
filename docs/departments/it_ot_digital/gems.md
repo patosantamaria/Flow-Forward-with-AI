@@ -1,6 +1,5 @@
 # IT, OT & Digital — Gem Ideas
 
-> **Track E: ENABLE**
 
 ---
 

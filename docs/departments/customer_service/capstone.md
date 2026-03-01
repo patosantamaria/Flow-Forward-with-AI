@@ -1,6 +1,5 @@
 # Customer Service — "The Client Shield" (Phase 3 Capstone)
 
-> **Track A: GROW (variant)** | 75-minute capstone challenge
 
 ---
 
@@ -41,7 +40,7 @@ Create a customer onboarding checklist template that can be reused for future ne
 
 ## Cross-Department Check (at 60 min)
 
-> "Check with **Operations & SHEQ** (Track C) — they've identified new PPE requirements and a Vapor Treatment Surcharge. Update your FAQ and customer communication accordingly."
+> "Check with **Operations & SHEQ** — they've identified new PPE requirements and a Vapor Treatment Surcharge. Update your FAQ and customer communication accordingly."
 
 ---
 

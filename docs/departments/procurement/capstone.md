@@ -1,6 +1,5 @@
 # Procurement — "The Supply Chain Sprint" (Phase 3 Capstone)
 
-> **Track E: ENABLE** | 75-minute capstone challenge
 
 ---
 
@@ -28,7 +27,7 @@ The ApexChem HMD project requires emergency procurement: PTFE gaskets (6-8 week 
 
 ## Cross-Department Check (at 60 min)
 
-> "Get the final specifications from **Maintenance** (Track D) — they've identified the exact gasket types needed. Also confirm with **Finance** that the CAPEX approval path is clear."
+> "Get the final specifications from **Maintenance** — they've identified the exact gasket types needed. Also confirm with **Finance** that the CAPEX approval path is clear."
 
 ---
 

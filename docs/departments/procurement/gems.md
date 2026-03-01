@@ -1,6 +1,5 @@
 # Procurement — Gem Ideas
 
-> **Track E: ENABLE**
 
 ---
 

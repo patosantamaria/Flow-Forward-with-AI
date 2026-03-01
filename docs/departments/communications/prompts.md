@@ -1,6 +1,5 @@
 # Communications — Prompt Examples (Phase 2)
 
-> **Track E: ENABLE** | Use these prompts during the Phase 2 Guided Practice session.
 > 💡 Ground your prompts with precise Vopak terminology: [Vopak Glossary](../../training/vopak_glossary.md)
 
 ---

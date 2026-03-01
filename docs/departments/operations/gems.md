@@ -1,6 +1,5 @@
 # Operations — Gem Ideas
 
-> **Track C: IMPROVE** | Custom Gems for Operations teams.
 
 ---
 

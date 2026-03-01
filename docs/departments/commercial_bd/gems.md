@@ -1,6 +1,5 @@
 # Commercial & BD — Gem Ideas
 
-> **Track A: GROW** | Custom Gems designed for Commercial & BD teams.
 
 ---
 

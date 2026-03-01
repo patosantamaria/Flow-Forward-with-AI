@@ -1,6 +1,5 @@
 # IT, OT & Digital — "The Integration Blueprint" (Phase 3 Capstone)
 
-> **Track E: ENABLE** | 75-minute capstone challenge
 
 ---
 

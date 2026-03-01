@@ -1,6 +1,5 @@
 # Customer Service — Gem Ideas
 
-> **Track A: GROW (variant)** | Custom Gems for Customer Service teams.
 
 ---
 

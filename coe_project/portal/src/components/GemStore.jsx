@@ -41,16 +41,7 @@ const gems = [
     badge: '✅ Official · v1.4',
     badgeColor: 'bg-emerald-50 text-emerald-700',
   },
-  {
-    cat: ['official', 'comms'],
-    dept: 'Communications / Executive Support',
-    icon: 'event_note',
-    name: 'EB Minute Generator',
-    desc: `Paste meeting transcript or raw notes → get formal Executive Board Meeting Minutes in Vopak's corporate governance style. Structured output: header, approval of previous minutes, matters arising, strategic and financial items, safety review, next meeting date, and open action register. Never fabricates data — flags gaps as [TO BE CONFIRMED].`,
-    saves: '~2 hrs per board meeting',
-    badge: '✅ Official · v1.1',
-    badgeColor: 'bg-emerald-50 text-emerald-700',
-  },
+
   {
     cat: ['community', 'all'],
     dept: 'All departments',
@@ -69,7 +60,7 @@ const filters = [
   { id: 'ops', label: 'Operations' },
   { id: 'finance', label: 'Finance' },
   { id: 'sheq', label: 'SHEQ' },
-  { id: 'comms', label: 'Communications' },
+
   { id: 'community', label: 'Community' },
 ]
 

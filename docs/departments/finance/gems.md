@@ -1,6 +1,5 @@
 # Finance — Gem Ideas
 
-> **Track E: ENABLE**
 
 ---
 

@@ -1,6 +1,5 @@
 # Maintenance — "Root Cause Detective" (Phase 3 Capstone)
 
-> **Track D: SUSTAIN** | 75-minute capstone challenge
 
 ---
 
@@ -46,7 +45,7 @@ Draft a cost-benefit analysis comparing emergency Q3 procurement vs. a delayed Q
 
 ## Cross-Department Check (at 60 min)
 
-> "Walk over to **Commercial & BD** (Track A) and tell them to stop promising Q3 to ApexChem — the gasket lead time makes it mechanically impossible! Also coordinate with **Projects & Engineering** (Track B) on the budget impact of the steam tracing upgrade."
+> "Walk over to **Commercial & BD** and tell them to stop promising Q3 to ApexChem — the gasket lead time makes it mechanically impossible! Also coordinate with **Projects & Engineering** on the budget impact of the steam tracing upgrade."
 
 ---
 

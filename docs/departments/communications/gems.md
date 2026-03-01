@@ -1,6 +1,5 @@
 # Communications — Gem Ideas
 
-> **Track E: ENABLE**
 
 ---
 

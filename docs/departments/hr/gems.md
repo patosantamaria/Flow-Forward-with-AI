@@ -1,6 +1,5 @@
 # HR — Gem Ideas
 
-> **Track E: ENABLE**
 
 ---
 

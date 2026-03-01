@@ -1,6 +1,5 @@
 # HR — "Project Ascend" (Phase 3 Capstone)
 
-> **Track E: ENABLE** | 75-minute capstone challenge
 
 ---
 

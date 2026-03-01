@@ -1,6 +1,5 @@
 # SHEQ — "The Procedure Flow" (Phase 3 Capstone)
 
-> **Track C: IMPROVE (variant)** | 75-minute capstone challenge
 
 ---
 
@@ -46,7 +45,7 @@ Transform the toolbox script into a video training presentation.
 
 ## Cross-Department Check (at 60 min)
 
-> "You've identified a Vapor Treatment Surcharge. Walk over to **Commercial & BD** (Track A) and tell them to update the ApexChem quote! Also check with **Maintenance** (Track D) — the copper-alloy fittings on Bay 3 are incompatible with HMD."
+> "You've identified a Vapor Treatment Surcharge. Walk over to **Commercial & BD** and tell them to update the ApexChem quote! Also check with **Maintenance** — the copper-alloy fittings on Bay 3 are incompatible with HMD."
 
 ---
 

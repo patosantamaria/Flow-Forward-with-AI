@@ -1,6 +1,5 @@
 # Projects & Engineering — "The Risk Radar" (Phase 3 Capstone)
 
-> **Track B: ACCELERATE** | 75-minute capstone challenge
 
 ---
 
@@ -46,7 +45,7 @@ Create a video briefing for the terminal team explaining the project's impact on
 
 ## Cross-Department Check (at 60 min)
 
-> "You need CAPEX for new boilers and trace heating upgrades. Check with **Support Functions** (Track E) — Legal & Compliance need to add a VTU (Vapor Treatment Unit) to your budget submission. Also coordinate with **Maintenance** (Track D) on the gasket replacement timeline."
+> "You need CAPEX for new boilers and trace heating upgrades. Check with **Support Functions** — Legal & Compliance need to add a VTU (Vapor Treatment Unit) to your budget submission. Also coordinate with **Maintenance** on the gasket replacement timeline."
 
 ---
 

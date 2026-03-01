@@ -1,6 +1,5 @@
 # Commercial & BD — "Speed to Deal" (Phase 3 Capstone)
 
-> **Track A: GROW** | 75-minute capstone challenge
 
 ---
 
@@ -46,7 +45,7 @@ Create a 2-minute video briefing using Google Vids highlighting Vopak's unique s
 
 ## Cross-Department Check (at 60 min)
 
-> "Are you promising Q3 delivery to ApexChem? Walk over to **Maintenance** (Track D) — they have a gasket lead time issue that makes Q3 mechanically impossible. Also check with **Operations & SHEQ** (Track C) — they're rewriting the loading SOP and may add a Vapor Treatment Surcharge to your quote."
+> "Are you promising Q3 delivery to ApexChem? Walk over to **Maintenance** — they have a gasket lead time issue that makes Q3 mechanically impossible. Also check with **Operations & SHEQ** — they're rewriting the loading SOP and may add a Vapor Treatment Surcharge to your quote."
 
 ---
 

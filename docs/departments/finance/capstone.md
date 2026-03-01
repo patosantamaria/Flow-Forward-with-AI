@@ -1,6 +1,5 @@
 # Finance — "The Investment Radar" (Phase 3 Capstone)
 
-> **Track E: ENABLE** | 75-minute capstone challenge
 
 ---
 
@@ -8,7 +7,7 @@
 
 The CFO needs two concrete investment proposals for the AME region by end of day. The ApexChem HMD deal requires CAPEX for infrastructure upgrades (VTU, trace heating, gasket replacements), but the board wants to see this in the context of a broader regional growth strategy.
 
-Meanwhile, **Projects & Engineering** (Track B) just discovered the budget needs to be revised upward.
+Meanwhile, **Projects & Engineering** just discovered the budget needs to be revised upward.
 
 ---
 
@@ -30,7 +29,7 @@ Meanwhile, **Projects & Engineering** (Track B) just discovered the budget needs
 
 ## Cross-Department Check (at 60 min)
 
-> "Get the revised budget numbers from **Projects & Engineering** (Track B) — they've found additional CAPEX needs. Also check with **Audit** — the VTU procurement may need special approval."
+> "Get the revised budget numbers from **Projects & Engineering** — they've found additional CAPEX needs. Also check with **Audit** — the VTU procurement may need special approval."
 
 ---
 

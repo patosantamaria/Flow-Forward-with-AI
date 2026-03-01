@@ -1,6 +1,5 @@
 # Projects & Engineering — Gem Ideas
 
-> **Track B: ACCELERATE** | Custom Gems for Projects & Engineering teams.
 
 ---
 

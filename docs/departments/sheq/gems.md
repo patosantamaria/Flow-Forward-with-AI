@@ -1,6 +1,5 @@
 # SHEQ — Gem Ideas
 
-> **Track C: IMPROVE (variant)** | Custom Gems for SHEQ teams.
 
 ---
 

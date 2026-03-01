@@ -1,6 +1,5 @@
 # Operations — "Terminal Optimizer" (Phase 3 Capstone)
 
-> **Track C: IMPROVE** | 75-minute capstone challenge
 
 ---
 
@@ -40,7 +39,7 @@ Transform the toolbox script into a video training presentation.
 
 ## Cross-Department Check (at 60 min)
 
-> "Check with **SHEQ** — they're rewriting the loading SOP and have identified new PPE requirements. Also warn **Commercial & BD** (Track A) about the Vapor Treatment Surcharge impact on the ApexChem quote."
+> "Check with **SHEQ** — they're rewriting the loading SOP and have identified new PPE requirements. Also warn **Commercial & BD** about the Vapor Treatment Surcharge impact on the ApexChem quote."
 
 ---
 
