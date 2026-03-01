@@ -4,12 +4,13 @@
 
 ## Overview
 
-| Field                    | Detail                                                                                     |
-| :----------------------- | :----------------------------------------------------------------------------------------- |
-| **Duration**             | Half-Day (3.5 hours) to Full-Day (6 hours)                                                 |
-| **Format**               | On-site, hands-on workshop                                                                 |
-| **Prerequisites**        | Phase 1 (Foundation) completed                                                             |
-| **What they leave with** | Mastery of cross-app context memory and immediate time-savings in Docs/Drive/Gmail/Sheets. |
+| Field                    | Detail                                                                                                |
+| :----------------------- | :---------------------------------------------------------------------------------------------------- |
+| **Duration**             | Half-day (3.5 hrs) or Full-day (6 hrs) — see module configurations                                    |
+| **Format**               | On-site, hands-on workshop                                                                            |
+| **Prerequisites**        | Phase 1 (M1–M4 minimum) — participants must have the TCF framework before tool practice is meaningful |
+| **What they leave with** | Working knowledge of 4 tools: Gemini side panel, Gemini Web App, Gemini on Mobile, NotebookLM         |
+| **Modules**              | M6 (Gemini in Workspace) · M7 (Gemini Web App) · M8 (Mobile) · M9 (NotebookLM)                        |
 
 ### The 3 Core Tools
 
@@ -23,7 +24,9 @@
 
 ## Modular Delivery Options
 
-### Configuration A: Core Tools Half-Day (3.5 hours)
+### Configuration A: Full Day — M6 + M7 + M8 + M9 (Recommended when travelling internationally)
+
+> **Best for:** Patricio travelling internationally (amortizes travel time). Run M6 + M7 in the morning, M8 + M9 in the afternoon. All 4 modules in one session.
 
 | Time              | Block        | Activity                             |
 | :---------------- | :----------- | :----------------------------------- |
@@ -36,7 +39,9 @@
 | **11:30 – 12:00** | Module 3     | NotebookLM (Information Synthesis)   |
 | **12:00 – 12:30** | Demo & Close | Audio Overviews Demo & Next Steps    |
 
-### Configuration B: Core Tools Full-Day (6 hours)
+### Configuration B: Half-Day — Choose 2 Modules (Recommended for local/NL delivery)
+
+> **Best for:** On-site delivery in the Netherlands or by a local trainer. Easier to schedule, less intensive. Pick any 2 modules (e.g. M6 + M7) for a focused 2-hour session, or M6 + M7 + M9 for a 3-hour deep-dive. Save M8 as a 20-min add-on.
 
 _(Includes the half-day block above, plus dedicated departmental practice)_
 
@@ -49,7 +54,11 @@ _(Includes the half-day block above, plus dedicated departmental practice)_
 
 ---
 
-## 📘 Module 1: Gemini in Workspace — The Side Panel (30 min)
+## 🔷 M6 · Gemini in Workspace — The Side Panel (60 min)
+
+> **Standalone:** ✅ Yes · 60 min (30 min instruction + 30 min practice) · Requires M4
+> **Local delivery:** Run standalone as a focused 90-min session (include brief open/close)
+> **Deliverable:** Participants triage their inbox and draft a document from Drive using the side panel.
 
 **Facilitator Notes:**
 
@@ -87,7 +96,11 @@ _(Have employees break into their departments and execute specific prompts.)_
 
 ---
 
-## 📘 Module 2: The Gemini Web App (30 min)
+## 🔶 M7 · Gemini Web App — Heavy Lifting (60 min)
+
+> **Standalone:** ✅ Yes · 60 min (30 min instruction + 30 min practice) · Requires M4
+> **Local delivery:** Pair with M6 for a focused 2-hour tools half-day — ideal combination
+> **Deliverable:** Participants analyze a document, run a comparison, complete the Time Saved exercise.
 
 **Facilitator Notes:**
 
@@ -135,7 +148,11 @@ _(Have employees break into their departments and execute specific prompts.)_
 
 ---
 
-## 📱 Gemini on Mobile — The Terminal Worker's Gateway (15 min)
+## 📱 M8 · Gemini on Mobile (20 min)
+
+> **Standalone:** ✅ Yes · 20 min · Requires M4 · Best as an add-on, not a standalone session
+> **Local delivery:** 20-min add-on at the end of M6 or M7 when field/terminal staff are in the room
+> **Deliverable:** Participants convert a whiteboard photo or voice memo into structured data on their phone.
 
 > This section is specifically designed for colleagues who work on terminals, in the field, or away from a desk.
 
@@ -164,7 +181,11 @@ _(Have employees break into their departments and execute specific prompts.)_
 
 ---
 
-## 📚 Module 3: NotebookLM — Your Team's Brain (30 min)
+## 📚 M9 · NotebookLM — Your Team's Brain (60 min)
+
+> **Standalone:** ✅ Yes · 60 min (30 min instruction + 30 min practice) · Requires M4
+> **Local delivery:** Excellent standalone 90-min session for knowledge-heavy departments (Finance, SHEQ, HR, Legal)
+> **Deliverable:** Participants create their first team notebook and get source-cited answers from department documents.
 
 **Facilitator Notes:**
 

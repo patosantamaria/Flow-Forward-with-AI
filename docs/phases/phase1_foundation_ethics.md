@@ -52,7 +52,10 @@ This baseline session is modular to fit different company rhythms.
 
 ---
 
-## 🤖 Module 0: GenAI Foundations — What Is This Thing? (15 min)
+## 🤖 M1 · GenAI Foundations — What Is This Thing? (15 min)
+
+> **Standalone:** ✅ Yes · 15 min · No prerequisites · Can open any session
+> **Deliverable:** Shared vocabulary — everyone understands what kind of engine is under the hood.
 
 > **Reference:** This module is based on the first 15 minutes of the **"Gemini Introductory"** internal training developed by Patricio Santamaria. Unlike the rest of Phase 1, this section does not focus on any specific features — it builds the conceptual foundation every participant needs before the rest of training makes sense.
 >
@@ -135,7 +138,10 @@ This is fundamentally different from using AI tools on personal accounts. Always
 
 ---
 
-## 📘 Module 1: The "Flow Forward" Vision (10 min)
+## 📘 M2 · The Flow Forward Vision (10 min)
+
+> **Standalone:** ✅ Yes · 10 min · No prerequisites · Always pair with M1
+> **Deliverable:** The "why" — a personally relevant reason to invest time in this.
 
 **Facilitator Notes:**
 
@@ -191,7 +197,10 @@ The organization provides the license and the training; the employee provides th
 
 ---
 
-## 🛡️ Module 2: Security & Guardrails (15 min)
+## 🛡️ M3 · Security & Guardrails (15 min)
+
+> **Standalone:** ⚠️ Needs M1 for context · 20 min (incl. brief Q&A) · **Always run before any practice**
+> **Deliverable:** Clear rules of engagement — what they can and must never do with AI at Vopak.
 
 > [!CAUTION]
 > This is the most critical section of Phase 1. Employees must understand that Gemini is a powerful tool, but they are absolutely accountable for the output.
@@ -216,7 +225,10 @@ The organization provides the license and the training; the employee provides th
 
 ---
 
-## 🧠 Module 3: The TCF Prompting Framework (20 min)
+## 🧠 M4 · The TCF Prompting Framework (35 min incl. practice)
+
+> **Standalone:** ✅ Yes · 35 min · Requires M3 (security guardrails first) · **The single most important module in the programme**
+> **Deliverable:** A universal prompting formula participants can apply the moment they get back to their desk.
 
 **Facilitator Notes:**
 
@@ -233,7 +245,10 @@ The organization provides the license and the training; the employee provides th
 
 ---
 
-## 💻 Module 4: Live Demo — The Difference (10 min)
+## 💻 M5 · Live Demo: The Difference (15 min)
+
+> **Standalone:** ⚠️ Only meaningful after M4 · 15 min
+> **Deliverable:** Direct visual proof that better prompts produce dramatically better results.
 
 **Facilitator Action:** Screen share Gemini in Google Workspace (the "Ask Gemini" side panel) or Gemini Web App.
 

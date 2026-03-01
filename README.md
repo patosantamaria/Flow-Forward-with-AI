@@ -1,7 +1,7 @@
 # 🌊 Flow Forward with AI
 
-> **An AI Empowerment Programme for the Modern Workforce**
-> Built at Vopak AME BU. Designed to be reused by any team, department, or business unit worldwide.
+> **An AI Empowerment Programme for Every Team**
+> Built at Vopak AME BU. Designed to be reused by any department, business unit, or location worldwide.
 
 <div align="center">
 
@@ -9,6 +9,7 @@
 [![Participants Trained](https://img.shields.io/badge/Participants%20Trained-67-blue?style=flat-square)](docs/admin/participant_tracker.md)
 [![Sessions Delivered](https://img.shields.io/badge/Sessions%20Delivered-9-blue?style=flat-square)](docs/admin/participant_tracker.md)
 [![Departments](https://img.shields.io/badge/Departments-12-orange?style=flat-square)](docs/departments/)
+[![Modules](https://img.shields.io/badge/Modules-M1--M11-purple?style=flat-square)](docs/modules/module_catalogue.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-lightgrey?style=flat-square)]()
 
 </div>
@@ -17,133 +18,128 @@
 
 ## What Is This?
 
-**Flow Forward with AI** is a practical, hands-on AI empowerment programme that moves people from _"I've heard of Gemini"_ to _"I build AI workflows that run while I sleep"_ — in three phases.
+**Flow Forward with AI** is a practical, hands-on AI empowerment programme that moves people from _"I've heard of Gemini"_ to _"I build AI workflows that run while I sleep"_ — in three phases, eleven modules.
 
-It was created for Vopak's Asia & Middle East Business Unit and delivered across 9 sessions to 67 participants spanning Finance, Engineering, Operations, HR, IT, Customer Service, and Treasury. The curriculum has since been repackaged as a **fully reusable framework** for any Vopak BU or department worldwide.
+It was created for Vopak's Asia & Middle East Business Unit and delivered across 9 sessions to 67 participants spanning Finance, Engineering, Operations, HR, IT and more. The curriculum has since been repackaged as a **fully reusable framework** for any Vopak BU or department worldwide.
 
-**Philosophy:** No theory. No slides full of definitions. Real demos using real Vopak data, real department problems, and tools people already have on their desks.
+**Philosophy:** No slides full of definitions. Real demos using real Vopak data, real department problems, tools people already have on their desks.
 
 ---
 
-## 🗺️ The Three-Phase Programme
+## 🧩 Modular Architecture
+
+> **Everything is a module.** Each of the 11 modules is self-contained, with its own objective, practice, and clear deliverable. **Pick any combination** to build a session that fits your time and audience.
+
+| #       | Module                           | Phase   | Time    | Standalone?                            |
+| :------ | :------------------------------- | :------ | :------ | :------------------------------------- |
+| **M1**  | GenAI Foundations                | Phase 1 | 15 min  | ✅ Opens any session                   |
+| **M2**  | The Flow Forward Vision          | Phase 1 | 10 min  | ✅ Always pair with M1                 |
+| **M3**  | Security & Zero Trust            | Phase 1 | 20 min  | ⚠️ Needs M1 · Must run before practice |
+| **M4**  | TCF Prompting Framework          | Phase 1 | 35 min  | ✅ **The most important module**       |
+| **M5**  | Live Demo: The Difference        | Phase 1 | 15 min  | ⚠️ After M4 only                       |
+| **M6**  | Gemini in Workspace (Side Panel) | Phase 2 | 60 min  | ✅ Great standalone or local session   |
+| **M7**  | Gemini Web App                   | Phase 2 | 60 min  | ✅ Pair with M6 for half-day           |
+| **M8**  | Gemini on Mobile                 | Phase 2 | 20 min  | ✅ Add-on for operational/field staff  |
+| **M9**  | NotebookLM                       | Phase 2 | 60 min  | ✅ Ideal for Finance, SHEQ, HR, Legal  |
+| **M10** | Gems — Build Your AI Colleague   | Phase 3 | 120 min | ✅ Half-day Gems workshop              |
+| **M11** | Workspace Studio & Apps Script   | Phase 3 | 105 min | ✅ Afternoon automation session        |
+
+📄 **[Full Module Catalogue with all configurations →](docs/modules/module_catalogue.md)**
+
+### Delivery Context
+
+> **Travelling internationally?** Run full days — it amortizes the travel time. Combine M1–M9 on Day 1, M10+M11 on Day 2.
+>
+> **Delivering locally in the Netherlands?** Half-day sessions are better — easier to schedule, less intensive for everyone. Run 2–3 modules per session spread across different weeks.
+
+---
+
+## 🗺️ The Three Phases
 
 ```
-Phase 1                    Phase 2                    Phase 3
+Phase 1 (M1–M5)            Phase 2 (M6–M9)            Phase 3 (M10–M11)
 Foundation & Ethics   →    Core Tools Deep Dive   →   Automate & Build
-───────────────────        ────────────────────        ────────────────────
-60–90 min                  Half-day or Full-day        Full day
-Remote / Online            On-site Workshop            On-site Workshop
+───────────────────         ────────────────────        ────────────────────
+60–90 min online            Half-day or Full-day        Full day or 2 halves
+or 2 hrs on-site            On-site workshop            On-site workshop
 ```
 
 ---
 
-## 📘 Phase 1 — Foundation & Ethics
+## 📘 Phase 1 — Foundation & Ethics (M1–M5)
 
 > _"Welcome to the new way of working — safe, structured, and empowered by AI."_
 
-**Duration:** 75–90 minutes | **Format:** Remote webinar or townhall | **Prerequisites:** None
-
-What participants leave with: a clear mental model of what AI is, Vopak's security guardrails, and the TCF prompting framework.
-
-### What's Covered
-
-| Module       | Topic                                                                       | Time   |
-| :----------- | :-------------------------------------------------------------------------- | :----- |
-| **Module 0** | GenAI Foundations — what AI is, where Gemini fits, what Vopak has access to | 15 min |
-| **Module 1** | The Flow Forward Vision — why Vopak is investing, the real ROI numbers      | 10 min |
-| **Module 2** | Security & Guardrails — Zero Trust, PII, hallucinations, legal limits       | 15 min |
-| **Module 3** | The TCF Prompting Framework — Persona + Task + Context + Format             | 20 min |
-| **Module 4** | Live Demo — the difference between a bad prompt and a great one             | 10 min |
-| Practice     | Live TCF exercise with the audience                                         | 10 min |
+| Module | Topic                                                                                               | Time   |
+| :----- | :-------------------------------------------------------------------------------------------------- | :----- |
+| **M1** | GenAI Foundations — what AI is, where Gemini fits, what Vopak has access to _(Gemini Introductory)_ | 15 min |
+| **M2** | The Flow Forward Vision — why Vopak is investing, the real ROI numbers                              | 10 min |
+| **M3** | Security & Zero Trust — PII, hallucinations, data boundaries, legal limits                          | 20 min |
+| **M4** | TCF Prompting Framework — Persona + Task + Context + Format + live practice                         | 35 min |
+| **M5** | Live Demo — side-by-side proof that better prompts produce better results                           | 15 min |
 
 📄 **[Full Phase 1 Curriculum →](docs/phases/phase1_foundation_ethics.md)**
 
 ---
 
-## 🔨 Phase 2 — Core Tools Deep Dive
+## 🔨 Phase 2 — Core Tools Deep Dive (M6–M9)
 
 > _"Turning Ask Gemini into your unstoppable daily co-pilot."_
 
-**Duration:** Half-day (3.5 hrs) or Full-day (6 hrs) | **Format:** On-site workshop | **Prerequisites:** Phase 1
-
-What participants leave with: mastery of the Gemini side panel, Gemini Web App, and NotebookLM — with real department-specific practice.
-
-### The Three Tools
-
-| Tool                    | What it is                                                               | Best for                |
-| :---------------------- | :----------------------------------------------------------------------- | :---------------------- |
-| **Gemini in Workspace** | The side panel — travels across Docs, Gmail, Sheets, Drive               | Daily drafting & triage |
-| **Gemini Web App**      | Standalone chat for heavy lifting — file uploads, complex reasoning      | Analysis & comparison   |
-| **NotebookLM**          | Grounded workspace — only reads the docs you give it, never hallucinates | Knowledge management    |
+| Module | Tool                                                                         | Time   | Best solo session                |
+| :----- | :--------------------------------------------------------------------------- | :----- | :------------------------------- |
+| **M6** | Gemini in Workspace — the side panel across Gmail, Docs, Drive, Sheets       | 60 min | 90-min focused session           |
+| **M7** | Gemini Web App — file upload, comparison, web research, visual analysis      | 60 min | Pair with M6 for half-day        |
+| **M8** | Gemini on Mobile — voice to report, photo to table, for field/terminal staff | 20 min | Add-on to any session            |
+| **M9** | NotebookLM — grounded Q&A across 300 sources with citations, Audio Overviews | 60 min | 90-min for knowledge-heavy teams |
 
 📄 **[Full Phase 2 Curriculum →](docs/phases/phase2_core_tools.md)**
 
 ---
 
-## ⚙️ Phase 3 — Automate & Build
+## ⚙️ Phase 3 — Automate & Build (M10–M11)
 
-> _"From user to creator — build AI colleagues, automate workflows, and bridge the last mile."_
+> _"From user to creator — build AI colleagues, automate workflows, bridge the last mile."_
 
-**Duration:** Full day (7 hours) | **Format:** On-site workshop | **Prerequisites:** Phases 1 + 2
+| Module  | Topic                                                                        | Time    | What they get            |
+| :------ | :--------------------------------------------------------------------------- | :------ | :----------------------- |
+| **M10** | Gems — custom AI colleagues with persona, rules, and grounded knowledge      | 120 min | 2 working Gems           |
+| **M11** | Workspace Studio + Apps Script — no-code flows and Gemini-written automation | 105 min | 1 Studio flow + 1 Script |
 
-What participants leave with: 2 working Gems, 1 Workspace Studio automation flow, and a Gemini-written Apps Script.
-
-### The New Full-Day Structure
-
-| Time        | Block                                     | What Happens                                   |
-| :---------- | :---------------------------------------- | :--------------------------------------------- |
-| 09:00–10:30 | Gems — Module 1 + Practice                | Demo gallery, guided build                     |
-| 10:45–12:00 | Gems — Module 2 + Practice                | Advanced grounding, solo department Gem        |
-| 12:00–12:15 | **Gem Showcase**                          | 3 volunteers demo before lunch                 |
-| 12:15–13:15 | 🍽️ Lunch                                  | People leave energized                         |
-| 13:15–14:45 | Workspace Studio — Module 3 + 2 Practices | Full demo + guided + solo flow                 |
-| 15:00–15:45 | Apps Script Bonus ✨                      | Gemini writes the code, you click Run — 45 min |
-| 15:45–16:30 | Show & Tell + Close                       | Pitches, survey, next steps                    |
-
-### The Three Building Blocks
-
-| Block                   | What it is                                                        | Analogy                                                       |
-| :---------------------- | :---------------------------------------------------------------- | :------------------------------------------------------------ |
-| **🔷 Gems**             | Custom AI colleagues — pre-loaded with role, rules, and knowledge | Hiring a specialist vs. briefing a temp every day             |
-| **🔶 Workspace Studio** | No-code flows — describe what you want, Studio runs it            | A smart assistant that follows your instructions on autopilot |
-| **🔧 Apps Script**      | The bridge — Gemini writes the code, you click Run                | You describe the problem. Gemini is the mechanic.             |
+> **M11 note:** Studio and Apps Script are combined — Studio handles 80% of automation needs, Apps Script bridges the rest. Gemini writes every line of code; participants just click Run.
 
 📄 **[Full Phase 3 Curriculum →](docs/phases/phase3_automate_build.md)**
 
 ---
 
-## 🏆 Capstone Challenges
+## 🏆 Capstone Challenges (Phase 3)
 
-Phase 3 includes **9 departmental challenge scenarios** ranging from beginner to advanced. Each requires all three building blocks (Gem + Studio Flow + Apps Script) working together.
+9 departmental scenarios requiring all three building blocks (Gem + Studio Flow + Script):
 
-| Challenge                                          | Department Focus                | Difficulty |
-| :------------------------------------------------- | :------------------------------ | :--------- |
-| **A: The Report Pipeline**                         | All departments                 | ⭐⭐       |
-| **B: The Inbox Triage Machine**                    | Commercial, CS                  | ⭐⭐       |
-| **C: The Document Quality Gate**                   | Audit, Legal, HR                | ⭐⭐       |
-| **D: The Shift Handover Autopilot**                | Operations (Terminal)           | ⭐⭐       |
-| **E: The Safety Alert System**                     | SHEQ, Operations                | ⭐⭐       |
-| **F: Project Phoenix — Commercial Liability Trap** | Commercial/Legal/Engineering    | ⭐⭐⭐     |
-| **G: The Durban CAPEX Engine**                     | Projects & Engineering, Finance | ⭐⭐⭐     |
-| **H: The Data Exfiltration Response**              | IT, Audit, SHEQ, Legal          | ⭐⭐⭐     |
-| **I: Knowledge Organizer**                         | All departments                 | ⭐⭐       |
-
-📄 **[All Capstone Scenarios → Phase 3 Curriculum](docs/phases/phase3_automate_build.md#departmental-challenge-options-optional-extension)**
+| Challenge                       | Focus                           | Level  |
+| :------------------------------ | :------------------------------ | :----- |
+| A: The Report Pipeline          | All departments                 | ⭐⭐   |
+| B: The Inbox Triage Machine     | Commercial, Customer Service    | ⭐⭐   |
+| C: The Document Quality Gate    | Audit, Legal, HR                | ⭐⭐   |
+| D: The Shift Handover Autopilot | Operations (Terminal)           | ⭐⭐   |
+| E: The Safety Alert System      | SHEQ, Operations                | ⭐⭐   |
+| F: Commercial Liability Trap    | Commercial/Legal/Engineering    | ⭐⭐⭐ |
+| G: The CAPEX Engine             | Projects & Engineering, Finance | ⭐⭐⭐ |
+| H: Data Exfiltration Response   | IT, Audit, SHEQ, Legal          | ⭐⭐⭐ |
+| I: Knowledge Organizer          | All departments                 | ⭐⭐   |
 
 ---
 
 ## 🤖 Custom Gems
 
-### Production Gems (Ready to Use)
+### Production Gems (Ready to Deploy)
 
-Four fully-written Gem templates ready to deploy in any Vopak workshop:
-
-| Gem                              | What it does                                                         | Best for              |
-| :------------------------------- | :------------------------------------------------------------------- | :-------------------- |
-| **EB Minute Generator**          | Transforms raw meeting notes into structured Executive Board minutes | Finance, Leadership   |
-| **12M CFF Analyzer**             | Analyzes Cash Flow Forecast files, flags variances and naming errors | Treasury, Finance     |
-| **Bilingual Translator Persona** | Translates and maintains tone across English, Spanish, and Dutch     | Comms, HR, Commercial |
-| **SHEQ Investigator**            | Structured incident root-cause analysis and recommended actions      | SHEQ, Operations      |
+| Gem                              | What it does                                                    | Best for              |
+| :------------------------------- | :-------------------------------------------------------------- | :-------------------- |
+| **EB Minute Generator**          | Transforms raw notes into Executive Board minutes               | Finance, Leadership   |
+| **12M CFF Analyzer**             | Analyzes Cash Flow Forecasts, flags variances and naming errors | Treasury, Finance     |
+| **Bilingual Translator Persona** | Translates + maintains tone across English, Spanish, Dutch      | Comms, HR, Commercial |
+| **SHEQ Investigator**            | Structured incident root-cause analysis + recommended actions   | SHEQ, Operations      |
 
 📄 **[Production Gem Templates →](docs/gems/production_gem_templates.md)**
 
@@ -158,49 +154,50 @@ Four fully-written Gem templates ready to deploy in any Vopak workshop:
 
 ---
 
-## 🏢 Department Tracks
+## 🏢 Department Content
 
-12 departments. Each with its own prompt library, capstone challenge, and Gem examples — all grounded in real Vopak operational scenarios.
+12 departments. Each with a dedicated prompt library, capstone challenge, and Gem examples — grounded in real Vopak operational scenarios.
 
-| Track              | Code         | Departments                                                                                                                                                                                                                                                    |
-| :----------------- | :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **A — Grow**       | `GROW`       | [Commercial & BD](docs/departments/commercial_bd/) · [Customer Service](docs/departments/customer_service/)                                                                                                                                                    |
-| **B — Accelerate** | `ACCELERATE` | [Projects & Engineering](docs/departments/projects_engineering/)                                                                                                                                                                                               |
-| **C — Improve**    | `IMPROVE`    | [Operations](docs/departments/operations/) · [SHEQ](docs/departments/sheq/)                                                                                                                                                                                    |
-| **D — Sustain**    | `SUSTAIN`    | [Maintenance](docs/departments/maintenance/)                                                                                                                                                                                                                   |
-| **E — Enable**     | `ENABLE`     | [HR](docs/departments/hr/) · [Finance](docs/departments/finance/) · [Communications](docs/departments/communications/) · [Audit](docs/departments/audit/) · [Procurement](docs/departments/procurement/) · [IT, OT & Digital](docs/departments/it_ot_digital/) |
+| Department                                                       | Prompts                                                     | Capstone                                                      | Gems                                                  |
+| :--------------------------------------------------------------- | :---------------------------------------------------------- | :------------------------------------------------------------ | :---------------------------------------------------- |
+| [Commercial & BD](docs/departments/commercial_bd/)               | [prompts](docs/departments/commercial_bd/prompts.md)        | [capstone](docs/departments/commercial_bd/capstone.md)        | [gems](docs/departments/commercial_bd/gems.md)        |
+| [Customer Service](docs/departments/customer_service/)           | [prompts](docs/departments/customer_service/prompts.md)     | [capstone](docs/departments/customer_service/capstone.md)     | [gems](docs/departments/customer_service/gems.md)     |
+| [Finance](docs/departments/finance/)                             | [prompts](docs/departments/finance/prompts.md)              | [capstone](docs/departments/finance/capstone.md)              | [gems](docs/departments/finance/gems.md)              |
+| [HR](docs/departments/hr/)                                       | [prompts](docs/departments/hr/prompts.md)                   | [capstone](docs/departments/hr/capstone.md)                   | [gems](docs/departments/hr/gems.md)                   |
+| [Operations](docs/departments/operations/)                       | [prompts](docs/departments/operations/prompts.md)           | [capstone](docs/departments/operations/capstone.md)           | [gems](docs/departments/operations/gems.md)           |
+| [Projects & Engineering](docs/departments/projects_engineering/) | [prompts](docs/departments/projects_engineering/prompts.md) | [capstone](docs/departments/projects_engineering/capstone.md) | [gems](docs/departments/projects_engineering/gems.md) |
+| [SHEQ](docs/departments/sheq/)                                   | [prompts](docs/departments/sheq/prompts.md)                 | [capstone](docs/departments/sheq/capstone.md)                 | [gems](docs/departments/sheq/gems.md)                 |
+| [Maintenance](docs/departments/maintenance/)                     | [prompts](docs/departments/maintenance/prompts.md)          | [capstone](docs/departments/maintenance/capstone.md)          | [gems](docs/departments/maintenance/gems.md)          |
+| [IT, OT & Digital](docs/departments/it_ot_digital/)              | [prompts](docs/departments/it_ot_digital/prompts.md)        | [capstone](docs/departments/it_ot_digital/capstone.md)        | [gems](docs/departments/it_ot_digital/gems.md)        |
+| [Procurement](docs/departments/procurement/)                     | [prompts](docs/departments/procurement/prompts.md)          | [capstone](docs/departments/procurement/capstone.md)          | [gems](docs/departments/procurement/gems.md)          |
+| [Audit](docs/departments/audit/)                                 | [prompts](docs/departments/audit/prompts.md)                | [capstone](docs/departments/audit/capstone.md)                | [gems](docs/departments/audit/gems.md)                |
+| [Communications](docs/departments/communications/)               | [prompts](docs/departments/communications/prompts.md)       | [capstone](docs/departments/communications/capstone.md)       | [gems](docs/departments/communications/gems.md)       |
 
-Each department folder contains:
-
-- `prompts.md` — Phase 2 prompt library (real Vopak scenarios, graded by difficulty)
-- `capstone.md` — Phase 3 capstone challenge specific to the department
-- `gems.md` — Gem templates tailored to department tasks
-
-📄 **[Facilitator Track Guide →](docs/departments/_track_guide.md)** | 📖 **[Vopak Glossary →](docs/training/vopak_glossary.md)**
+📄 **[Facilitator Department Guide →](docs/departments/_track_guide.md)** | 📖 **[Vopak Glossary →](docs/training/vopak_glossary.md)**
 
 ---
 
 ## 🛡️ Zero Trust & Security
 
-Every module in this programme is built around Vopak's **Zero Trust AI principles**:
+Every module in this programme is built around Vopak's Zero Trust AI principles:
 
-- ❌ Never input PII, passwords, or API keys
-- ✅ Vopak's Enterprise Gemini license — data never trains the public model
-- ✅ AI output must always be verified before use in any official workflow
+- ❌ Never input PII, passwords, or API keys into Gemini
+- ✅ Vopak's Enterprise Gemini licence — data never trains the public model
+- ✅ All AI output must be verified before use in any official workflow
 - ✅ High-stakes decisions (contracts, safety procedures, financial approvals) require human expert sign-off
 
 ---
 
 ## 📊 Strategy & Analytics
 
-The programme is backed by a BigQuery analytics layer that correlates workshop attendance with real Workspace usage data to measure **Skill Expansion** — not just total users.
+The programme is backed by BigQuery analytics correlating workshop attendance with real Workspace usage data to measure **Skill Expansion** — not just total users.
 
 | Metric                  | What it measures                                                             |
 | :---------------------- | :--------------------------------------------------------------------------- |
-| **Action Volume Delta** | Gemini interactions 30 days before vs. 30 days after training                |
+| **Action Volume Delta** | Gemini activity 30 days before vs. 30 days after training                    |
 | **Skill Expansion**     | New action types triggered post-training (e.g. Sheets + NotebookLM + Studio) |
-| **Dropout Detector**    | Users who attended but stopped using AI by week 4 — flagged for follow-up    |
-| **TotW Correlation**    | Usage spike after each "Tip of the Week" communication                       |
+| **Dropout Detector**    | Users who attended but stopped using AI by week 4                            |
+| **TotW Correlation**    | Usage spike correlation with Tip of the Week comms                           |
 
 📄 **[Strategy & Analytics →](docs/STRATEGY_AND_ANALYTICS.md)**
 
@@ -208,15 +205,13 @@ The programme is backed by a BigQuery analytics layer that correlates workshop a
 
 ## 🔁 Post-Training: Center of Excellence
 
-What keeps adoption alive after the training day ends.
-
-| Pillar                      | What it is                                                                      |
-| :-------------------------- | :------------------------------------------------------------------------------ |
-| **🏢 CoE Portal**           | Central library of approved Gems, templates, and recordings                     |
-| **💡 Tip of the Week**      | Weekly micro-learning email/video on one feature — combats the forgetting curve |
-| **🏆 AI Champions Network** | Power users embedded in departments who build and share advanced workflows      |
-| **📊 ROI Measurement**      | BigQuery + Looker Studio dashboard showing real adoption and impact             |
-| **📱 Terminal Quick Start** | QR code posters + 5-day micro-training for shift workers with no desk time      |
+| Pillar                      | What it is                                                                 |
+| :-------------------------- | :------------------------------------------------------------------------- |
+| **🏢 CoE Portal**           | Central library of approved Gems, templates, and recordings                |
+| **💡 Tip of the Week**      | Weekly micro-learning email/video — combats the forgetting curve           |
+| **🏆 AI Champions Network** | Power users embedded in departments, building and sharing workflows        |
+| **📊 ROI Dashboard**        | BigQuery + Looker Studio — real adoption and impact measurement            |
+| **📱 Terminal Quick Start** | QR code posters + 5-day micro-training for shift workers without desk time |
 
 📄 **[Post-Training Programme →](docs/phases/post_training_coe.md)**
 
@@ -224,26 +219,18 @@ What keeps adoption alive after the training day ends.
 
 ## 🗂️ Admin & Governance
 
-| Document                                                       | Description                                                      |
-| :------------------------------------------------------------- | :--------------------------------------------------------------- |
-| [Project Charter](docs/admin/project_charter.md)               | Programme mandate, phases, scope, success metrics                |
-| [Participant Tracker](docs/admin/participant_tracker.md)       | 67 trained participants with job title, location, country, phase |
-| [Workshop Schedule](docs/admin/workshop_schedule.md)           | Facilitator session timeline                                     |
-| [Slides Outline](docs/admin/slides_outline.md)                 | Master slide deck structure                                      |
-| [Baseline Survey](docs/admin/baseline_survey.md)               | Pre-training survey (Google Forms)                               |
-| [Feedback Survey](docs/admin/feedback_survey.md)               | Post-workshop feedback form (18 questions)                       |
-| [Phase 1 Check-in Survey](docs/admin/phase1_checkin_survey.md) | Mid-programme check-in                                           |
-| [Invitation Email](docs/admin/invitation_email.md)             | Programme launch email template                                  |
-| [Thank You Email](docs/admin/thank_you_email.md)               | Post-workshop communication                                      |
-| [Toolkit Registry](docs/toolkit_registry.md)                   | Master list of all programme assets and their status             |
-
----
-
-## 📁 Specialized Training Plans
-
-| Team                          | Plan                                                | Lead            | Timing         |
-| :---------------------------- | :-------------------------------------------------- | :-------------- | :------------- |
-| **Global Tax (Rotterdam HQ)** | [Tax Team Training Plan](docs/tax_training_plan.md) | Shirley Terhaar | April–May 2026 |
+| Document                                                       | Description                                                        |
+| :------------------------------------------------------------- | :----------------------------------------------------------------- |
+| [Project Charter](docs/admin/project_charter.md)               | Programme mandate, phases, scope, success metrics                  |
+| [Participant Tracker](docs/admin/participant_tracker.md)       | 67 trained participants — job title, department, country, location |
+| [Workshop Schedule](docs/admin/workshop_schedule.md)           | Facilitator session timeline                                       |
+| [Slides Outline](docs/admin/slides_outline.md)                 | Master slide deck structure                                        |
+| [Baseline Survey](docs/admin/baseline_survey.md)               | Pre-training survey (Google Forms)                                 |
+| [Feedback Survey](docs/admin/feedback_survey.md)               | Post-workshop feedback form                                        |
+| [Phase 1 Check-in Survey](docs/admin/phase1_checkin_survey.md) | Mid-programme check-in                                             |
+| [Invitation Email](docs/admin/invitation_email.md)             | Programme launch email template                                    |
+| [Thank You Email](docs/admin/thank_you_email.md)               | Post-workshop communication                                        |
+| [Toolkit Registry](docs/toolkit_registry.md)                   | Master list of all programme assets                                |
 
 ---
 
@@ -259,15 +246,12 @@ What keeps adoption alive after the training day ends.
 
 ## 🚀 Quick Start for Facilitators
 
-**Running this for a new department? Start here:**
-
 1. Read the [Project Charter](docs/admin/project_charter.md) to understand the programme scope
-2. Pick the department track from the [Department Folders](docs/departments/) above
-3. Confirm IT readiness (Workspace Studio requires Business/Enterprise licence)
-4. Check the [Facilitator Track Guide](docs/departments/_track_guide.md) for multi-department session logistics
+2. Review the [Module Catalogue](docs/modules/module_catalogue.md) — pick the modules that fit your session length
+3. Pick the relevant [Department Content](docs/departments/) for your audience
+4. Confirm IT readiness (Workspace Studio requires Business/Enterprise licence) before Phase 3
 5. Send the [Invitation Email](docs/admin/invitation_email.md) at least 1 week before
-6. Run [Phase 1](docs/phases/phase1_foundation_ethics.md) → [Phase 2](docs/phases/phase2_core_tools.md) → [Phase 3](docs/phases/phase3_automate_build.md)
-7. Deploy the [Post-Training Programme](docs/phases/post_training_coe.md) the week after
+6. Run your modules → collect feedback → pass standout participants to the AI Champions Network
 
 ---
 
