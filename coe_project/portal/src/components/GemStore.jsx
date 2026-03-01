@@ -1,12 +1,66 @@
 import { useState } from 'react'
 
 const gems = [
-  { cat: ['official','ops'], dept: '✅ Official · Operations', version: 'v1.2', icon: 'sync_alt', name: 'Shift Handover Summarizer', desc: 'Paste raw shift notes → get a structured brief with Key Events, Safety, Equipment Status, Active PtWs, and Pending Maintenance in 90 seconds.', saves: '25 min/shift' },
-  { cat: ['official','finance'], dept: '✅ Official · Finance', version: 'v2.0', icon: 'account_balance', name: 'CFF Reconciliation Analyzer', desc: 'Upload two Cash Flow Forecasts → get a line-by-line comparison with naming inconsistencies, formatting errors, and variances flagged.', saves: '2 hrs/month-end' },
-  { cat: ['official','sheq'], dept: '✅ Official · SHEQ', version: 'v1.0', icon: 'health_and_safety', name: 'SHEQ Incident Investigator', desc: 'Run 5-Why and Bow-Tie analyses on incident reports. Classifies Tier 1/2/3 per Vopak URS and drafts the IN10 brief description format.', saves: '1.5 hrs/investigation' },
-  { cat: ['official','all'], dept: '✅ Official · All Departments', version: 'v1.4', icon: 'translate', name: 'Bilingual Translator', desc: 'Translate any Vopak document or email between Dutch, English, Spanish, and Portuguese. Preserves SHEQ terminology and Vopak tone.', saves: '15 min/doc' },
-  { cat: ['community','ops'], dept: 'Community · Operations', version: null, icon: 'construction', name: 'Toolbox Talk Generator', desc: 'Paste a procedure or incident report → get a ready-to-run 2-minute supervisor briefing script with key safety points and discussion questions.', saves: '20 min/briefing' },
-  { cat: ['community','all'], dept: 'Community · All Departments', version: null, icon: 'event_note', name: 'Meeting Summary Machine', desc: 'Paste raw meeting notes → structured output: Meeting Purpose, Key Decisions, Action Items table (Owner | Action | Deadline), Open Questions.', saves: null, star: true },
+  {
+    cat: ['official', 'ops'],
+    dept: 'Operations',
+    icon: 'sync_alt',
+    name: 'Shift Handover Summarizer',
+    desc: `Paste your raw shift notes — field shorthand, bullet points, whatever you wrote during the shift — and get a structured Shift Handover Report in 90 seconds. Sections: Safety & Incidents, Equipment Status, Active Permits to Work, and Pending Maintenance. Every shift. Consistent every time.`,
+    saves: '~25 min per shift',
+    badge: '✅ Official · v1.2',
+    badgeColor: 'bg-emerald-50 text-emerald-700',
+  },
+  {
+    cat: ['official', 'finance'],
+    dept: 'Finance / Treasury',
+    icon: 'account_balance',
+    name: '12-Month CFF Analyzer',
+    desc: `Upload two Cash Flow Forecast files — from Oracle, SharePoint, or email — and get a line-by-line comparison table: naming inconsistencies, formatting errors, variance above 5%, covenant impact assessment, and a prioritised action list. What used to take days takes minutes.`,
+    saves: '~2 hrs per month-end',
+    badge: '✅ Official · v2.0',
+    badgeColor: 'bg-emerald-50 text-emerald-700',
+  },
+  {
+    cat: ['official', 'sheq'],
+    dept: 'SHEQ',
+    icon: 'health_and_safety',
+    name: 'SHEQ Incident Investigator',
+    desc: `Paste raw witness statements and field notes from an incident or near-miss. Get a fully structured report: IN10 brief description, IN11 detailed narrative, Tier classification (1/2/3), HiPo assessment, 5-Why root cause analysis, immediate corrective actions, and a link to the Vopak Fundamental breached. Vopak URS-compliant.`,
+    saves: '~1.5 hrs per investigation',
+    badge: '✅ Official · v1.0',
+    badgeColor: 'bg-emerald-50 text-emerald-700',
+  },
+  {
+    cat: ['official', 'all'],
+    dept: 'All departments',
+    icon: 'translate',
+    name: 'Bilingual Translator',
+    desc: `Translate any Vopak document or communication between Dutch, English, Spanish, and Portuguese — while preserving Vopak-specific terminology, IUPAC chemical names, safety acronyms, and brand terms that must never be translated. Includes a Translator's Notes section flagging any ambiguous phrases or terms left untranslated by design.`,
+    saves: '~15 min per document',
+    badge: '✅ Official · v1.4',
+    badgeColor: 'bg-emerald-50 text-emerald-700',
+  },
+  {
+    cat: ['official', 'comms'],
+    dept: 'Communications / Executive Support',
+    icon: 'event_note',
+    name: 'EB Minute Generator',
+    desc: `Paste meeting transcript or raw notes → get formal Executive Board Meeting Minutes in Vopak's corporate governance style. Structured output: header, approval of previous minutes, matters arising, strategic and financial items, safety review, next meeting date, and open action register. Never fabricates data — flags gaps as [TO BE CONFIRMED].`,
+    saves: '~2 hrs per board meeting',
+    badge: '✅ Official · v1.1',
+    badgeColor: 'bg-emerald-50 text-emerald-700',
+  },
+  {
+    cat: ['community', 'all'],
+    dept: 'All departments',
+    icon: 'event_available',
+    name: 'Meeting Summary Machine',
+    desc: `Paste any meeting notes and get a clean, structured summary: Meeting Purpose, Key Decisions, Action Items table (Owner | Action | Deadline), and Open Questions. Works for any team, any format of notes. The most-used community Gem in the store.`,
+    saves: null,
+    badge: '⭐ Community favourite',
+    badgeColor: 'bg-amber-50 text-amber-700',
+  },
 ]
 
 const filters = [
@@ -15,6 +69,7 @@ const filters = [
   { id: 'ops', label: 'Operations' },
   { id: 'finance', label: 'Finance' },
   { id: 'sheq', label: 'SHEQ' },
+  { id: 'comms', label: 'Communications' },
   { id: 'community', label: 'Community' },
 ]
 
@@ -25,11 +80,16 @@ export default function GemStore() {
   return (
     <section id="gems" className="py-20 bg-slate-50 border-t border-slate-200">
       <div className="max-w-7xl mx-auto px-6">
-        <span className="text-xs font-bold uppercase tracking-widest text-primary bg-navy-deep px-3 py-1 rounded mb-4 inline-block">Gem Store</span>
+        <span className="text-xs font-bold uppercase tracking-widest text-primary bg-navy-deep px-3 py-1 rounded mb-5 inline-block">Gem store</span>
         <h2 className="text-3xl font-black text-navy-deep mb-2">Ready-to-use AI colleagues</h2>
-        <p className="text-slate-500 mb-8">Copy any Gem with one click. Official Gems are reviewed and governed by the CoE. Submit your own via the intake form.</p>
+        <p className="text-slate-500 mb-2 max-w-2xl">
+          A Gem is a Gemini conversation pre-loaded with a specialist role, a set of rules, and knowledge about your context.
+          Copy the instructions with one click and create it in Gemini in under a minute.
+        </p>
+        <p className="text-sm text-slate-400 italic mb-8">
+          Official Gems are reviewed and maintained by the CoE. Community Gems are shared by colleagues — always verify output before use.
+        </p>
 
-        {/* Filter pills */}
         <div className="flex flex-wrap gap-2 mb-8">
           {filters.map(f => (
             <button key={f.id} onClick={() => setActive(f.id)}
@@ -42,25 +102,27 @@ export default function GemStore() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {visible.map(g => (
             <div key={g.name} className="bg-white p-6 rounded-2xl shadow-sm border border-slate-100 flex flex-col hover:shadow-md hover:-translate-y-0.5 transition-all">
-              <div className="flex items-start justify-between mb-4">
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary shrink-0">
-                    <span className="material-symbols-outlined">{g.icon}</span>
-                  </div>
-                  <div>
-                    <div className="text-[10px] font-bold text-slate-400 uppercase tracking-widest leading-none">{g.dept}</div>
-                    <h6 className="font-bold text-navy-deep text-base leading-tight">{g.name}</h6>
-                  </div>
+              <div className="flex items-start gap-3 mb-4">
+                <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary shrink-0">
+                  <span className="material-symbols-outlined">{g.icon}</span>
                 </div>
-                {g.version && <span className="text-[10px] bg-primary/10 text-navy-deep px-2 py-1 rounded font-bold shrink-0 ml-2">{g.version}</span>}
+                <div>
+                  <div className="text-[10px] font-bold text-slate-400 uppercase tracking-widest leading-none mb-1">{g.dept}</div>
+                  <h6 className="font-bold text-navy-deep text-base leading-tight">{g.name}</h6>
+                </div>
               </div>
-              <p className="text-slate-500 text-sm flex-1 mb-5">{g.desc}</p>
+              <p className="text-slate-600 text-sm flex-1 mb-5 leading-relaxed">{g.desc}</p>
               <div className="flex items-center justify-between pt-4 border-t border-slate-100">
-                <div className="flex items-center gap-1 text-emerald-600 font-bold text-xs bg-emerald-50 px-2 py-1 rounded">
-                  <span className="material-symbols-outlined text-xs">schedule</span>
-                  {g.star ? 'Community favourite ⭐' : `Saves ${g.saves}`}
+                <div className="flex flex-col gap-1">
+                  <span className={`text-[10px] px-2 py-1 rounded font-bold self-start ${g.badgeColor}`}>{g.badge}</span>
+                  {g.saves && (
+                    <span className="flex items-center gap-1 text-emerald-600 font-bold text-xs">
+                      <span className="material-symbols-outlined text-xs">schedule</span>
+                      Saves {g.saves}
+                    </span>
+                  )}
                 </div>
-                <button className="bg-navy-deep hover:bg-vopak-cobalt text-white px-4 py-1.5 rounded-lg text-sm font-bold transition-colors flex items-center gap-1">
+                <button className="bg-navy-deep hover:bg-vopak-cobalt text-white px-4 py-2 rounded-lg text-sm font-bold transition-colors flex items-center gap-1">
                   Copy Gem
                   <span className="material-symbols-outlined text-sm">content_copy</span>
                 </button>
@@ -69,9 +131,13 @@ export default function GemStore() {
           ))}
         </div>
 
-        <div className="text-center mt-10">
-          <button className="bg-primary text-navy-deep px-7 py-3 rounded-lg font-bold hover:opacity-90 transition-opacity">
-            Submit a Gem to the Store →
+        <div className="mt-10 bg-white border border-slate-100 rounded-2xl p-8 flex flex-col md:flex-row items-center justify-between gap-6">
+          <div>
+            <h3 className="text-lg font-bold text-navy-deep mb-1">Have a Gem that saves your team time?</h3>
+            <p className="text-slate-500 text-sm">Submit it to the store. The CoE will review it and — if it passes — publish it for the whole organisation.</p>
+          </div>
+          <button className="bg-primary text-navy-deep px-7 py-3 rounded-lg font-bold hover:opacity-90 transition-opacity shrink-0">
+            Submit a Gem →
           </button>
         </div>
       </div>
