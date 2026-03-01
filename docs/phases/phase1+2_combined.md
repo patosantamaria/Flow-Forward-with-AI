@@ -17,34 +17,38 @@
 
 ## Full-Day Combined Schedule
 
-| Time              | Duration | Block         | Activity                                                        |
-| :---------------- | :------- | :------------ | :-------------------------------------------------------------- |
-| **09:00 – 09:10** | 10 min   | 🟢 Opening    | Welcome, housekeeping, programme overview                       |
-| **09:10 – 09:25** | 15 min   | 📘 Module 0   | GenAI Foundations — what is AI, what is Gemini, what do we have |
-| **09:25 – 09:35** | 10 min   | 📘 Module 1   | The Flow Forward Vision — why Vopak is investing in this        |
-| **09:35 – 09:50** | 15 min   | 📘 Module 2   | Security & Guardrails (Zero Trust)                              |
-| **09:50 – 10:10** | 20 min   | 📘 Module 3   | The TCF Prompting Framework                                     |
-| **10:10 – 10:25** | 15 min   | 📘 Module 4   | Live Demo — The Difference (bad vs TCF prompt)                  |
-| **10:25 – 10:40** | 15 min   | 🔨 Practice   | Live TCF Exercise (audience submits prompts live)               |
-| **10:40 – 10:55** | 15 min   | ☕            | Morning Break                                                   |
-| **10:55 – 11:25** | 30 min   | 📘 Module 5   | Gemini in Workspace — The Side Panel                            |
-| **11:25 – 11:55** | 30 min   | 🔨 Practice   | Guided Practice: Inbox & Docs Triage (department-specific)      |
-| **11:55 – 12:30** | 35 min   | 📘 Module 6   | Gemini Web App — Heavy Lifting (comparison, research, visual)   |
-| **12:30 – 13:30** | 60 min   | 🍽️            | Lunch Break                                                     |
-| **13:30 – 14:00** | 30 min   | 🔨 Practice   | Analyze & Compare + Time Saved exercise                         |
-| **14:00 – 14:15** | 15 min   | 📘 Module 7   | Gemini on Mobile — for field workers and terminal staff         |
-| **14:15 – 14:45** | 30 min   | 📘 Module 8   | NotebookLM — Your Team's Brain                                  |
-| **14:45 – 15:00** | 15 min   | ☕            | Afternoon Break                                                 |
-| **15:00 – 15:30** | 30 min   | 🔨 Practice   | NotebookLM: Upload, ask, Audio Overview demo                    |
-| **15:30 – 16:00** | 30 min   | 🏆 Group Work | Departmental Deep-Dive Challenge (team exercise)                |
-| **16:00 – 16:15** | 15 min   | 📢 Pitches    | 2-minute team demos — "What's your biggest AI win from today?"  |
-| **16:15 – 16:30** | 15 min   | 🎯 Closing    | Homework brief, survey QR code, Phase 3 preview                 |
+| Duration   | Block              | Activity                                                        |
+| :--------- | :----------------- | :-------------------------------------------------------------- |
+| 10 min     | 🟢 Opening         | Welcome, housekeeping, programme overview                       |
+| 15 min     | M1                 | GenAI Foundations — what is AI, what is Gemini, what do we have |
+| 10 min     | M2                 | The Flow Forward Vision — why Vopak is investing in this        |
+| 15 min     | M3                 | Security & Guardrails (Zero Trust)                              |
+| 20 min     | M4                 | The TCF Prompting Framework                                     |
+| 15 min     | M5                 | Live Demo — The Difference (bad vs TCF prompt)                  |
+| 15 min     | 🔨 Practice        | Live TCF Exercise (audience submits prompts live)               |
+| **→ 1h40** | _Morning Part 1_   | _Foundation complete_                                           |
+| 15 min     | ☕ Break           |                                                                 |
+| 30 min     | M6                 | Gemini in Workspace — The Side Panel                            |
+| 30 min     | 🔨 Practice        | Guided Practice: Inbox & Docs Triage (department-specific)      |
+| 35 min     | M7                 | Gemini Web App — Heavy Lifting (comparison, research, visual)   |
+| **→ 3h30** | _Morning Part 2_   | _Core Tools Part 1 complete_                                    |
+| 60 min     | 🍽️ Lunch           |                                                                 |
+| 30 min     | 🔨 Practice        | Analyze & Compare + Time Saved exercise                         |
+| 15 min     | M8                 | Gemini on Mobile — for field workers and terminal staff         |
+| 30 min     | M9                 | NotebookLM — Your Team's Brain                                  |
+| 15 min     | ☕ Break           |                                                                 |
+| 30 min     | 🔨 Practice        | NotebookLM: Upload, ask, Audio Overview demo                    |
+| **→ 5h50** | _Afternoon Part 1_ | _All tools covered_                                             |
+| 30 min     | 🏆 Group Work      | Departmental Deep-Dive Challenge (team exercise)                |
+| 15 min     | 📢 Pitches         | 2-minute team demos — "What's your biggest AI win from today?"  |
+| 15 min     | 🎯 Closing         | Homework brief, survey QR code, Phase 3 preview                 |
+| **→ 7h10** | ✅ _Total_         | _Full combined day complete_                                    |
 
 ### Time Breakdown
 
 | Category                    | Total Time    |
 | :-------------------------- | :------------ |
-| Instruction (Modules 0–8)   | 3h 00 min     |
+| Instruction (M1–M9)         | 3h 00 min     |
 | Practice & Group Work       | 2h 00 min     |
 | Breaks + Lunch              | 1h 30 min     |
 | Opening + Pitches + Closing | 40 min        |
@@ -56,30 +60,30 @@
 
 > **Ref:** Full content for these modules → [`phase1_foundation_ethics.md`](phase1_foundation_ethics.md)
 
-### 🤖 Module 0: GenAI Foundations (15 min)
+### 🤖 M1 · GenAI Foundations (15 min)
 
 A required foundation module based on the first 15 min of the **"Gemini Introductory"** internal training by Patricio Santamaria. Does not cover features — covers concepts.
 
 | Section | Content                                                                                    | Time  |
 | :------ | :----------------------------------------------------------------------------------------- | :---- |
-| 0.1     | What is AI — the progression from rule-based to Generative AI                              | 3 min |
-| 0.2     | What is Generative AI specifically — what it creates, how LLMs work                        | 3 min |
-| 0.3     | What is Gemini — and what does Vopak have access to (4 tools + Enterprise Data Protection) | 5 min |
-| 0.4     | What Gemini is good at and what it is not — the Smart Intern model                         | 4 min |
+| 1.1     | What is AI — the progression from rule-based to Generative AI                              | 3 min |
+| 1.2     | What is Generative AI specifically — what it creates, how LLMs work                        | 3 min |
+| 1.3     | What is Gemini — and what does Vopak have access to (4 tools + Enterprise Data Protection) | 5 min |
+| 1.4     | What Gemini is good at and what it is not — the Smart Intern model                         | 4 min |
 
-### 📘 Module 1: The Flow Forward Vision (10 min)
+### 📘 M2 · The Flow Forward Vision (10 min)
 
 - "Day in the Life" — real Vopak friction points (Operations shift handover, Treasury CFF reconciliation)
 - Your Career Superpower
 - Strategic context: Shifting Gears 2030, Project Ascend 292% ROI, EUR 604M FY2025 net profit
 
-### 🛡️ Module 2: Security & Guardrails (15 min)
+### 🛡️ M3 · Security & Guardrails (15 min)
 
 - Zero Trust: No PII, no secrets, Vopak data boundary
 - Limits: data cutoffs, hallucinations, financial/legal guard
 - Vopak AI Principles: Trustworthy, Collaborative, Courageous
 
-### 🧠 Module 3: TCF Prompting Framework (20 min)
+### 🧠 M4 · TCF Prompting Framework (20 min)
 
 **[Persona] + [Task] + [Context] + [Format]**
 
@@ -90,7 +94,7 @@ A required foundation module based on the first 15 min of the **"Gemini Introduc
 | **Context** | Background info or documents the AI needs | "We are dealing with a highly aggressive supplier"      |
 | **Format**  | How you want the output                   | "Present in a 3-column table"                           |
 
-### 💻 Module 4: Live Demo — The Difference (15 min)
+### 💻 M5 · Live Demo — The Difference (15 min)
 
 - **Bad prompt:** "Write an email about the new safety rule for tank 405" → generic, wrong tone
 - **TCF Master Prompt:** Same ask, structured → ready-to-send, accurate, authoritative
@@ -106,7 +110,7 @@ Each participant writes one TCF prompt for their real work. 3–4 volunteers sha
 
 > **Ref:** Full content for these modules → [`phase2_core_tools.md`](phase2_core_tools.md)
 
-### 🔷 Module 5: Gemini in Workspace — The Side Panel (30 min)
+### 🔷 M6 · Gemini in Workspace — The Side Panel (30 min)
 
 **The "Ask Gemini" side panel** — travels with you across Docs, Gmail, Sheets, and Drive.
 
@@ -121,7 +125,7 @@ Break into department groups. Each group runs 3 prompts from `docs/departments/<
 - 15 min group practice
 - 2 people share their "aha!" moment with the room
 
-### 🔶 Module 6: Gemini Web App — Heavy Lifting (35 min)
+### 🔶 M7 · Gemini Web App — Heavy Lifting (35 min)
 
 The standalone chat interface for analysis, comparison, and research:
 
@@ -134,7 +138,7 @@ The standalone chat interface for analysis, comparison, and research:
 1. Upload a real PDF or document from this week → apply a TCF prompt to extract what you need
 2. **"Time Saved" Table:** Each person fills in their top 3 repetitive tasks with time estimates. Facilitator reads totals aloud: "You just identified X hours/month you could get back."
 
-### 📱 Module 7: Gemini on Mobile (15 min)
+### 📱 M8 · Gemini on Mobile (15 min)
 
 For terminal workers, field staff, and anyone away from a desk:
 
@@ -144,7 +148,7 @@ For terminal workers, field staff, and anyone away from a desk:
 
 > **Live demo tip:** If the audience has phones, take a photo of the facilitator's whiteboard notes → show the Gemini result on the projector.
 
-### 📚 Module 8: NotebookLM — Your Team's Brain (30 min)
+### 📚 M9 · NotebookLM — Your Team's Brain (30 min)
 
 Position as **"Your Team's Brain"** — not just a policy vault, but a living knowledge base:
 

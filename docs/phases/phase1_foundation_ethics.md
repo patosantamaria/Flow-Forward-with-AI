@@ -27,26 +27,28 @@ This baseline session is modular to fit different company rhythms.
 
 ### Configuration A: The Full 90-Minute Interactive (Recommended)
 
-| Time              | Block    | Activity                                     |
-| :---------------- | :------- | :------------------------------------------- |
-| **00:00 – 00:15** | Module 0 | GenAI Foundations — What Is This Thing?      |
-| **00:15 – 00:25** | Module 1 | The "Flow Forward" Vision                    |
-| **00:25 – 00:40** | Module 2 | Security & Guardrails (Zero Trust)           |
-| **00:40 – 01:00** | Module 3 | The TCF Prompting Framework                  |
-| **01:00 – 01:15** | Module 4 | Live Demo: The Difference                    |
-| **01:15 – 01:25** | Practice | Live TCF Exercise (Audience submits prompts) |
-| **01:25 – 01:30** | Closing  | Homework & Next Steps                        |
+| Duration     | Block      | Activity                                     |
+| :----------- | :--------- | :------------------------------------------- |
+| 15 min       | M1         | GenAI Foundations — What Is This Thing?      |
+| 10 min       | M2         | The "Flow Forward" Vision                    |
+| 15 min       | M3         | Security & Guardrails (Zero Trust)           |
+| 20 min       | M4         | The TCF Prompting Framework                  |
+| 15 min       | M5         | Live Demo: The Difference                    |
+| 10 min       | Practice   | Live TCF Exercise (Audience submits prompts) |
+| 5 min        | Closing    | Homework & Next Steps                        |
+| **→ 90 min** | ✅ _Total_ | _Full interactive session_                   |
 
 ### Configuration B: The 60-Minute Executive Overview
 
-| Time              | Block    | Activity                                |
-| :---------------- | :------- | :-------------------------------------- |
-| **00:00 – 00:10** | Module 0 | GenAI Foundations — What Is This Thing? |
-| **00:10 – 00:18** | Module 1 | The "Flow Forward" Vision               |
-| **00:18 – 00:30** | Module 2 | Security & Guardrails                   |
-| **00:30 – 00:45** | Module 3 | The TCF Prompting Framework             |
-| **00:45 – 00:55** | Module 4 | Live Demo: The Difference               |
-| **00:55 – 01:00** | Closing  | Q&A & Next Steps                        |
+| Duration     | Block      | Activity                                |
+| :----------- | :--------- | :-------------------------------------- |
+| 10 min       | M1         | GenAI Foundations — What Is This Thing? |
+| 8 min        | M2         | The "Flow Forward" Vision               |
+| 12 min       | M3         | Security & Guardrails                   |
+| 15 min       | M4         | The TCF Prompting Framework             |
+| 10 min       | M5         | Live Demo: The Difference               |
+| 5 min        | Closing    | Q&A & Next Steps                        |
+| **→ 60 min** | ✅ _Total_ | _Executive Overview_                    |
 
 > **Facilitator note for Config B:** Budget the last 5 minutes for Q&A — a senior audience will always have questions. Cut Module 1 to 6 minutes if needed, not Module 2.
 
