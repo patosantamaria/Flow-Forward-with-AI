@@ -4,20 +4,20 @@
 
 ## Overview
 
-| Field                    | Detail                                                                                                                       |
-| :----------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
-| **Duration**             | 75 Minutes (Standard) to 90 Minutes (Extended Practice)                                                                      |
-| **Format**               | Remote/Online Webinar OR On-site Townhall                                                                                    |
-| **Prerequisites**        | None (This is the baseline program)                                                                                          |
-| **What they leave with** | Clear understanding of what AI is, clear boundaries on what is safe, and the TCF prompting framework to start experimenting. |
+| Field                    | Detail                                                                                                                                                                       |
+| :----------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Duration**             | 75 Minutes (Standard) to 90 Minutes (Extended Practice)                                                                                                                      |
+| **Format**               | Remote/Online Webinar OR On-site Townhall                                                                                                                                    |
+| **Prerequisites**        | None (This is the baseline program)                                                                                                                                          |
+| **What they leave with** | A clear understanding of what AI is, clear boundaries on what is safe, and the PTCF prompting formula — starting from TCF basics and unlocking Persona as the power upgrade. |
 
 ### The 3 Building Blocks
 
-| Block                    | What it is                                                                         | Analogy                                                               |
-| :----------------------- | :--------------------------------------------------------------------------------- | :-------------------------------------------------------------------- |
-| **🤖 GenAI Foundations** | What Generative AI is, where Gemini fits, and what Vopak has access to.            | Understanding what kind of engine is under the hood before you drive. |
-| **🛡️ Zero Trust**        | The non-negotiable security guardrails regarding PII, secrets, and hallucinations. | Wearing a seatbelt before starting the engine.                        |
-| **🧠 The TCF Framework** | Persona + Task + Context + Format — the universal translation layer for AI.        | Giving instructions to a smart intern instead of a Google search bar. |
+| Block                     | What it is                                                                                                               | Analogy                                                                                           |
+| :------------------------ | :----------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| **🤖 GenAI Foundations**  | What Generative AI is, where Gemini fits, and what Vopak has access to.                                                  | Understanding what kind of engine is under the hood before you drive.                             |
+| **🛡️ Zero Trust**         | The non-negotiable security guardrails regarding PII, secrets, and hallucinations.                                       | Wearing a seatbelt before starting the engine.                                                    |
+| **🧠 The PTCF Framework** | Task + Context + Format as the foundation — then Persona introduced as the upgrade via a live Vopak comparison exercise. | Giving instructions to a smart colleague, then telling them which audience they're presenting to. |
 
 ---
 
@@ -27,28 +27,27 @@ This baseline session is modular to fit different company rhythms.
 
 ### Configuration A: The Full 90-Minute Interactive (Recommended)
 
-| Duration     | Block      | Activity                                     |
-| :----------- | :--------- | :------------------------------------------- |
-| 15 min       | M1         | GenAI Foundations — What Is This Thing?      |
-| 10 min       | M2         | The "Flow Forward" Vision                    |
-| 15 min       | M3         | Security & Guardrails (Zero Trust)           |
-| 20 min       | M4         | The TCF Prompting Framework                  |
-| 15 min       | M5         | Live Demo: The Difference                    |
-| 10 min       | Practice   | Live TCF Exercise (Audience submits prompts) |
-| 5 min        | Closing    | Homework & Next Steps                        |
-| **→ 90 min** | ✅ _Total_ | _Full interactive session_                   |
+| Duration     | Block      | Activity                                                                  |
+| :----------- | :--------- | :------------------------------------------------------------------------ |
+| 15 min       | M1         | GenAI Foundations — What Is This Thing?                                   |
+| 10 min       | M2         | The "Flow Forward" Vision                                                 |
+| 15 min       | M3         | Security & Guardrails (Zero Trust)                                        |
+| 25 min       | M4         | The PTCF Prompting Framework (TCF → Persona reveal + comparison exercise) |
+| 15 min       | M5         | Live Demo: The Difference                                                 |
+| 5 min        | Closing    | Homework & Next Steps                                                     |
+| **→ 90 min** | ✅ _Total_ | _Full interactive session_                                                |
 
 ### Configuration B: The 60-Minute Executive Overview
 
-| Duration     | Block      | Activity                                |
-| :----------- | :--------- | :-------------------------------------- |
-| 10 min       | M1         | GenAI Foundations — What Is This Thing? |
-| 8 min        | M2         | The "Flow Forward" Vision               |
-| 12 min       | M3         | Security & Guardrails                   |
-| 15 min       | M4         | The TCF Prompting Framework             |
-| 10 min       | M5         | Live Demo: The Difference               |
-| 5 min        | Closing    | Q&A & Next Steps                        |
-| **→ 60 min** | ✅ _Total_ | _Executive Overview_                    |
+| Duration     | Block      | Activity                                               |
+| :----------- | :--------- | :----------------------------------------------------- |
+| 10 min       | M1         | GenAI Foundations — What Is This Thing?                |
+| 8 min        | M2         | The "Flow Forward" Vision                              |
+| 12 min       | M3         | Security & Guardrails                                  |
+| 20 min       | M4         | The PTCF Prompting Framework (focus on TCF foundation) |
+| 10 min       | M5         | Live Demo: The Difference                              |
+| 5 min        | Closing    | Q&A & Next Steps                                       |
+| **→ 60 min** | ✅ _Total_ | _Executive Overview_                                   |
 
 > **Facilitator note for Config B:** Budget the last 5 minutes for Q&A — a senior audience will always have questions. Cut Module 1 to 6 minutes if needed, not Module 2.
 
