@@ -12,17 +12,6 @@
 | **What they leave with** | 2 working Gems + 1 Workspace Studio automation flow + 1 Gemini-written Apps Script                       |
 | **Modules**              | M10 (Gems) + M11 (Workspace Studio & Apps Script)                                                        |
 
-> **⚠️ IT Readiness Check — Required 5 Business Days Before Training**
->
-> Confirm with IT admin that all participants have:
->
-> - [ ] `gemini.google.com` accessible (not blocked)
-> - [ ] **Google Workspace Business or Enterprise** licence (required for Workspace Studio)
-> - [ ] Access to at least one Shared Drive
-> - [ ] Google Apps Script is not organizationally blocked
->
-> If Workspace Studio access is unavailable for some participants, pair them with a colleague who has it. Notify participants 48 hours before the session.
-
 ---
 
 ## The Two Building Blocks
