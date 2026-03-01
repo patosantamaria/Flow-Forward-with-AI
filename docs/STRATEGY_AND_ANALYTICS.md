@@ -147,7 +147,7 @@ _(See `coe_project/queries/skill_sophistication.sql` for full code)_
 ### Query 8: Training Impact Correlation
 
 **Purpose:** Join the Participant Tracker (training roster) with Workspace Admin logs to measure the before/after adoption delta for trained users.
-**Strategy:** The core proof of training ROI. Compares each trained user's Gemini event volume 30 days pre-training vs. 30 days post-training. Also identifies Skill Expansion (new Action Types emerging post-training).
+**Strategy:** The core proof of training ROI. Compares each trained user's Gemini event volume pre-training vs. post-training. Also identifies **Module Mastery** (e.g. usage of M9-specific actions like NotebookLM Citations or M10 Gems sharing emerging post-workshop).
 
 _(See `coe_project/queries/training_impact.sql` for full code)_
 

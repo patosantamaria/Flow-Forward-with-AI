@@ -67,10 +67,10 @@ Training events create usage spikes. Micro-learning creates sustained habits.
 
 ### 2.2 Content Roadmap (Example)
 
-- **Week 1:** "The Perfect TCF Prompt" (Phase 1 recap)
-- **Week 2:** "Ask Gemini to summarize a 50-email thread" (Phase 2 recap)
-- **Week 3:** "Generating an Audio Overview in NotebookLM" (Phase 2 recap)
-- **Week 4:** "Setting up an inbox triage flow in Workspace Studio" (Phase 3 recap)
+- **Week 1:** "The Perfect TCF Prompt" (M4 recap)
+- **Week 2:** "Ask Gemini to summarize a 50-email thread" (M6 recap)
+- **Week 3:** "Generating an Audio Overview in NotebookLM" (M9 recap)
+- **Week 4:** "Setting up an inbox triage flow in Workspace Studio" (M11 recap)
 
 ### 2.3 The Feedback Loop
 
