@@ -224,7 +224,7 @@ The programme is backed by BigQuery analytics correlating workshop attendance wi
 | [Project Charter](docs/admin/project_charter.md)               | Programme mandate, phases, scope, success metrics                  |
 | [Participant Tracker](docs/admin/participant_tracker.md)       | 67 trained participants — job title, department, country, location |
 | [Workshop Schedule](docs/admin/workshop_schedule.md)           | Facilitator session timeline                                       |
-| [Slides Outline](docs/admin/slides_outline.md)                 | Master slide deck structure                                        |
+| [Module Slides Index](docs/modules/README.md)                  | Per-module slide outlines and curriculum (M1–M11)                  |
 | [Baseline Survey](docs/admin/baseline_survey.md)               | Pre-training survey (Google Forms)                                 |
 | [Feedback Survey](docs/admin/feedback_survey.md)               | Post-workshop feedback form                                        |
 | [Phase 1 Check-in Survey](docs/admin/phase1_checkin_survey.md) | Mid-programme check-in                                             |

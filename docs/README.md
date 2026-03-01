@@ -57,7 +57,7 @@ Each folder contains `prompts.md` (Phase 2), `capstone.md` (Phase 3), and `gems.
 | :-------------------------------------------------- | :----------------------------------------------------------------- |
 | [Project Charter](admin/project_charter.md)         | AME BU AI Empowerment Journey charter                              |
 | [Workshop Schedule](admin/workshop_schedule.md)     | Full-day trainer schedule breakdown                                |
-| [Slides Outline](admin/slides_outline.md)           | Master slide deck structure                                        |
+| [Module Slides Index](modules/README.md)            | Per-module slide outlines (M1–M11) with facilitator notes          |
 | [Baseline Survey](admin/baseline_survey.md)         | Pre-training survey (Google Forms)                                 |
 | [Feedback Survey](admin/feedback_survey.md)         | Post-training feedback form                                        |
 | [Invitation Email](admin/invitation_email.md)       | Program launch email template                                      |
