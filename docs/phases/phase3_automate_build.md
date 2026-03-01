@@ -29,7 +29,7 @@
 
 | Time              | Duration | Block       | Activity                                                |
 | :---------------- | :------- | :---------- | :------------------------------------------------------ |
-| **09:00 – 09:20** | 20 min   | 🟢 Opening  | Welcome, TCF Recap & Audience Check-In                  |
+| **09:00 – 09:20** | 20 min   | 🟢 Opening  | Welcome, PTCF Recap & Audience Check-In                  |
 | **09:20 – 10:00** | 40 min   | M10 Part A  | What is a Gem? Demo gallery (4 Gems)                    |
 | **10:00 – 10:30** | 30 min   | M10 Part A  | Practice: Build Your First Gem (guided)                 |
 | **10:30 – 10:45** | 15 min   | ☕          | Morning Break                                           |
@@ -60,7 +60,7 @@
 
 | Time          | Block      | Activity                     |
 | :------------ | :--------- | :--------------------------- |
-| 09:00 – 09:15 | Opening    | Welcome & TCF Recap          |
+| 09:00 – 09:15 | Opening    | Welcome & PTCF Recap          |
 | 09:15 – 09:55 | M10 Part A | What is a Gem + Demo Gallery |
 | 09:55 – 10:25 | M10 Part A | Practice: Build First Gem    |
 | 10:25 – 10:40 | ☕         | Break                        |
@@ -84,13 +84,13 @@
 
 ---
 
-## 🟢 Opening: Welcome, TCF Recap & Audience Check-In (20 min)
+## 🟢 Opening: Welcome, PTCF Recap & Audience Check-In (20 min)
 
 | Time  | Activity                                                                                                                                                               |
 | :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 3 min | Welcome, housekeeping, agenda overview                                                                                                                                 |
 | 2 min | **⚡ 2-Minute Quick Win:** "Open Gemini now. Type: _'List 5 ways AI could help someone in my role at Vopak.'_ 15 seconds — you already have ideas for today."          |
-| 5 min | **TCF Recap** — quick refresher. Emphasize **P (Persona)** as today's foundation: "The Persona is what turns a Gem from a generic chatbot into YOUR expert colleague." |
+| 5 min | **PTCF Recap** — quick refresher. Emphasize **P (Persona)** as today's foundation: "The Persona is what turns a Gem from a generic chatbot into YOUR expert colleague." |
 | 5 min | **Audience Check-In:** "Who's used Gemini since Phase 2? What worked? What didn't?" Capture 3–4 examples.                                                              |
 | 5 min | **Today's promise:** "In Phase 2 you learned to _use_ AI. Today you _build_ AI — colleagues that never stop, and flows that run while you sleep."                      |
 
@@ -99,7 +99,7 @@
 ## 🔷 Module 10: Gems — Build Your AI Colleague
 
 > **Standalone module:** 120 min net content (incl. practice) · Can run as a half-day workshop
-> **Prerequisites:** M4 (TCF Framework)
+> **Prerequisites:** M4 (PTCF Framework)
 > **What they leave with:** 2 working Gems — 1 guided, 1 department-specific
 
 ### M10 Part A: What is a Gem? (70 min = 40 min instruction + 30 min practice)
@@ -269,7 +269,7 @@ A meta-Gem that writes System Instructions for other Gems.
 ## 🔶 Module 11: Workspace Studio & Apps Script
 
 > **Standalone module:** 105 min net content (incl. practice) · Can run as afternoon workshop
-> **Prerequisites:** M4 (TCF Framework); M10 (Gems) recommended
+> **Prerequisites:** M4 (PTCF Framework); M10 (Gems) recommended
 > **What they leave with:** 1 Studio flow running on autopilot + 1 Gemini-written Apps Script
 
 ---
