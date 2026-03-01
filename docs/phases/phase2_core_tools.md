@@ -119,6 +119,8 @@ _(Have employees break into their departments and execute specific prompts.)_
 
 > **Facilitator note:** Use Vopak's FY2025 data and name a specific competitor relevant to your BU (Oiltanking for Europe/Americas, then Petrosea or similar for AME). Do not leave the competitor vague — it produces inconsistent demo results.
 
+> **⚠️ Commercial — CRM & SalesForce Safety:** When using the Web App for sales analysis or pipeline review, ensure SalesForce data (customer names, deal values, opportunity stages) is **never pasted directly into Gemini Web App** unless the session is explicitly confirmed as Enterprise-licensed. Export aggregate summaries, anonymized data, or use the `@Google Drive` connector for documents already inside the Vopak security boundary.
+
 ### 2.3 Visual Analysis
 
 - **Demo:** Upload a photo of a terminal loading bay or tank farm walkway.
@@ -179,6 +181,10 @@ _(Have employees break into their departments and execute specific prompts.)_
 
 > **Facilitator tip:** If the audience has phones, do Demo 1 live. Take a photo of the facilitator's notes on the whiteboard → show the Gemini result on the projector.
 
+> **📶 Low-Bandwidth Tip (Terminal / Field Staff):** At some terminals, mobile data connectivity is limited. If participants cannot load the Gemini app live, demonstrate on the facilitator's device and share the result via the workshop Chat space. Encourage them to try Demo 1 and 2 on their own shift after training when on a stable network.
+
+> **📸 Camera Angle Guide (Maintenance — Photo to SAP):** For the best OCR results when photographing equipment labels, fault codes, or handwritten forms: (1) shoot in **portrait orientation**, (2) ensure the label fills **at least 60% of the frame**, (3) use **good ambient lighting** or your phone's torch — avoid direct flash which creates glare on reflective labels. A well-framed photo reduces the need for manual corrections by over 80%.
+
 ---
 
 ## 📚 M9 · NotebookLM — Your Team's Brain (60 min)
@@ -211,6 +217,10 @@ Show how _any_ team can use NotebookLM by uploading their existing documents:
 - Ask: "According to these documents, what is the exact Vopak procedure for responding to a Loss of Primary Containment (LOPC) of a Class 3 flammable liquid at a jetty? Include the IN10 brief description format I should use for initial reporting."
 - Show how NotebookLM cites the exact paragraph and page number from the Vopak Way Standards.
 - **Key insight:** NotebookLM _never hallucinates_ about your documents because it only reads what you give it. This is critical in the hazardous chemical storage sector where AI-generated misinformation about safety procedures is an unacceptable operational hazard.
+
+> **📦 Source Limit Awareness:** NotebookLM supports up to **300 sources per notebook**. For departments like Legal or Audit managing large case files or regulatory archives, plan your notebook structure carefully — one notebook per matter, project, or reporting year is best practice. Exceeding 300 sources requires creating a second notebook and noting which sources are where.
+
+> **📋 Procurement Tip — Comparing and Highlighting Discrepancies:** When comparing vendor quotes or contracts in NotebookLM, use this prompt structure: _"Compare Document A and Document B on [pricing, delivery timelines, warranty terms]. Create a side-by-side table. Then list any clauses where the documents contradict or leave ambiguity."_ This surfaces discrepancies that are typically missed in a manual line-by-line review.
 
 ### 3.3 Audio Overviews
 

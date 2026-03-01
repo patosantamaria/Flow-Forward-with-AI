@@ -49,6 +49,8 @@
 | **11:00 – 11:15** | Break  |                                                                      |
 | **11:15 – 13:00** | M11    | **Automation:** Workspace Studio (Flows) + Apps Script (The Bridge). |
 
+> **⏰ Manager Commitment Required:** M10 and M11 are the most hands-on and cognitively demanding modules in the programme. Participants need **uninterrupted focus time** — not a session squeezed between other meetings. Managers must actively block this time in participants' calendars and communicate that this is protected learning time, not a voluntary add-on. If scheduling is tight, prioritize M10 (Gems) as the minimum — it delivers the highest individual ROI.
+
 ---
 
 ## ⚡ Option 4: Leadership / All-Hands (25 – 45 min)

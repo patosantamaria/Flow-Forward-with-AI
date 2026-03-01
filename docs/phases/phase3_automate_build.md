@@ -236,6 +236,8 @@ What if your Gem needs to know the entire department's history (up to 300 source
 - **Best practice:** 3–5 shared Gems per team for the most repetitive tasks
 - **Governance:** Team lead reviews Instructions before wide distribution (Zero Trust compliance)
 
+> **📌 Audit Department — Gem Logic Sign-Off:** Before an Audit team Gem is promoted to a shared/official Gem (e.g., variance checker, compliance scanner), an Audit lead must formally review and sign off on the **System Instructions logic**. The prompt defines the criteria — if those criteria are wrong, every output is wrong. This is a professional accountability requirement, not just an IT one.
+
 #### 2.3 The Gem Architect (10 min)
 
 A meta-Gem that writes System Instructions for other Gems.
@@ -243,6 +245,8 @@ A meta-Gem that writes System Instructions for other Gems.
 **Demo:** "Help me create a Gem for a Procurement Manager who compares vendor quotes. Extract pricing, delivery timelines, and warranty terms from uploaded PDFs into a comparison table."
 
 > **Key insight:** If you feel stuck writing instructions, ask Gemini to help. The Gem Architect is one of the most powerful onboarding tools available.
+
+> **🔁 Prompt Maintenance Reminder:** AI models evolve. A Gem that works perfectly today may produce slightly different outputs after a model update. Build a habit of **testing your Gems every 6 months** — ideally during the CoE's bi-annual Gem Audit. If outputs suddenly feel less accurate, revisit and tighten the System Instructions. Document what changed and why.
 
 #### Practice: Build Your Department Gem — Solo (45 min)
 
@@ -428,7 +432,7 @@ Copy → Extensions → Apps Script → Paste → Run. Done.
 2. **If it fails:** Copy the error → paste back to Gemini → "Fix this error: [ERROR]"
 3. **If it works:** Set a time trigger (Edit → Triggers → Every day at X AM) if applicable
 
-> **Facilitator framing:** "The error → Gemini → fix loop is the most important skill here. Getting an error is _normal_ — it's just prompting. The script after fixing 2 errors is always better than the first one."
+> **⚠️ IT/OT — Apps Script Visibility & Shadow IT Prevention:** Any Apps Script created during or after this training that accesses shared data (Shared Drives, team Sheets, Gmail distribution lists) **must be logged with the IT team**. IT/OT admins can view deployed scripts via the Google Admin Console. The rule is simple: personal scripts are fine to keep private; any script that touches shared team resources or runs on a schedule must be registered. This prevents "shadow IT" and ensures business continuity when people change roles or leave.
 
 ---
 

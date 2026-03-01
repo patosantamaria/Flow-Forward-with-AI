@@ -136,6 +136,11 @@ This is fundamentally different from using AI tools on personal accounts. Always
 
 > **The seatbelt rule:** AI is the engine. You are the driver. Always verify before you send.
 
+> **When to use AI vs. manual verification:** AI is ideal for drafting, summarizing, comparing, and formatting. It is NOT a substitute for expert review when the output affects safety decisions, legal obligations, financial authority (SOD), or official audit sign-off. Use AI to prepare — always let the expert decide.
+
+> [!IMPORTANT]
+> **AI is a tool — not a replacement for your expertise.** Your judgment, your experience with Vopak operations, and your professional accountability are what make the output valuable. Gemini makes you faster; it does not make you redundant.
+
 ---
 
 ## 📘 M2 · The Flow Forward Vision (10 min)
@@ -223,6 +228,9 @@ The organization provides the license and the training; the employee provides th
 - **Collaborative:** AI acts as a co-pilot, not an autopilot.
 - **Courageous:** Don't be afraid to push the tool to its limits in a safe environment.
 
+> [!CAUTION]
+> **The Safety Double-Check Rule (SHEQ & Operations):** For any output that touches safety procedures, Permit to Work requirements, incident classification, or emergency response steps — **always verify the AI response against the primary source document before acting**. AI hallucinations in safety-critical contexts are not an inconvenience — they are an operational hazard. Treat Gemini's safety-related output as a first draft, never as a final authority.
+
 ---
 
 ## 🧠 M4 · The TCF Prompting Framework (35 min incl. practice)
@@ -244,6 +252,8 @@ The organization provides the license and the training; the employee provides th
 | **4. [Format]**  | How you want the information presented.                                        | "Present in a 3-column table." / "Write as a numbered list with bold headings."        |
 
 ---
+
+> **Branded Terminology Reminder (Comm/PR & all departments):** When using the TCF framework for any external communication — customer emails, press releases, regulatory submissions — ensure the Persona and Format elements are aligned with the [Vopak Glossary](../training/vopak_glossary.md). Vopak's voice: **Trustworthy, Collaborative, Courageous.** AI-drafted text should always be reviewed for tone before it goes to an external audience.
 
 ## 💻 M5 · Live Demo: The Difference (15 min)
 

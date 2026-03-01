@@ -44,6 +44,8 @@ The CoE bridges the gap between aggressive enablement and strict IT governance. 
 - Employees submit ideas for new Gems or automated workflows.
 - AI Champions review the submissions for safety (Zero Trust compliance) and utility before publishing them to the CoE.
 
+> **🗓️ Bi-Annual Gem Audit Loop:** Every 6 months, the CoE conducts a Gem Review: (1) test each official Gem against its original expected output, (2) update System Instructions if outputs have drifted due to model updates, (3) retire Gems that are no longer relevant or have been superseded. This prevents "hallucinating Gems" silently degrading output quality across the organization. Assign a permanent owner per Gem — when that person changes role or leaves, handover includes Gem ownership.
+
 ### 1.4 The Gem Marketplace (Peer-to-Peer)
 
 The fastest adoption happens peer-to-peer: "Hey, I built this Gem, try it."
@@ -99,6 +101,8 @@ A structured community event hosted **every 2 months**.
 | **Show & Tell**      | Champions present new workflows or Custom Gems they built.                   | 20 min |
 | **Q&A & Roadblocks** | Open discussion on adoption hurdles within their departments.                | 10 min |
 
+> **🛡️ Resistance Plan — Engaging Sceptical Senior Leaders:** Not everyone will be enthusiastic. Some senior leaders will worry AI outputs dilute their authority, create data accuracy risks, or reduce their team's value. Address this directly in every bi-monthly sync: (1) present one "AI-was-wrong" case study and how the expert caught it — this validates that human judgment is irreplaceable; (2) frame AI adoption as a competitive advantage for their team, not a productivity audit tool; (3) never pressure public commitment — give the most sceptical leaders a private 1:1 before the all-hands.
+
 ### 3.3 The Output
 
 Winning Gems and workflows from the Show & Tell are vetted and added to the **Gemini Governance Registry** for global access.
@@ -147,6 +151,8 @@ A Looker Studio dashboard connected to BigQuery that visualizes:
 - Adoption rates by Department & Region.
 - Most popular features / Action Types.
 - Direct correlation between "Tip of the Week" communications and feature usage spikes.
+
+> **📊 Quarterly ROI Review Mandate:** ROI measurement data (from Query 8 / `training_impact.sql`) must be presented at every **BU Quarterly Performance Review**. This is not optional — it is the mechanism that keeps AI adoption on the executive agenda and prevents it from being deprioritized after the initial training wave. The AI Lead owns this slide. If the data shows declining adoption, the quarterly review is the forum to activate the Dropout Detector and Resistance Plan.
 
 ### 4.4 The "Dropout Detector" Query
 
