@@ -6,7 +6,7 @@ const phases = [
     title: 'Phase 1 — Foundation & Ethics',
     sub: 'M1–M5 · ~90 minutes · No prerequisites',
     tagline: 'Welcome to the new way of working — safe, structured, and empowered by AI.',
-    desc: `You'll leave this session knowing exactly what Gemini is, what your four Vopak AI tools do, and — critically — what you must never put into them. You'll also learn the TCF prompting framework: the single upgrade that turns vague AI results into ones you can actually use.`,
+    desc: `You'll leave this session knowing exactly what Gemini is, what your four Vopak AI tools do, and — critically — what you must never put into them. You'll also learn the PTCF prompting framework: the single upgrade that turns vague AI results into ones you can actually use.`,
     outcome: 'You leave with: a shared vocabulary, clear guardrails, and your first real prompt that works.',
     chips: ['Open to all · no prerequisites', 'Remote webinar or on-site', '~90 min'],
     comingSoon: false,

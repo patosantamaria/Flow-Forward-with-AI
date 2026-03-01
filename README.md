@@ -18,7 +18,7 @@
 
 ## What Is This?
 
-**Flow Forward with AI** is a practical, hands-on AI empowerment programme that moves people from _"I've heard of Gemini"_ to _"I build AI workflows that run while I sleep"_ — in three phases, eleven modules.
+**Flow Forward with AI** is a practical, hands-on AI empowerment programme that moves people from _"I've heard of Gemini"_ to _"I build AI workflows that run while I sleep"_ — in four phases (three active, one in development), eleven modules.
 
 It was created for Vopak's Asia & Middle East Business Unit and delivered across 9 sessions to 67 participants spanning Finance, Engineering, Operations, HR, IT and more. The curriculum has since been repackaged as a **fully reusable framework** for any Vopak BU or department worldwide.
 
@@ -54,7 +54,7 @@ It was created for Vopak's Asia & Middle East Business Unit and delivered across
 
 ---
 
-## 🗺️ The Three Phases
+## 🗺️ The Four Phases
 
 ```
 Phase 1 (M1–M5)            Phase 2 (M6–M9)            Phase 3 (M10–M11)          Phase 4 (future)

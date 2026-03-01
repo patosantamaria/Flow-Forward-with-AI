@@ -25,7 +25,7 @@ const videos = [
   {
     available: false,
     module: 'M4 · Phase 1',
-    title: 'Writing prompts that actually work — the TCF framework',
+    title: 'Writing prompts that actually work — the PTCF framework',
     duration: '~20 min · CoE production · Coming April 2026',
     note: null, href: null, cta: null,
   },
