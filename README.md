@@ -35,7 +35,7 @@ It was created for Vopak's Asia & Middle East Business Unit and delivered across
 | **M1**  | GenAI Foundations                | Phase 1 | 15 min  | ✅ Opens any session                   |
 | **M2**  | The Flow Forward Vision          | Phase 1 | 10 min  | ✅ Always pair with M1                 |
 | **M3**  | Security & Zero Trust            | Phase 1 | 20 min  | ⚠️ Needs M1 · Must run before practice |
-| **M4**  | PTCF Prompting Framework         | Phase 1 | 60 min  | ✅ **The most important module**       |
+| **M4**  | PTCF Prompting Framework         | Phase 1 | 45 min  | ✅ **The most important module**       |
 | **M5**  | Live Demo: The Difference        | Phase 1 | 15 min  | ⚠️ After M4 only                       |
 | **M6**  | Gemini in Workspace (Side Panel) | Phase 2 | 60 min  | ✅ Great standalone or local session   |
 | **M7**  | Gemini Web App                   | Phase 2 | 60 min  | ✅ Builds on M4 advanced techniques    |
@@ -70,13 +70,13 @@ or 2 hrs on-site            On-site workshop            On-site workshop        
 
 > _"Welcome to the new way of working — safe, structured, and empowered by AI."_
 
-| Module | Topic                                                                                                                    | Time   |
-| :----- | :----------------------------------------------------------------------------------------------------------------------- | :----- |
-| **M1** | GenAI Foundations — what AI is, where Gemini fits, what Vopak has access to _(Gemini Introductory)_                      | 15 min |
-| **M2** | The Flow Forward Vision — why Vopak is investing, the real ROI numbers                                                   | 10 min |
-| **M3** | Security & Zero Trust — PII, hallucinations, data boundaries, legal limits                                               | 20 min |
-| **M4** | PTCF Prompting Framework — Persona + Task + Context + Format + advanced techniques (chain of thought, conditional logic) | 60 min |
-| **M5** | Live Demo — side-by-side proof that better prompts produce better results                                                | 15 min |
+| Module | Topic                                                                                                        | Time   |
+| :----- | :----------------------------------------------------------------------------------------------------------- | :----- |
+| **M1** | GenAI Foundations — what AI is, where Gemini fits, what Vopak has access to _(Gemini Introductory)_          | 15 min |
+| **M2** | The Flow Forward Vision — why Vopak is investing, the real ROI numbers                                       | 10 min |
+| **M3** | Security & Zero Trust — PII, hallucinations, data boundaries, legal limits                                   | 20 min |
+| **M4** | PTCF Prompting Framework — Persona + Task + Context + Format, the four-element formula for precise AI output | 45 min |
+| **M5** | Live Demo — side-by-side proof that better prompts produce better results                                    | 15 min |
 
 📄 **[Full Phase 1 Curriculum →](docs/phases/phase1_foundation_ethics.md)**
 
@@ -101,10 +101,10 @@ or 2 hrs on-site            On-site workshop            On-site workshop        
 
 > _"From user to creator — build AI colleagues, automate workflows, bridge the last mile."_
 
-| Module  | Topic                                                                        | Time    | What they get                           |
-| :------ | :--------------------------------------------------------------------------- | :------ | :-------------------------------------- |
-| **M10** | Gems — custom AI colleagues with persona, rules, and grounded knowledge      | 120 min | 2 working Gems · Requires M6–M9         |
-| **M11** | Workspace Studio + Apps Script — no-code flows and Gemini-written automation | 105 min | 1 Studio flow + 1 Script · Requires M10 |
+| Module  | Topic                                                                            | Time    | What they get                           |
+| :------ | :------------------------------------------------------------------------------- | :------ | :-------------------------------------- |
+| **M10** | Gems — advanced prompting techniques for Gem instructions + build 2 working Gems | 120 min | 2 working Gems · Requires M6–M9         |
+| **M11** | Workspace Studio + Apps Script — no-code flows and Gemini-written automation     | 105 min | 1 Studio flow + 1 Script · Requires M10 |
 
 > **M11 note:** Studio and Apps Script are combined — Studio handles 80% of automation needs, Apps Script bridges the rest. Gemini writes every line of code; participants just click Run.
 

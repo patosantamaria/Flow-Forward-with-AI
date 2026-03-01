@@ -23,11 +23,11 @@ const phase1 = [
     tag: 'Always before practice', tagColor: 'bg-navy-deep/8 text-navy-deep',
   },
   {
-    id: 'M4', dur: '60 min', icon: 'edit_note',
+    id: 'M4', dur: '45 min', icon: 'edit_note',
     title: 'PTCF Prompting Framework',
-    what: 'Persona · Task · Context · Format — and the advanced techniques that take you further.',
-    detail: `PTCF is the foundation: Persona, Task, Context, Format — give Gemini a role, a precise task, specific context about your situation, and the exact format you need. Three live prompts are rewritten from vague to precise, with the room seeing the difference in real time.\n\nOnce PTCF is solid, we move to three advanced techniques that unlock genuinely complex outputs:\n\n— Persona / Role prompting: give Gemini a specific professional identity, communication style, and constraints. Not “summarise this” but “You are a senior Vopak Operations Superintendent reviewing a shift handover for completeness and safety-critical gaps. Flag anything missing.”\n\n— Chain of Thought: instruct Gemini to reason step by step before giving the answer. Essential for root cause analysis, decision support, and any output where the reasoning matters as much as the conclusion.\n\n— Conditional logic (if / then / else): write prompts that branch on conditions, so a single prompt adapts to different inputs or scenarios without you rewriting it each time.\n\nAll three are practised on a real Vopak task before the session ends. You will use every one of them in Phase 2.`,
-    tag: 'Most impactful module · 60 min', tagColor: 'bg-primary/15 text-navy-deep',
+    what: 'Persona · Task · Context · Format — the four-element formula that transforms any request.',
+    detail: `PTCF is the foundation everything in this programme builds on. Four elements:\n\nPersona — the role, expertise, and perspective you give Gemini. Not “write an email” but “You are a senior Vopak communications manager.”\n\nTask — what you are specifically asking it to do. One clear ask, not a vague topic.\n\nContext — the situation, constraints, and background Gemini needs. The more specific, the better the output.\n\nFormat — exactly how you want the answer structured: bullet list, table, three paragraphs, executive summary.\n\nWe rewrite three real prompts live — from vague to precise — and the difference in output quality is immediate. By the end of the session, everyone in the room has written one PTCF prompt for their own work.`,
+    tag: 'Most impactful module · 45 min', tagColor: 'bg-primary/15 text-navy-deep',
   },
   {
     id: 'M5', dur: '15 min', icon: 'play_arrow',
@@ -74,8 +74,8 @@ const phase3 = [
     id: 'M10', dur: '120 min', icon: 'smart_toy',
     title: 'Gems — build your AI colleague',
     what: 'A pre-loaded specialist, ready when you need them.',
-    detail: `A Gem is a Gemini conversation pre-loaded with a persona, a set of rules, and a knowledge base you define. The difference between a Gem and a regular prompt is the difference between briefing a temp every single day and having a specialist on call who already knows your context. You build two: one for yourself, one for your department. By the end of the session, both are live and shareable.`,
-    tag: 'Requires M6–M9 · 60 min instruction + 60 min build', tagColor: 'bg-slate-100 text-slate-500',
+    detail: `The session opens with the advanced prompting techniques you need to write great Gem instructions:\n\n— Persona / Role: the Gem needs a precise identity — not just “be helpful” but a specific role, communication style, and list of constraints. This is what makes a Gem behave consistently.\n\n— Chain of Thought: you can instruct a Gem to reason step by step before giving its answer, making it far more reliable for analysis, structured reporting, and decision support.\n\n— Conditional logic (if / then / else): Gem rules can branch — “if the user provides a raw shift log, produce a structured handover. If they provide a completed report, just flag gaps.” One Gem, multiple scenarios.\n\nThen the build: a Gem is a Gemini conversation pre-loaded with a persona, a set of rules, and a knowledge base you define. You build two — one for yourself, one for your department. Both are live and shareable before the session ends.`,
+    tag: 'Requires M6–M9 · 60 min advanced prompting + 60 min build', tagColor: 'bg-slate-100 text-slate-500',
   },
   {
     id: 'M11', dur: '90 min', icon: 'automation',
