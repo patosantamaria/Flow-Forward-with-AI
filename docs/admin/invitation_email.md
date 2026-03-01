@@ -1,8 +1,8 @@
 # Program Invitation Email (Template)
 
 > **When to send:** At program launch (start of Phase 1)
-> **From:** BU President / Senior Sponsor
-> **To:** All AME BU colleagues
+> **From:** [Business Unit] President / Senior Sponsor
+> **To:** All [Business Unit] colleagues
 
 ---
 
@@ -10,11 +10,11 @@
 
 **Get more done with AI**
 
-Dear Vopak AME Colleagues,
+Dear Vopak [Business Unit] Colleagues,
 
-I am excited to invite you to join the **Vopak AME Generative AI Empowerment Journey**. A people-first initiative to equip you with the practical Gemini, Gems & NotebookLM skills you can apply every day.
+I am excited to invite you to join the **Vopak [Business Unit] AI Empowerment Journey**. A people-first initiative to equip you with practical Gemini, Gems & NotebookLM skills you can apply every day.
 
-And it starts today, online with Gemini for Workspace training. In the week of 10 November each function as a team will go through a 1-day deep dive training at JEM _(Invite to follow)_.
+The journey starts today with your foundation training. We will then host a series of deep-dive sessions tailored to each department to translate these tools into your specific operations.
 
 _[Embed 2-minute program video here]_
 
@@ -23,25 +23,22 @@ _[Embed 2-minute program video here]_
 ### What You Will Gain
 
 - **Work Smarter (Improve):** Gain practical AI skills to automate routine tasks, reduce time spent on documentation, and increase operational efficiency.
-- **Create Value (Accelerate):** Develop solutions that deliver measurable business impact, targeting the deployment of 5+ new use cases per person and per team.
+- **Create Value (Accelerate):** Develop solutions that deliver measurable business impact.
 - **Lead & Future-Proof (Grow):** Build future-ready capabilities and earn the opportunity to become a recognized AI Champion.
 
 ---
 
-### Next Steps (Complete by end of October for Phase 1)
+### Next Steps
 
-**Gemini For Google Workspace Training (3 hours):**
+**1. Complete the Foundation Modules:**
+Go to [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) and complete the foundational courses for Gemini.
 
-1. Go to [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) and create an account using your Vopak email.
-2. Complete the 8-course training on the basics of using Gemini for Workspace.
-
-**Reference Vopak Materials:**
-
-1. Gemini for Vopak _(internal link)_
+**2. Explore Vopak Materials:**
+Review the [Module Catalogue] and [Vopak Glossary] to see how AI applies to your specific role.
 
 ---
 
-If you have any questions about the program please reach out to Martijn Sleijffers.
+If you have any questions about the program please reach out to your local AI Lead or [Contact Name].
 
 _We help the world flow forward — now, with AI._
 

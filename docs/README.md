@@ -1,6 +1,6 @@
 # Flow Forward with AI — Documentation Index
 
-> **Program:** Originally built for the Vopak AME BU AI Empowerment Journey. Fully reusable for any Vopak BU or department worldwide.
+> **Program:** [Business Unit] AI Empowerment Journey. Fully reusable for any Vopak BU or department worldwide.
 > **Goal:** Embed practical AI skills across all departments through a modular, scalable training architecture.
 
 ---
@@ -66,13 +66,15 @@ Each folder contains `prompts.md` (Phase 2), `capstone.md` (Phase 3), and `gems.
 
 ---
 
+---
+
 ## 📁 Specialized Training Plans
 
-> These are tailored training plans for specific teams outside the standard department tracks. They follow the same 3-phase structure but are adapted to department-specific tools and workflows.
+> These are tailored training plans for specific teams outside the standard department tracks. They follow the same modular structure but are adapted to department-specific tools and workflows.
 
-| Team                          | File                                           | Lead            | Timing         |
-| :---------------------------- | :--------------------------------------------- | :-------------- | :------------- |
-| **Global Tax (Rotterdam HQ)** | [Tax Team Training Plan](tax_training_plan.md) | Shirley Terhaar | April–May 2026 |
+| Team                          | Status                                                                                    | Lead            |
+| :---------------------------- | :---------------------------------------------------------------------------------------- | :-------------- |
+| **Global Tax (Rotterdam HQ)** | Use [modules/module_catalogue.md](modules/module_catalogue.md) to build custom tax track. | Shirley Terhaar |
 
 ---
 
