@@ -118,12 +118,12 @@ or 2 hrs on-site            On-site workshop            On-site workshop        
 
 Phase 4 is in development. Where Phase 3 automates a task, Phase 4 deploys **agents** — AI systems that reason, plan, and act across multiple steps autonomously, integrated into Vopak's business systems.
 
-| Area                | What's planned                                                                                                  |
-| :------------------ | :-------------------------------------------------------------------------------------------------------------- |
-| Multi-step agents   | Agents that execute sequences of actions across tools and systems without step-by-step human instruction        |
-| System integrations | Connections to Oracle, SAP, and Vopak's internal data infrastructure via Google's Agent Builder                 |
-| Gemini Enterprise   | Extended context, deeper grounding, and enterprise-grade agent capabilities beyond the current Business licence |
-| Who it's for        | Phase 3 graduates — colleagues who have built Gems and automations and are ready to go further                  |
+| Area                  | What's planned                                                                                                                                                                                                     |
+| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Gemini Enterprise** | The licence tier that unlocks extended context windows (2M tokens), deeper grounding, Gemini for Workspace add-ons, and the enterprise-grade agent runtime — the foundation everything else in Phase 4 is built on |
+| Multi-step agents     | Agents that reason, plan, and execute sequences of actions across tools and systems without step-by-step human instruction — built on Google Agent Builder                                                         |
+| System integrations   | Connections to Oracle, ServiceNow, and Vopak's internal data infrastructure via the Gemini Enterprise API and connector library                                                                                    |
+| Who it's for          | Phase 3 graduates — colleagues who have built Gems and automations and are ready to go further                                                                                                                     |
 
 > **Licence note:** Phase 4 requires a **Gemini Enterprise** licence upgrade. The CoE will communicate this separately when Phase 4 is ready to run.
 

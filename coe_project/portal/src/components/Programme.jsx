@@ -42,7 +42,7 @@ const phases = [
     title: 'Phase 4 — AI Agents & Gemini Enterprise',
     sub: 'In development · Enterprise licence · Requires Phases 1–3',
     tagline: "The next frontier: AI that doesn't wait to be asked.",
-    desc: `Where Phase 3 automates a task, Phase 4 deploys agents — AI systems that reason, plan, and act across multiple steps without you being in the loop for every decision. Built on Gemini Enterprise and Google's Agent Builder, this phase is designed for teams ready to go beyond prompts and into autonomous AI workflows integrated into Vopak's business systems.`,
+    desc: `Phase 4 is built on Gemini Enterprise — the licence tier that unlocks extended context (2 million tokens), deeper grounding, and the enterprise-grade agent runtime. Where Phase 3 automates a task, Phase 4 deploys agents — AI systems that reason, plan, and act across multiple steps without you in the loop for every decision. Built on Google's Agent Builder and connected to Oracle, ServiceNow, and Vopak's internal infrastructure, this phase is designed for teams ready to go beyond prompts and into autonomous AI workflows.`,
     outcome: "What's coming: multi-step agents, system integrations, and Gemini Enterprise capabilities.",
     chips: ['In development · 2026', 'Gemini Enterprise licence', 'For Phase 3 graduates'],
     comingSoon: true,
