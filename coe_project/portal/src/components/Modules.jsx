@@ -23,11 +23,11 @@ const phase1 = [
     tag: 'Always before practice', tagColor: 'bg-navy-deep/8 text-navy-deep',
   },
   {
-    id: 'M4', dur: '35 min', icon: 'edit_note',
-    title: 'TCF Prompting Framework',
-    what: 'Persona + Task + Context + Format — the universal upgrade.',
-    detail: `TCF is the single skill that separates people who get useful AI output from people who don't. You give Gemini a role to play, a precise task, specific context about your situation, and the exact format you need. Then you practise: three live prompts, rewritten from vague to precise, with the room seeing the difference in real time.`,
-    tag: 'Most impactful module', tagColor: 'bg-primary/15 text-navy-deep',
+    id: 'M4', dur: '60 min', icon: 'edit_note',
+    title: 'TCF Framework + Advanced Prompting',
+    what: 'Persona · Task · Context · Format — and the techniques that take you further.',
+    detail: `TCF is the foundation: give Gemini a role, a precise task, specific context about your situation, and the exact format you need. Three live prompts are rewritten from vague to precise, with the room seeing the difference in real time.\n\nOnce TCF is solid, we move to three advanced techniques that unlock genuinely complex outputs:\n\n— Persona / Role prompting: give Gemini a specific professional identity, communication style, and constraints. Not “summarise this” but “You are a senior Vopak Operations Superintendent reviewing a shift handover for completeness and safety-critical gaps. Flag anything missing.”\n\n— Chain of Thought: instruct Gemini to reason step by step before giving the answer. Essential for root cause analysis, decision support, and any output where the reasoning matters as much as the conclusion.\n\n— Conditional logic (if / then / else): write prompts that branch on conditions, so a single prompt adapts to different inputs or scenarios without you rewriting it each time.\n\nAll three are practised on a real Vopak task before the session ends. You will use every one of them in Phase 2.`,
+    tag: 'Most impactful module · 60 min', tagColor: 'bg-primary/15 text-navy-deep',
   },
   {
     id: 'M5', dur: '15 min', icon: 'play_arrow',
@@ -49,9 +49,9 @@ const phase2 = [
   {
     id: 'M7', dur: '60 min', icon: 'computer',
     title: 'Gemini Web App — heavy lifting',
-    what: 'Complex reasoning, document comparison, and web research.',
-    detail: `Where the side panel is your fast-acting assistant, the Web App (gemini.google.com) is your analyst. Upload two documents and compare them clause by clause. Cross-reference an RFP against your internal Pricing Policy. Research a competitor using live web grounding. We show you when to use each model — Flash for speed, Pro for complex reasoning.`,
-    tag: 'Pair with M6 for a tools half-day', tagColor: 'bg-slate-100 text-slate-500',
+    what: 'Complex reasoning, document comparison, and web research — where M4 techniques pay off.',
+    detail: `Where the side panel is your fast-acting assistant, the Web App (gemini.google.com) is your analyst. Upload two documents and compare them clause by clause. Cross-reference an RFP against your internal Pricing Policy. Research a competitor using live web grounding.\n\nThis is where the advanced techniques from M4 (chain of thought, persona, conditional logic) make a real difference — you are no longer asking simple questions, you are running structured multi-step reasoning on documents that matter. We show you when to use each model — Flash for speed, Pro for complex reasoning — and practise at least one document analysis task from your department.`,
+    tag: 'Builds on M4 advanced techniques', tagColor: 'bg-slate-100 text-slate-500',
   },
   {
     id: 'M8', dur: '30 min', icon: 'phone_android',
