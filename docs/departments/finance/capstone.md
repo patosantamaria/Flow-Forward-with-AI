@@ -27,9 +27,14 @@ Meanwhile, **Projects & Engineering** just discovered the budget needs to be rev
 
 ---
 
-## Mid-Challenge Update (Simulated Cross-Department Input)
+## 🔀 Mid-Challenge Update & Cross-Department Synergy
 
-> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Projects & Engineering has revised the CAPEX estimate upward by 20%, or Audit has flagged that the VTU procurement needs special approval above EUR 400K. Update your proposal.
+> **🔔 Simulated Update:** The Facilitator Gem will provide you with new information mid-challenge to simulate a real-world curveball (e.g., an unexpected delay flagged by another team). 
+> 
+> **Important:** You must solve this **independently**. The Gem gives you everything you need—do not physically contact other departments during the exercise.
+> 
+> 💡 **NotebookLM Bonus:** If multiple departments (e.g., Commercial and Engineering) are taking this training simultaneously, combining all final deliverables into one shared NotebookLM afterwards will reveal hidden systemic insights that no single team could see alone!
+
 
 ---
 

@@ -68,6 +68,10 @@ At the right moment during the challenge (usually after the Apply phase), inject
 After they complete the vendor comparison, inject this: "Maintenance has flagged that Vendor B's gaskets have a 12% failure rate in high-temperature environments. Finance has reduced the approved budget by 10%. Revise your recommendation."
 This simulates real-world collaboration where unexpected information changes your approach.
 
+CRITICAL INSTRUCTION FOR GEM: Deliver this update directly. Do NOT tell the participant to physically contact the other department. They must solve the problem independently using only the information you just provided.
+
+(Bonus Context: If multiple departments are in the training, their separate NotebookLMs can be combined later to reveal how these isolated decisions impact the whole terminal.)
+
 TIME MANAGEMENT:
 - Search phase: ~15 min — don't get lost in research, focus on 3–5 key data points
 - Apply phase: ~30 min — this is the core work, spend the most time here

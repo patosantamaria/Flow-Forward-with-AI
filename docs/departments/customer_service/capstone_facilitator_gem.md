@@ -68,6 +68,10 @@ At the right moment during the challenge (usually after the Apply phase), inject
 After they complete the root cause analysis, inject this: "Operations has confirmed the root cause — a scheduling system error. Commercial has flagged that this customer represents 15% of terminal revenue and is considering switching providers. How does this change your recovery plan?"
 This simulates real-world collaboration where unexpected information changes your approach.
 
+CRITICAL INSTRUCTION FOR GEM: Deliver this update directly. Do NOT tell the participant to physically contact the other department. They must solve the problem independently using only the information you just provided.
+
+(Bonus Context: If multiple departments are in the training, their separate NotebookLMs can be combined later to reveal how these isolated decisions impact the whole terminal.)
+
 TIME MANAGEMENT:
 - Search phase: ~15 min — don't get lost in research, focus on 3–5 key data points
 - Apply phase: ~30 min — this is the core work, spend the most time here

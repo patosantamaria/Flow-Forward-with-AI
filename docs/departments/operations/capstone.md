@@ -37,9 +37,14 @@ Transform the toolbox script into a video training presentation.
 
 ---
 
-## Mid-Challenge Update (Simulated Cross-Department Input)
+## 🔀 Mid-Challenge Update & Cross-Department Synergy
 
-> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, SHEQ has identified new PPE requirements for HMD handling, or Commercial has added a Vapor Treatment Surcharge to the customer quote. Update your readiness assessment.
+> **🔔 Simulated Update:** The Facilitator Gem will provide you with new information mid-challenge to simulate a real-world curveball (e.g., an unexpected delay flagged by another team). 
+> 
+> **Important:** You must solve this **independently**. The Gem gives you everything you need—do not physically contact other departments during the exercise.
+> 
+> 💡 **NotebookLM Bonus:** If multiple departments (e.g., Commercial and Engineering) are taking this training simultaneously, combining all final deliverables into one shared NotebookLM afterwards will reveal hidden systemic insights that no single team could see alone!
+
 
 ---
 

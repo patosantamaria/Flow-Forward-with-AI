@@ -16,6 +16,14 @@
 
 At the 45-minute mark (or 15-minute mark for Quick Challenge), tell participants to ask their Capstone Facilitator Gem: _"Give me my simulated cross-department update."_ This will throw a wrench in their plan and force them to adapt quickly.
 
+## 🔀 NotebookLM Synergy (Multi-Department Trainings)
+
+If you are training multiple related departments in the same session (e.g., Commercial and Projects & Engineering, or IT and Legal), the capstones are designed to intersect natively.
+
+**Do not have them work together during the challenge.** They must solve their piece independently based on the Gem's data.
+
+**The Synergy Reveal:** During the debrief, have both departments upload their final deliverables (reports, slider decks) into a single, shared NotebookLM. Ask NotebookLM: _"Analyze these proposals. Where do the departments' assumptions clash, and what hidden systemic risks are exposed by combining their views?"_ This creates a powerful "aha" moment about cross-functional data siloes.
+
 ## The Debrief (10 min)
 
 - Have 2-3 teams present their 2-minute pitches.

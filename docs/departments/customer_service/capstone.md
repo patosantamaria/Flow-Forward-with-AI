@@ -38,9 +38,14 @@ Create a customer onboarding checklist template that can be reused for future ne
 
 ---
 
-## Mid-Challenge Update (Simulated Cross-Department Input)
+## 🔀 Mid-Challenge Update & Cross-Department Synergy
 
-> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Operations has identified the root cause of the service failure, or Commercial has flagged that this customer represents 15% of terminal revenue. Factor this into your recovery plan.
+> **🔔 Simulated Update:** The Facilitator Gem will provide you with new information mid-challenge to simulate a real-world curveball (e.g., an unexpected delay flagged by another team). 
+> 
+> **Important:** You must solve this **independently**. The Gem gives you everything you need—do not physically contact other departments during the exercise.
+> 
+> 💡 **NotebookLM Bonus:** If multiple departments (e.g., Commercial and Engineering) are taking this training simultaneously, combining all final deliverables into one shared NotebookLM afterwards will reveal hidden systemic insights that no single team could see alone!
+
 
 ---
 
