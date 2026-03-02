@@ -1,4 +1,4 @@
-# Projects & Engineering — "The Risk Radar" (Phase 3 Capstone)
+# Projects & Engineering — "The Risk Radar" (Phase 2 Capstone)
 
 
 ---
@@ -11,7 +11,7 @@ The BU Director needs your risk assessment **before the board meeting**.
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -43,9 +43,9 @@ Create a video briefing for the terminal team explaining the project's impact on
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "You need CAPEX for new boilers and trace heating upgrades. Check with **Support Functions** — Legal & Compliance need to add a VTU (Vapor Treatment Unit) to your budget submission. Also coordinate with **Maintenance** on the gasket replacement timeline."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Finance has revised the project budget downward by 15%, or Operations has flagged that the terminal can't go offline during peak season. Adjust your risk register.
 
 ---
 
@@ -56,21 +56,26 @@ Create a video briefing for the terminal team explaining the project's impact on
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- Draft Scope of Work for Tank T-405
-- HMD Safety Data Sheet
-- Terminal utility capacity report
-- Vendor quotes and lead time confirmations
-- Project Phoenix delay logs
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **Project Plan Summary** | Google Doc | High-level project plan for a terminal expansion: phases, milestones, dependencies, critical path. |
+| 2 | **Engineering Specifications** | Google Doc | Technical specifications for the expansion: tank dimensions, piping, instrumentation, electrical. |
+| 3 | **Budget Forecast** | Google Sheet | Detailed budget with line items: engineering, procurement, construction, commissioning, contingency. Include a 15% overrun scenario. |
+| 4 | **Historical Project Delay Log** | Google Sheet | Past project delays: project name, planned vs. actual completion, cause, impact. Show recurring patterns. |
+| 5 | **Risk Register Template** | Google Sheet | Template: Risk ID, Description, Category, Probability, Impact, Risk Score, Mitigation, Owner, Status. |
+
+> 💡 **Reference:** The BU NL workshop used a "Project Delay Log" and "Budget Estimate" — adapt with your BU's historical project data.
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -128,6 +133,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. Identify the top 5 risks for a terminal expansion project and create a risk heat map.
+
+1. Upload the project plan and delay log into **Gemini Web App** (5 min)
+2. Prompt: "Based on this project plan and historical delay data, identify the top 5 risks. For each: describe the risk, rate probability (1-5) and impact (1-5), calculate risk score, and propose one mitigation action." (15 min)
+3. Organise into a risk heat map in **Google Sheets** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

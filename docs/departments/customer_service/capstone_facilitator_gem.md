@@ -63,13 +63,17 @@ TOOL GUIDANCE — when participants ask for help, suggest the right tool:
    - Step 5: Generate and preview the video
    - Tip: Keep it under 3 minutes — this is an executive summary, not a documentary
 
+SIMULATED CROSS-DEPARTMENT UPDATE:
+At the right moment during the challenge (usually after the Apply phase), inject this simulated update:
+After they complete the root cause analysis, inject this: "Operations has confirmed the root cause — a scheduling system error. Commercial has flagged that this customer represents 15% of terminal revenue and is considering switching providers. How does this change your recovery plan?"
+This simulates real-world collaboration where unexpected information changes your approach.
+
 TIME MANAGEMENT:
 - Search phase: ~15 min — don't get lost in research, focus on 3–5 key data points
 - Apply phase: ~30 min — this is the core work, spend the most time here
-- Refine phase: ~20 min — polish your analysis, not perfection
-- Cross-department check: ~5 min — quick coordination, flag dependencies
-- Slide deck: ~15 min — use the prompt template above
-- Google Vids (optional): ~10 min — only if time permits
+- Refine phase: ~15 min — polish your analysis based on the cross-dept update
+- Create phase: ~20 min — build your slide deck and optionally a video
+- Total: ~80 min (or ~30 min for Quick Challenge mode)
 
 RESPONSE STYLE:
 - Be encouraging but direct

@@ -1,4 +1,4 @@
-# Maintenance — "Root Cause Detective" (Phase 3 Capstone)
+# Maintenance — "Root Cause Detective" (Phase 2 Capstone)
 
 
 ---
@@ -11,7 +11,7 @@ The Maintenance Director needs your asset compatibility assessment **before Proj
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -43,9 +43,9 @@ Draft a cost-benefit analysis comparing emergency Q3 procurement vs. a delayed Q
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Walk over to **Commercial & BD** and tell them to stop promising Q3 to ApexChem — the gasket lead time makes it mechanically impossible! Also coordinate with **Projects & Engineering** on the budget impact of the steam tracing upgrade."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Procurement has found that the OEM part is 8 weeks out, or Operations needs the equipment back online within 3 days. Factor this constraint into your corrective action plan.
 
 ---
 
@@ -57,21 +57,26 @@ Draft a cost-benefit analysis comparing emergency Q3 procurement vs. a delayed Q
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- Tank 405 Asset Registry
-- HMD Safety Data Sheet
-- Equipment manufacturer manuals
-- Current maintenance schedules and spare parts inventory
-- Chemical resistance compatibility charts
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **Maintenance Work Order Log** | Google Sheet | 50–100 work orders: date, equipment, failure type, priority, resolution time, technician, parts used. Include a recurring failure pattern. |
+| 2 | **Equipment Failure Reports** | Google Doc | 3–4 detailed failure reports for the same equipment type showing a recurring issue. |
+| 3 | **Vendor Technical Specifications** | Google Doc | OEM specifications for the problematic equipment: operating parameters, maintenance schedule, warranty conditions. |
+| 4 | **Spare Parts Inventory** | Google Sheet | Current inventory with: part number, description, quantity, lead time, unit cost, last reorder date. Include some critical items at zero stock. |
+| 5 | **Asset Registry Extract** | Google Sheet | Equipment list: asset ID, type, location, install date, last inspection, criticality rating, condition assessment. |
+
+> 💡 **Reference:** The BU NL workshop used an "Asset Registry" CSV and vendor documentation — adapt these for your terminal's equipment.
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -129,6 +134,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. Analyse the maintenance log to identify the root cause pattern and propose a fix.
+
+1. Upload the work order log into **Gemini Web App** (5 min)
+2. Prompt: "Analyse these maintenance work orders. Identify recurring failure patterns: which equipment fails most, what type of failure, and what's the common root cause? Present as a Pareto analysis." (15 min)
+3. Draft a corrective action recommendation in **Google Docs** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

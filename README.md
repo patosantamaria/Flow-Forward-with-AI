@@ -8,7 +8,7 @@
 [![Program Status](https://img.shields.io/badge/Status-Active%20%E2%80%93%20Global%20Reuse-brightgreen?style=flat-square)](docs/admin/project_charter.md)
 [![Participants Trained](https://img.shields.io/badge/Participants%20Trained-67-blue?style=flat-square)](docs/admin/participant_tracker.md)
 [![Sessions Delivered](https://img.shields.io/badge/Sessions%20Delivered-9-blue?style=flat-square)](docs/admin/participant_tracker.md)
-[![Departments](https://img.shields.io/badge/Departments-12-orange?style=flat-square)](docs/departments/)
+[![Departments](https://img.shields.io/badge/Departments-14-orange?style=flat-square)](docs/departments/)
 [![Modules](https://img.shields.io/badge/Modules-M1--M11-purple?style=flat-square)](docs/modules/module_catalogue.md)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-lightgrey?style=flat-square)]()
 
@@ -33,10 +33,10 @@ It was created for Vopak's Asia & Middle East Business Unit and delivered across
 | #       | Module                           | Phase   | Time    | Standalone?                            |
 | :------ | :------------------------------- | :------ | :------ | :------------------------------------- |
 | **M1**  | GenAI Foundations                | Phase 1 | 15 min  | ✅ Opens any session                   |
-| **M2**  | The Flow Forward Vision          | Phase 1 | 10 min  | ✅ Always pair with M1                 |
-| **M3**  | Security & Zero Trust            | Phase 1 | 20 min  | ⚠️ Needs M1 · Must run before practice |
-| **M4**  | PTCF Prompting Framework         | Phase 1 | 45 min  | ✅ **The most important module**       |
-| **M5**  | Live Demo: The Difference        | Phase 1 | 15 min  | ⚠️ After M4 only                       |
+| **M2**  | The Flow Forward Vision          | Phase 1 | 15 min  | ✅ Always pair with M1                 |
+| **M3**  | Security & Zero Trust            | Phase 1 | 15 min  | ⚠️ Needs M1 · Must run before practice |
+| **M4**  | PTCF Prompting Framework         | Phase 1 | 15 min  | ✅ **The most important module**       |
+| **M5**  | Live Demo: The Difference        | Phase 1 | 30 min  | ⚠️ After M4 only                       |
 | **M6**  | Gemini in Workspace (Side Panel) | Phase 2 | 60 min  | ✅ Great standalone or local session   |
 | **M7**  | Gemini Web App                   | Phase 2 | 60 min  | ✅ Builds on M4 advanced techniques    |
 | **M8**  | Gemini on Mobile + Gemini Live   | Phase 2 | 30 min  | ✅ For all colleagues                  |
@@ -60,7 +60,7 @@ It was created for Vopak's Asia & Middle East Business Unit and delivered across
 Phase 1 (M1–M5)            Phase 2 (M6–M9)            Phase 3 (M10–M11)          Phase 4 (future)
 Foundation & Ethics   →    Core Tools Deep Dive   →   Automate & Build      →    Agents & Enterprise
 ───────────────────         ────────────────────        ────────────────────        ────────────────────
-60–90 min online            Half-day or Full-day        Full day or 2 halves        Gemini Enterprise
+90 min online               Half-day or Full-day        Full day or 2 halves        Gemini Enterprise
 or 2 hrs on-site            On-site workshop            On-site workshop            licence required
 ```
 
@@ -73,10 +73,10 @@ or 2 hrs on-site            On-site workshop            On-site workshop        
 | Module | Topic                                                                                                        | Time   |
 | :----- | :----------------------------------------------------------------------------------------------------------- | :----- |
 | **M1** | GenAI Foundations — what AI is, where Gemini fits, what Vopak has access to _(Gemini Introductory)_          | 15 min |
-| **M2** | The Flow Forward Vision — why Vopak is investing, the real ROI numbers                                       | 10 min |
-| **M3** | Security & Zero Trust — PII, hallucinations, data boundaries, legal limits                                   | 20 min |
-| **M4** | PTCF Prompting Framework — Persona + Task + Context + Format, the four-element formula for precise AI output | 45 min |
-| **M5** | Live Demo — side-by-side proof that better prompts produce better results                                    | 15 min |
+| **M2** | The Flow Forward Vision — why Vopak is investing, the real ROI numbers                                       | 15 min |
+| **M3** | Security & Zero Trust — PII, hallucinations, data boundaries, legal limits                                   | 15 min |
+| **M4** | PTCF Prompting Framework — Persona + Task + Context + Format, the four-element formula for precise AI output | 15 min |
+| **M5** | Live Demo — side-by-side proof that better prompts produce better results                                    | 30 min |
 
 📄 **[Full Phase 1 Curriculum →](docs/phases/phase1_foundation_ethics.md)**
 
@@ -86,12 +86,12 @@ or 2 hrs on-site            On-site workshop            On-site workshop        
 
 > _"Turning Ask Gemini into your unstoppable daily co-pilot."_
 
-| Module | Tool                                                                                                          | Time   | Best solo session                |
-| :----- | :------------------------------------------------------------------------------------------------------------ | :----- | :------------------------------- |
-| **M6** | Gemini in Workspace — the side panel across Gmail, Docs, Drive, Sheets                                        | 60 min | 90-min focused session           |
-| **M7** | Gemini Web App — file upload, comparison, web research, visual analysis                                       | 60 min | Pair with M6 for half-day        |
-| **M8** | Gemini on Mobile + Gemini Live — voice-to-output, photo-to-table, speed-prompting exercise for all colleagues | 30 min | Add-on to any session            |
-| **M9** | NotebookLM — grounded Q&A across 300 sources with citations, Audio Overviews                                  | 60 min | 90-min for knowledge-heavy teams |
+| Module | Tool                                                                                                                                                                                                                                                              | Time   | Best solo session                |
+| :----- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----- | :------------------------------- |
+| **M6** | Gemini in Workspace — the side panel across Gmail, Docs, Drive, Sheets                                                                                                                                                                                            | 60 min | 90-min focused session           |
+| **M7** | Gemini Web App — file upload, comparison, web research, visual analysis                                                                                                                                                                                           | 60 min | Pair with M6 for half-day        |
+| **M8** | Gemini on Mobile + Gemini Live — speed-prompting and camera-powered AI for all colleagues. **Office:** capture screen errors, speed-prompt while on the go. **Terminal:** use Gemini Live with camera for real-world troubleshooting and equipment identification | 30 min | Add-on to any session            |
+| **M9** | NotebookLM — grounded Q&A across 300 sources with citations, Audio Overviews                                                                                                                                                                                      | 60 min | 90-min for knowledge-heavy teams |
 
 📄 **[Full Phase 2 Curriculum →](docs/phases/phase2_core_tools.md)**
 
@@ -121,29 +121,26 @@ Phase 4 is in development. Where Phase 3 automates a task, Phase 4 deploys **age
 | Area                  | What's planned                                                                                                                                                                                                     |
 | :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Gemini Enterprise** | The licence tier that unlocks extended context windows (2M tokens), deeper grounding, Gemini for Workspace add-ons, and the enterprise-grade agent runtime — the foundation everything else in Phase 4 is built on |
-| Multi-step agents     | Agents that reason, plan, and execute sequences of actions across tools and systems without step-by-step human instruction — built on Google Agent Builder                                                         |
-| System integrations   | Connections to Oracle, ServiceNow, and Vopak's internal data infrastructure via the Gemini Enterprise API and connector library                                                                                    |
+| No-code agents        | Gemini Enterprise no-code agents that reason, plan, and execute sequences of actions across tools and systems without step-by-step human instruction                                                               |
+| Agent connectivity    | Gemini Enterprise allows connecting multiple agents across systems — Oracle, ServiceNow, and Vopak's internal data infrastructure                                                                                  |
 | Who it's for          | Phase 3 graduates — colleagues who have built Gems and automations and are ready to go further                                                                                                                     |
 
 > **Licence note:** Phase 4 requires a **Gemini Enterprise** licence upgrade. The CoE will communicate this separately when Phase 4 is ready to run.
 
 ---
 
-## 🏆 Capstone Challenges (Phase 3)
+## 🏆 Capstone Challenges (After Phase 2)
 
-9 departmental scenarios requiring all three building blocks (Gem + Studio Flow + Script):
+14 department-specific capstone challenges using the **Search → Apply → Refine → Create** framework. Each department works on a realistic Vopak scenario using every tool learned during training. Two difficulty modes available:
 
-| Challenge                       | Focus                           | Level  |
-| :------------------------------ | :------------------------------ | :----- |
-| A: The Report Pipeline          | All departments                 | ⭐⭐   |
-| B: The Inbox Triage Machine     | Commercial, Customer Service    | ⭐⭐   |
-| C: The Document Quality Gate    | Audit, Legal, HR                | ⭐⭐   |
-| D: The Shift Handover Autopilot | Operations (Terminal)           | ⭐⭐   |
-| E: The Safety Alert System      | SHEQ, Operations                | ⭐⭐   |
-| F: Commercial Liability Trap    | Commercial/Legal/Engineering    | ⭐⭐⭐ |
-| G: The CAPEX Engine             | Projects & Engineering, Finance | ⭐⭐⭐ |
-| H: Data Exfiltration Response   | IT, Audit, SHEQ, Legal          | ⭐⭐⭐ |
-| I: Knowledge Organizer          | All departments                 | ⭐⭐   |
+| Mode                | Duration | Tools                                                                                     | Deliverables                                                                        |
+| :------------------ | :------- | :---------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| **Full Challenge**  | ~80 min  | NotebookLM, Deep Research, Gemini Web App, Workspace, Slide Deck Creator Gem, Google Vids | Complete portfolio: notebook, research report, analysis, slide deck, optional video |
+| **Quick Challenge** | ~30 min  | Gemini Web App, Slide Deck Creator Gem                                                    | Focused analysis + 3-slide summary                                                  |
+
+Each capstone includes a **Capstone Facilitator Gem** that guides participants through the challenge with prompt tips, tool suggestions, and simulated cross-department updates.
+
+📄 **[See department capstones →](docs/departments/)**
 
 ---
 

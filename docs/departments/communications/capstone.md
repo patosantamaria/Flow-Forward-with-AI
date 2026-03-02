@@ -1,4 +1,4 @@
-# Communications — "The Narrative Builder" (Phase 3 Capstone)
+# Communications — "The Narrative Builder" (Phase 2 Capstone)
 
 
 ---
@@ -9,7 +9,7 @@ The CEO is about to announce the ApexChem partnership and the company's broader 
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -27,9 +27,9 @@ Polish both deliverables.
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Get the reskilling timeline from **HR** — your communications plan must align with their workforce development milestones."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, SHEQ has released a revised incident timeline, or Legal has flagged restrictions on what can be disclosed publicly. Update your communications plan based on this new input.
 
 ---
 
@@ -42,9 +42,9 @@ Polish both deliverables.
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -102,6 +102,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. A minor incident has occurred at the terminal. Draft the internal employee communication and a press holding statement.
+
+1. Upload the Incident Report into **Gemini Web App** (5 min)
+2. Prompt: "Draft a factual, empathetic internal email to all employees about this incident. Include: what happened, what we're doing, and how to find more information." (10 min)
+3. Prompt: "Draft a 150-word press holding statement. Tone: responsible, transparent, factual. Do not speculate on causes." (10 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

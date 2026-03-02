@@ -1,4 +1,4 @@
-# Legal — "The Contract Minefield" (Phase 3 Capstone)
+# Legal — "The Contract Minefield" (Phase 2 Capstone)
 
 ---
 
@@ -10,7 +10,7 @@ The General Counsel needs a prioritised issue list by end of day, along with a n
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -26,9 +26,9 @@ The General Counsel needs a prioritised issue list by end of day, along with a n
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Loop in **Treasury** — confirm the payment restructuring impact on their FX hedging before accepting that clause. Check with **Commercial & BD** on the take-or-pay volume discrepancy in Annex B — we need the correct figures before the negotiation call. Flag the governing law clause to **IT/OT Digital** if it affects data residency for operational data flowing through this agreement."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Treasury has confirmed the payment restructuring affects their FX hedging model, or Commercial has flagged that the take-or-pay volumes in Annex B are wrong. Update your negotiation matrix.
 
 ---
 
@@ -40,22 +40,27 @@ The General Counsel needs a prioritised issue list by end of day, along with a n
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- Customer's marked-up agreement (redacted)
-- Vopak standard terminal operating agreement template
-- Heads of terms (signed)
-- Vopak Contract Review Checklist
-- Jurisdiction regulatory brief
-- Treasury payment structure memo
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **Customer's Marked-Up Agreement** | Google Doc | A terminal operating agreement with 15–20 tracked changes (simplified from the 47 in the scenario). Include aggressive positions on liability, payment, and termination. |
+| 2 | **Vopak Standard Agreement Template** | Google Doc | Vopak's standard terminal operating agreement — the "clean" version to compare against. |
+| 3 | **Heads of Terms (Signed)** | Google Doc | The agreed commercial terms: volumes, price, duration, key obligations. Some terms should conflict with the marked-up agreement. |
+| 4 | **Contract Review Checklist** | Google Doc | Standard legal review checklist: clause categories, risk flags, standard/non-standard assessment, approvals required. |
+| 5 | **Jurisdiction Regulatory Brief** | Google Doc | 1-page summary of local legal requirements: governing law, dispute resolution options, foreign ownership rules, data residency. |
+| 6 | **Treasury Payment Structure Memo** | Google Doc | Treasury's position on the proposed payment clause changes and FX hedging impact. |
+
+> �� **Tip:** Use Gemini to generate a sample marked-up agreement. Prompt: "Create a 5-page terminal operating agreement with 15 customer-proposed amendments tracked in bold. Focus on liability, payment, force majeure, and termination clauses."
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -113,6 +118,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. Review 5 key clauses from the marked-up agreement and create a Red/Amber/Green matrix.
+
+1. Upload the marked-up agreement and standard template into **Gemini Web App** (5 min)
+2. Prompt: "Compare these 5 clauses (liability, force majeure, payment, termination, governing law) between the customer markup and our standard template. For each: customer position, our position, and classify as Red/Amber/Green." (15 min)
+3. Draft a 200-word response email in **Google Docs** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

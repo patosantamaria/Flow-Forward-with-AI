@@ -1,4 +1,4 @@
-# Finance — "The Investment Radar" (Phase 3 Capstone)
+# Finance — "The Investment Radar" (Phase 2 Capstone)
 
 
 ---
@@ -11,7 +11,7 @@ Meanwhile, **Projects & Engineering** just discovered the budget needs to be rev
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -27,9 +27,9 @@ Meanwhile, **Projects & Engineering** just discovered the budget needs to be rev
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Get the revised budget numbers from **Projects & Engineering** — they've found additional CAPEX needs. Also check with **Audit** — the VTU procurement may need special approval."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Projects & Engineering has revised the CAPEX estimate upward by 20%, or Audit has flagged that the VTU procurement needs special approval above EUR 400K. Update your proposal.
 
 ---
 
@@ -40,20 +40,26 @@ Meanwhile, **Projects & Engineering** just discovered the budget needs to be rev
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- Vopak CAPEX policy
-- Regional market data
-- ApexChem commercial terms
-- Vendor quotes (VTU, trace heating, gaskets)
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **CAPEX Policy Summary** | Google Doc | Vopak's capital expenditure approval process: thresholds, required documentation, approval chain, payback period requirements. |
+| 2 | **Regional Market Data** | Google Doc | 3-page market brief on chemical storage demand in Southeast Asia / Middle East, focusing on new energies (LOHC, Green Ammonia). |
+| 3 | **Commercial Terms Summary** | Google Doc | ApexChem HMD deal terms: contract value, duration, volumes, pricing, special conditions. |
+| 4 | **Vendor Quotes** | Google Sheet | 3 vendor quotes for infrastructure work: VTU (EUR 450K), trace heating (EUR 180K), gasket replacement (EUR 75K). Include line-item breakdowns. |
+| 5 | **5-Year Revenue Projection Template** | Google Sheet | Template for ROI calculation with columns: Year, Revenue, OPEX, Depreciation, Net Cash Flow, Cumulative NPV. |
+
+> 💡 **Reference:** The BU NL workshop used a "Budget Estimate" spreadsheet and vendor quotes — adapt these with your BU's cost structure.
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -111,6 +117,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. The CFO needs a quick CAPEX justification for the ApexChem HMD infrastructure. Build the business case.
+
+1. Upload the CAPEX policy and vendor quotes into **Gemini Web App** (5 min)
+2. Prompt: "Create a 1-page CAPEX business case: total investment (EUR 705K), strategic justification (New Energy pipeline), 3-year ROI projection, key risks." (15 min)
+3. Refine in **Google Docs** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

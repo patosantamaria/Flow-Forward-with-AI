@@ -1,4 +1,4 @@
-# Audit — "The Compliance Watchdog" (Phase 3 Capstone)
+# Audit — "The Compliance Watchdog" (Phase 2 Capstone)
 
 
 ---
@@ -9,7 +9,7 @@ The ApexChem HMD deal involves significant CAPEX (VTU: EUR 450K, trace heating: 
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -25,9 +25,9 @@ The ApexChem HMD deal involves significant CAPEX (VTU: EUR 450K, trace heating: 
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Get the updated CAPEX figures from **Finance** — Projects & Engineering just revised the budget upward."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Procurement has flagged a vendor with an unusual payment pattern, or Finance has revised the revenue recognition schedule. Adapt your analysis based on this new input, just as you would in a real audit.
 
 ---
 
@@ -40,9 +40,9 @@ The ApexChem HMD deal involves significant CAPEX (VTU: EUR 450K, trace heating: 
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -100,6 +100,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. A procurement transaction log shows 3 suspicious patterns. Use **Gemini Web App** to analyse the data and produce a **1-page finding summary** with risk ratings.
+
+1. Upload the Procurement Transaction Log into **Gemini Web App** (5 min)
+2. Prompt: "Analyse this procurement log. Identify the 3 most suspicious patterns and explain why they warrant investigation. Rate each as High/Medium/Low risk." (10 min)
+3. Refine into a structured finding report in **Google Docs** (10 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

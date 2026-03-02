@@ -1,4 +1,4 @@
-# Treasury — "The Refinancing War Room" (Phase 3 Capstone)
+# Treasury — "The Refinancing War Room" (Phase 2 Capstone)
 
 ---
 
@@ -10,7 +10,7 @@ Two bank term sheets have arrived with conflicting pricing structures. Legal has
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -26,9 +26,9 @@ Two bank term sheets have arrived with conflicting pricing structures. Legal has
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Coordinate with **Legal** on the covenant conflict. Check with **Procurement** on arrangement fee treatment. Loop in **Finance** to confirm the CAPEX pipeline — this affects the facility utilisation projections in the bank model."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Legal has flagged a covenant conflict in the existing Senior Notes, or Procurement has identified an ESG-linked pricing clause that affects the sustainability framework. Revise your recommendation.
 
 ---
 
@@ -40,22 +40,26 @@ Two bank term sheets have arrived with conflicting pricing structures. Legal has
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- Existing RCF facility agreement (redacted)
-- Senior Notes indenture (key clauses)
-- Bank A term sheet
-- Bank B term sheet
-- Vopak Treasury Policy
-- Group sustainability targets (GHG, safety)
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **Bank Term Sheet A** | Google Doc | Term sheet from Bank A for a EUR 500M revolving credit facility: interest rate, maturity, covenants, prepayment terms, sustainability-linked pricing. |
+| 2 | **Bank Term Sheet B** | Google Doc | Competing term sheet from Bank B with different terms: higher rate but fewer covenants, different sustainability framework. |
+| 3 | **Existing Loan Agreement (Summary)** | Google Doc | 2-page summary of current Senior Notes: key covenants (leverage ratio, interest coverage), cross-default provisions, change of control clause. |
+| 4 | **Covenant Schedule** | Google Sheet | Current covenant compliance status: covenant type, threshold, current ratio, headroom, next test date. |
+| 5 | **Sustainability Framework** | Google Doc | Vopak's ESG / sustainability-linked loan framework: eligible KPIs, margin ratchet mechanics, reporting requirements. |
+
+> 💡 **Tip:** Use Gemini to generate realistic term sheets. Prompt: "Create a bank term sheet for a EUR 500M revolving credit facility for an industrial company, including sustainability-linked pricing."
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -113,6 +117,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. Two banks have submitted term sheets. Create a comparison matrix and recommendation.
+
+1. Upload both term sheets into **Gemini Web App** (5 min)
+2. Prompt: "Compare these two bank term sheets side by side: interest rate, maturity, covenants, sustainability terms, prepayment flexibility. Present in a comparison table with a recommendation." (15 min)
+3. Refine the recommendation in **Google Docs** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

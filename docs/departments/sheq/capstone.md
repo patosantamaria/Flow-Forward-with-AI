@@ -1,4 +1,4 @@
-# SHEQ — "The Procedure Flow" (Phase 3 Capstone)
+# SHEQ — "The Procedure Flow" (Phase 2 Capstone)
 
 
 ---
@@ -11,7 +11,7 @@ The SHEQ Director needs the new SOP and a toolbox talk script **before the first
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -43,9 +43,9 @@ Transform the toolbox script into a video training presentation.
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "You've identified a Vapor Treatment Surcharge. Walk over to **Commercial & BD** and tell them to update the ApexChem quote! Also check with **Maintenance** — the copper-alloy fittings on Bay 3 are incompatible with HMD."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Operations has reported a near-miss incident related to the procedure you're reviewing, or Maintenance has flagged equipment that doesn't meet the new safety standard. Update your SOP.
 
 ---
 
@@ -57,21 +57,26 @@ Transform the toolbox script into a video training presentation.
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- HMD Safety Data Sheet
-- Current Generic Truck Loading SOP
-- Terminal PPE Matrix
-- Environmental permits (Vergunningen)
-- Previous incident reports related to chemical handling
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **Existing SOP (Legacy)** | Google Doc | An older, text-heavy SOP that needs modernisation. Should have gaps in risk assessment and unclear responsibilities. |
+| 2 | **Incident Investigation Report** | Google Doc | A real-format incident report (anonymised) showing what went wrong, root cause, and corrective actions. |
+| 3 | **Regulatory Requirements Summary** | Google Doc | Relevant SHEQ regulations: environmental permits, safety standards, reporting obligations. |
+| 4 | **Industry Best Practice Standards** | Google Doc | Extract from ISO 45001 or similar: requirements for procedure documentation, risk assessment integration, competency verification. |
+| 5 | **Audit Findings Report** | Google Doc | Recent internal/external audit findings related to procedure compliance: observations, non-conformances, deadlines. |
+
+> 💡 **Reference:** The BU NL workshop used an OHS Standard, VTU Operations SOP, and Incident Investigation Report — excellent foundations for SHEQ data rooms.
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -129,6 +134,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. Convert one section of a legacy SOP into a structured, auditable procedure.
+
+1. Upload the legacy SOP into **Gemini Web App** (5 min)
+2. Prompt: "Rewrite Section 3 of this SOP in a structured format: Step | Action | Responsible | Safety Check | Verification Method. Add a risk assessment for each step." (15 min)
+3. Compare against the industry standard in **Google Docs** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

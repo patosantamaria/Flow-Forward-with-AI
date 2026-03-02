@@ -1,4 +1,4 @@
-# Operations — "Terminal Optimizer" (Phase 3 Capstone)
+# Operations — "Terminal Optimizer" (Phase 2 Capstone)
 
 
 ---
@@ -11,7 +11,7 @@ The Terminal Manager needs a comprehensive operational readiness assessment **be
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -37,9 +37,9 @@ Transform the toolbox script into a video training presentation.
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Check with **SHEQ** — they're rewriting the loading SOP and have identified new PPE requirements. Also warn **Commercial & BD** about the Vapor Treatment Surcharge impact on the ApexChem quote."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, SHEQ has identified new PPE requirements for HMD handling, or Commercial has added a Vapor Treatment Surcharge to the customer quote. Update your readiness assessment.
 
 ---
 
@@ -51,21 +51,26 @@ Transform the toolbox script into a video training presentation.
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- HMD Safety Data Sheet
-- Current Generic Truck Loading SOP
-- Terminal scheduling data (current week)
-- PPE Matrix
-- Emergency response procedures
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **HMD Safety Data Sheet (SDS)** | Google Doc | Full SDS for Hexamethylenediamine: hazard identification, handling/storage, PPE requirements, first aid, spill response. |
+| 2 | **Generic Truck Loading SOP** | Google Doc | Current standard operating procedure for truck loading at the terminal. Should NOT cover HMD-specific requirements (that's the gap to identify). |
+| 3 | **Terminal Scheduling Data** | Google Sheet | Current week's truck schedule: time slots, product, customer, bay assignment, estimated duration. Show full utilisation. |
+| 4 | **PPE Classification Matrix** | Google Doc | Current PPE requirements by product category. HMD should reveal gaps in the existing matrix. |
+| 5 | **Emergency Response Procedures** | Google Doc | Terminal emergency response plan: evacuation routes, assembly points, spill containment, notification chain. |
+
+> 💡 **Reference:** The BU NL workshop used an HMD SDS, Truck Loading SOP, and PPE Matrix — these are excellent foundations. Adapt for your terminal.
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -123,6 +128,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. Create an HMD operational readiness checklist by comparing the SDS against your current generic procedures.
+
+1. Upload the HMD SDS and Generic SOP into **Gemini Web App** (5 min)
+2. Prompt: "Compare this HMD Safety Data Sheet against the generic truck loading SOP. List every gap as: Item | Current Procedure | HMD Requirement | Action Needed." (15 min)
+3. Draft a 2-minute toolbox talk script in **Google Docs** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

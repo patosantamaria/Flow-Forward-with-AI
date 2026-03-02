@@ -11,10 +11,10 @@
 | #       | Module                           | Phase   | Instruction | Practice | Total   | Prerequisites |
 | :------ | :------------------------------- | :------ | :---------- | :------- | :------ | :------------ |
 | **M1**  | GenAI Foundations                | Phase 1 | 15 min      | —        | 15 min  | None          |
-| **M2**  | The Flow Forward Vision          | Phase 1 | 10 min      | —        | 10 min  | None          |
-| **M3**  | Security & Zero Trust            | Phase 1 | 15 min      | 5 min    | 20 min  | M1            |
-| **M4**  | PTCF Prompting Framework         | Phase 1 | 25 min      | 20 min   | 45 min  | M1–M3         |
-| **M5**  | Live Demo: The Difference        | Phase 1 | 15 min      | —        | 15 min  | M4            |
+| **M2**  | The Flow Forward Vision          | Phase 1 | 15 min      | —        | 15 min  | None          |
+| **M3**  | Security & Zero Trust            | Phase 1 | 12 min      | 3 min    | 15 min  | M1            |
+| **M4**  | PTCF Prompting Framework         | Phase 1 | 10 min      | 5 min    | 15 min  | M1–M3         |
+| **M5**  | Live Demo: The Difference        | Phase 1 | 30 min      | —        | 30 min  | M4            |
 | **M6**  | Gemini in Workspace (Side Panel) | Phase 2 | 30 min      | 30 min   | 60 min  | M4            |
 | **M7**  | Gemini Web App                   | Phase 2 | 30 min      | 30 min   | 60 min  | M4            |
 | **M8**  | Gemini on Mobile + Gemini Live   | Phase 2 | 15 min      | 15 min   | 30 min  | M4            |
@@ -85,7 +85,7 @@
 
 ---
 
-### M2 — The Flow Forward Vision `10 min · No prerequisites`
+### M2 — The Flow Forward Vision `15 min · No prerequisites`
 
 **What it covers:** Real Vopak friction points (Operations handover, Treasury CFF), career superpower framing, strategic context (Shifting Gears 2030, Project Ascend 292% ROI).
 
@@ -97,7 +97,7 @@
 
 ---
 
-### M3 — Security & Zero Trust `20 min · Requires M1`
+### M3 — Security & Zero Trust `15 min · Requires M1`
 
 **What it covers:** No PII, no secrets, data cutoffs, hallucinations, financial/legal guardrails, Vopak's AI principles.
 
@@ -109,7 +109,7 @@
 
 ---
 
-### M4 — PTCF Prompting Framework `45 min (incl. practice) · Requires M1–M3`
+### M4 — PTCF Prompting Framework `15 min (incl. practice) · Requires M1–M3`
 
 **What it covers:** Starts with TCF (Task + Context + Format), then introduces Persona as the power upgrade via a live Vopak comparison exercise (same prompt, two personas — different output). Includes chain of thought and conditional logic concepts introduced ahead of M10.
 
@@ -121,7 +121,7 @@
 
 ---
 
-### M5 — Live Demo: The Difference `15 min · Requires M4`
+### M5 — Live Demo: The Difference `30 min · Requires M4`
 
 **What it covers:** Side-by-side comparison of a bad prompt vs. a PTCF-structured prompt. Departmental quick-fire.
 

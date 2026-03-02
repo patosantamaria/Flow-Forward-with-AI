@@ -41,10 +41,10 @@ docs/modules/
 | Module | Name                           | Phase | Duration | Slides | Standalone      |
 | :----- | :----------------------------- | :---- | :------- | :----- | :-------------- |
 | M1     | GenAI Foundations              | 1     | 15 min   | 5      | ✅ Yes          |
-| M2     | The Flow Forward Vision        | 1     | 10 min   | 4      | ✅ Pair with M1 |
-| M3     | Security & Zero Trust          | 1     | 20 min   | 6      | ⚠️ Needs M1     |
-| M4     | PTCF Prompting Framework       | 1     | 45 min   | 8      | ✅ Yes          |
-| M5     | Live Demo: The Difference      | 1     | 15 min   | 4      | ⚠️ After M4     |
+| M2     | The Flow Forward Vision        | 1     | 15 min   | 4      | ✅ Pair with M1 |
+| M3     | Security & Zero Trust          | 1     | 15 min   | 6      | ⚠️ Needs M1     |
+| M4     | PTCF Prompting Framework       | 1     | 15 min   | 8      | ✅ Yes          |
+| M5     | Live Demo: The Difference      | 1     | 30 min   | 4      | ⚠️ After M4     |
 | M6     | Gemini in Workspace            | 2     | 60 min   | 7      | ✅ Yes          |
 | M7     | Gemini Web App                 | 2     | 60 min   | 7      | ✅ Yes          |
 | M8     | Gemini on Mobile + Gemini Live | 2     | 30 min   | 4      | ✅ Add-on       |

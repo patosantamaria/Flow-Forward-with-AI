@@ -71,7 +71,7 @@ A required foundation module based on the first 15 min of the **"Gemini Introduc
 | 1.3     | What is Gemini — and what does Vopak have access to (4 tools + Enterprise Data Protection) | 5 min |
 | 1.4     | What Gemini is good at and what it is not — the Smart Intern model                         | 4 min |
 
-### 📘 M2 · The Flow Forward Vision (10 min)
+### 📘 M2 · The Flow Forward Vision (15 min)
 
 - "Day in the Life" — real Vopak friction points (Operations shift handover, Treasury CFF reconciliation)
 - Your Career Superpower
@@ -94,7 +94,7 @@ A required foundation module based on the first 15 min of the **"Gemini Introduc
 | **Context** | Background info or documents the AI needs | "We are dealing with a highly aggressive supplier"      |
 | **Format**  | How you want the output                   | "Present in a 3-column table"                           |
 
-### 💻 M5 · Live Demo — The Difference (15 min)
+### 💻 M5 · Live Demo — The Difference (30 min)
 
 - **Bad prompt:** "Write an email about the new safety rule for tank 405" → generic, wrong tone
 - **PTCF Master Prompt:** Same ask, structured → ready-to-send, accurate, authoritative

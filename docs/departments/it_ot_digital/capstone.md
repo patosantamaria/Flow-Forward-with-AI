@@ -1,4 +1,4 @@
-# IT, OT & Digital — "The Integration Blueprint" (Phase 3 Capstone)
+# IT, OT & Digital — "The Integration Blueprint" (Phase 2 Capstone)
 
 
 ---
@@ -9,7 +9,7 @@ The CEO's AI mandate requires a technical roadmap for safe, governed AI adoption
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -31,9 +31,9 @@ Create a detailed architecture diagram (described in text) showing the data flow
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Check with **HR** — their reskilling plan needs your AI governance framework to define which tools are sanctioned. Also coordinate with **Audit** on the data classification requirements."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Operations has flagged data latency issues in the current OT system, or Finance needs the integration to support automated invoice matching. Update your architecture.
 
 ---
 
@@ -44,20 +44,26 @@ Create a detailed architecture diagram (described in text) showing the data flow
 
 ---
 
-## Data Room (NotebookLM)
+## �� Data Room — Preparation Guide
 
-- Vopak IT Security Policy
-- AI Acceptable Use Policy
-- Current infrastructure inventory
-- Industry AI deployment case studies
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **System Architecture Overview** | Google Doc | Current IT/OT architecture: Oracle EBS, ServiceNow, SCADA/DCS systems, network topology. Include known pain points. |
+| 2 | **API Specification Document** | Google Doc | Sample API documentation for a key system integration point (e.g., Oracle-to-Warehouse Management System). |
+| 3 | **Data Governance Policy** | Google Doc | Vopak's data classification, retention, and access control policies. Include data residency requirements. |
+| 4 | **Security Requirements** | Google Doc | IT security requirements for new system integrations: authentication, encryption, audit logging, vulnerability management. |
+| 5 | **Integration Request Template** | Google Doc | Standard template for system integration requests: business case, systems involved, data flows, security assessment, estimated effort. |
+
+> 💡 **Tip:** Use Gemini to generate realistic architecture diagrams in text. Prompt: "Describe a typical IT/OT architecture for an industrial chemical storage terminal including Oracle, ServiceNow, SCADA, and cloud services."
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -115,6 +121,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. Map the data flows between 3 key systems and identify integration risks.
+
+1. Upload the architecture overview into **Gemini Web App** (5 min)
+2. Prompt: "Map the data flows between Oracle EBS, the Warehouse Management System, and the SCADA/DCS system. For each flow: what data, frequency, protocol, and what breaks if it fails." (15 min)
+3. Organise into a data flow table in **Google Docs** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

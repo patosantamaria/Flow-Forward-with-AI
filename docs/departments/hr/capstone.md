@@ -1,4 +1,4 @@
-# HR — "Project Ascend" (Phase 3 Capstone)
+# HR — "Project Ascend" (Phase 2 Capstone)
 
 
 ---
@@ -11,7 +11,7 @@ HR needs a reskilling plan and ethical AI guidelines **by the end of this sessio
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -33,9 +33,9 @@ Create a 3-minute change management communication video script for the CEO.
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Check with **Communications** — they need your reskilling timeline to build the internal comms strategy. The messaging must be aligned."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, the Works Council has raised concerns about AI use in performance reviews, or Communications needs your reskilling timeline to align internal messaging. Adapt your plan.
 
 ---
 
@@ -46,20 +46,26 @@ Create a 3-minute change management communication video script for the CEO.
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- Current Employee Handbook (L&D section)
-- Works Council guidelines
-- Vopak AI Acceptable Use Policy
-- Industry AI reskilling case studies
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **Employee Handbook (L&D Section)** | Google Doc | Extract of the current L&D policy: training budget, approval process, certification requirements, mandatory training. |
+| 2 | **Works Council Guidelines** | Google Doc | Summary of Works Council consultation requirements for workforce changes, new technology introduction, and performance management processes. |
+| 3 | **AI Acceptable Use Policy** | Google Doc | Vopak's policy on AI usage: what's allowed, what's prohibited, data handling requirements, human oversight requirements. |
+| 4 | **Industry AI Reskilling Case Studies** | Google Doc | 2–3 case studies from similar industrial organisations that implemented AI reskilling programmes (outcomes, lessons learned). |
+| 5 | **Workforce Skills Assessment Template** | Google Sheet | Template with columns: Department, Role, Current AI Skill Level (1-5), Target Level, Gap, Recommended Training Path. |
+
+> 💡 **Reference:** The BU NL workshop used "Working Conditions Policy" and "Workers Council Minutes" — adapt these for your BU.
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -117,6 +123,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. Design a 3-month AI reskilling pilot for one department.
+
+1. Upload the L&D policy and skills assessment into **Gemini Web App** (5 min)
+2. Prompt: "Design a 3-month AI reskilling pilot for the Finance department (20 people). Include: Month 1 activities, Month 2 activities, Month 3 activities, success metrics, budget estimate." (15 min)
+3. Refine in **Google Docs** (5 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

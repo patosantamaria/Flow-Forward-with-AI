@@ -1,4 +1,4 @@
-# Customer Service — "The Client Shield" (Phase 3 Capstone)
+# Customer Service — "The Client Shield" (Phase 2 Capstone)
 
 
 ---
@@ -11,7 +11,7 @@ Meanwhile, your existing customers at the terminal are concerned about how the n
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -38,9 +38,9 @@ Create a customer onboarding checklist template that can be reused for future ne
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Check with **Operations & SHEQ** — they've identified new PPE requirements and a Vapor Treatment Surcharge. Update your FAQ and customer communication accordingly."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Operations has identified the root cause of the service failure, or Commercial has flagged that this customer represents 15% of terminal revenue. Factor this into your recovery plan.
 
 ---
 
@@ -53,9 +53,9 @@ Create a customer onboarding checklist template that can be reused for future ne
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -113,6 +113,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. A strategic customer has sent an escalation email. Analyse the issue and draft a recovery response.
+
+1. Upload the customer correspondence and SLA into **Gemini Web App** (5 min)
+2. Prompt: "Analyse this escalation. What are the 3 main complaints? How do they compare to our SLA commitments? What's the gap?" (10 min)
+3. Prompt: "Draft a service recovery email to the customer. Acknowledge the issues, explain root cause, and propose 3 concrete remediation steps." (10 min)
+4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

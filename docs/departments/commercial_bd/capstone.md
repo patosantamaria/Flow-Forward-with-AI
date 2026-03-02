@@ -1,4 +1,4 @@
-# Commercial & BD — "Speed to Deal" (Phase 3 Capstone)
+# Commercial & BD — "Speed to Deal" (Phase 2 Capstone)
 
 
 ---
@@ -11,7 +11,7 @@ The Commercial Director needs your team's analysis and a counter-proposal **by t
 
 ---
 
-## Your Mission (Search → Apply → Refine)
+## Your Mission (Search → Apply → Refine → Create)
 
 ### 1. Search (15 min)
 
@@ -43,9 +43,9 @@ Create a 2-minute video briefing using Google Vids highlighting Vopak's unique s
 
 ---
 
-## Cross-Department Check (at 60 min)
+## Mid-Challenge Update (Simulated Cross-Department Input)
 
-> "Are you promising Q3 delivery to ApexChem? Walk over to **Maintenance** — they have a gasket lead time issue that makes Q3 mechanically impossible. Also check with **Operations & SHEQ** — they're rewriting the loading SOP and may add a Vapor Treatment Surcharge to your quote."
+> 🔔 **Simulated cross-department update:** The Facilitator Gem will provide you with new information mid-challenge — for example, Engineering has flagged that the terminal won't be ready until Q4 (not Q3 as promised), or Maintenance has discovered a gasket lead time issue. Adapt your proposal accordingly.
 
 ---
 
@@ -59,20 +59,26 @@ Create a 2-minute video briefing using Google Vids highlighting Vopak's unique s
 
 ---
 
-## Data Room (NotebookLM)
+## 📂 Data Room — Preparation Guide
 
-- ApexChem RFP (45 pages)
-- Vopak 2026 Pricing Matrix
-- Vopak Strategic Mandates document
-- Standard Terms & Conditions
+> **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
+| # | Document | Format | What to Include |
+|:--|:--|:--|:--|
+| 1 | **Customer RFP** | Google Doc | A 10–15 page RFP from "ApexChem Global" requesting HMD storage: volumes, contract duration, pricing expectations, technical requirements, SLA expectations. Include some aggressive clauses (exclusivity, extended payment terms). |
+| 2 | **Pricing Matrix** | Google Sheet | Standard pricing for storage, handling, and services by product category and contract type. Include volume-based discounts. |
+| 3 | **Competitor Intelligence Brief** | Google Doc | 2-page summary of competitor activity in the region: who they are, what they offer, recent contract wins/losses. |
+| 4 | **Standard Terms & Conditions** | Google Doc | Vopak's standard commercial T&Cs for terminal operating agreements. |
+| 5 | **Strategic Mandates Document** | Google Doc | 1-page summary of Vopak's strategic priorities for New Energy products (LOHC, Green Ammonia). |
+
+> 💡 **Reference:** The BU NL workshop used a "Project Phoenix RFP" and "Pricing Matrix" — adapt these for your BU context.
 ---
 
 ---
 
-## 🎤 Final Deliverables — Put Every Tool to Work
+## 🎤 Final Deliverables — What You Leave With
 
-> 💡 This capstone is designed to use **every tool** you learned in training. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance throughout.
+> 💡 This capstone is designed to use **every tool** you learned in training. You leave with a complete portfolio: a **NotebookLM knowledge base**, a **research report**, a **written analysis**, a **slide deck**, and optionally a **video**. Open your **Capstone Facilitator Gem** in a separate tab for prompt tips and guidance.
 
 ### Step 1: Build Your Knowledge Base — NotebookLM (10 min)
 
@@ -130,6 +136,19 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## ⚡ Quick Challenge (30 min alternative)
+
+> **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
+
+**Challenge:** You have 30 minutes. ApexChem has submitted an RFP with 3 problematic clauses. Use **Gemini Web App** to extract the issues and draft a pushback email.
+
+1. Upload the RFP into **Gemini Web App** (5 min)
+2. Prompt: "Extract all commercial terms from this RFP. Flag the 3 most problematic clauses for Vopak and explain why." (10 min)
+3. Prompt: "Draft a professional negotiation email pushing back on these 3 clauses while keeping the deal alive." (10 min)
+4. Create a 3-slide counter-proposal using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

@@ -144,7 +144,7 @@ This is fundamentally different from using AI tools on personal accounts. Always
 
 ---
 
-## 📘 M2 · The Flow Forward Vision (10 min)
+## 📘 M2 · The Flow Forward Vision (15 min)
 
 > **Standalone:** ✅ Yes · 10 min · No prerequisites · Always pair with M1
 > **Deliverable:** The "why" — a personally relevant reason to invest time in this.
@@ -256,7 +256,7 @@ The organization provides the license and the training; the employee provides th
 
 > **Branded Terminology Reminder (Comm/PR & all departments):** When using the PTCF framework for any external communication — customer emails, press releases, regulatory submissions — ensure the Persona and Format elements are aligned with the [Vopak Glossary](../training/vopak_glossary.md). Vopak's voice: **Trustworthy, Collaborative, Courageous.** AI-drafted text should always be reviewed for tone before it goes to an external audience.
 
-## 💻 M5 · Live Demo: The Difference (15 min)
+## 💻 M5 · Live Demo: The Difference (30 min)
 
 > **Standalone:** ⚠️ Only meaningful after M4 · 15 min
 > **Deliverable:** Direct visual proof that better prompts produce dramatically better results.
