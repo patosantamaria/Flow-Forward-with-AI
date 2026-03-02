@@ -115,3 +115,13 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
 | **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
+
+---
+
+## 📁 Save Your Work — Shared Drive
+
+Save all deliverables (slide deck, research report, analysis, and any Google Vids videos) to the **Flow Forward with AI** Shared Drive folder for your department:
+
+> 📂 [Flow Forward Shared Drive](https://drive.google.com/drive/folders/1dSxVMMX2oFBAmyJ-WN5n4y_SLCt6I1wT) → **Capstone Outputs** → _[Your Department]_
+
+Your work becomes part of the programme's example library — we review participant outputs to refine department-specific prompts, Gems, and training examples for future sessions.
