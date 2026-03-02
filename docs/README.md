@@ -20,7 +20,7 @@
 
 ## 🏢 Department Folders (Plug-and-Play)
 
-Each folder contains `prompts.md` (Phase 2), `capstone.md` (Phase 3), and `gems.md`. Pick the folder for the departments attending your workshop.
+Each folder contains `prompts.md` (Phase 2), `gems.md`, `capstone.md` (Phase 3), and `capstone_facilitator_gem.md` (a Gem that guides participants through the capstone challenge). Pick the folder for the departments attending your workshop.
 
 | Department             | Folder                                                     |
 | :--------------------- | :--------------------------------------------------------- |

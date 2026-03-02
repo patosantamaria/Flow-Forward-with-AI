@@ -1,9 +1,0 @@
-Name,Department,Category,Tags,Description,URL,Author
-Prompting Coach,Training,Skill Building,"Prompting, Basics",Helps you refine your prompts.,https://gemini.google.com/app/gem/id_123,Global AI Team
-Meeting Tracker,Operations,Productivity,"Meetings, Summary",Summarizes transcripts and extracts actions.,https://gemini.google.com/app/gem/id_456,Global AI Team
-Transfer Pricing Architect,Tax,Compliance,"Finance, Reporting",Drafts Local/Master file sections from Annual Reports.,https://gemini.google.com/app/gem/id_tax_01,Tax Team (Shirley)
-WHT Treaty Scanner,Tax,Compliance,"Finance, Legal",Instant WHT rates based on flow & jurisdiction.,https://gemini.google.com/app/gem/id_tax_02,Tax Team
-Intercompany Loan Advisor,Tax,Strategy,"Finance, Treasury",Suggests optimal capital structure based on params.,https://gemini.google.com/app/gem/id_tax_03,Tax Team
-Tax Q&A Bot,Tax,Support,"Finance, FAQ",Answers local finance questions on tax rulings.,https://gemini.google.com/app/gem/id_tax_04,Tax Team
-CFO Report Drafter,Tax,Reporting,"Finance, Executive",Summarizes external tax news for the quarterly report.,https://gemini.google.com/app/gem/id_tax_05,Tax Team
-Non-Deductible Detective,Tax,compliance,"Finance, Audit",Flags entertainment costs in GL ledgers.,https://gemini.google.com/app/gem/id_tax_06,Tax Team
