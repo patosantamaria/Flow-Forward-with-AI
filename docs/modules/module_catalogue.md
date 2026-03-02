@@ -1,24 +1,26 @@
 # Module Catalogue — Flow Forward with AI
 
-> **How this works:** Every piece of training content is a **self-contained module**. Each module has its own objectives, practice, and clear outcome. Modules are combined into sessions. Sessions are combined into phases. This makes it easy to run a 1-hour lunch-and-learn or a full two-day programme using the same building blocks.
+```markdown
+> **How this works:** Every piece of training content is a **self-contained module**. Each module has its own objectives, practice, and clear outcome. This modularity makes it easy to run short independent modules or full-day training sessions using the same building blocks.
+```
 
 ---
 
 ## Module Registry
 
-| #       | Module                           | Phase   | Instruction | Practice | Total   | Prerequisites       |
-| :------ | :------------------------------- | :------ | :---------- | :------- | :------ | :------------------ |
-| **M1**  | GenAI Foundations                | Phase 1 | 15 min      | —        | 15 min  | None                |
-| **M2**  | The Flow Forward Vision          | Phase 1 | 10 min      | —        | 10 min  | None                |
-| **M3**  | Security & Zero Trust            | Phase 1 | 15 min      | 5 min    | 20 min  | M1                  |
-| **M4**  | TCF Prompting Framework          | Phase 1 | 20 min      | 15 min   | 35 min  | M1–M3               |
-| **M5**  | Live Demo: The Difference        | Phase 1 | 15 min      | —        | 15 min  | M4                  |
-| **M6**  | Gemini in Workspace (Side Panel) | Phase 2 | 30 min      | 30 min   | 60 min  | M4                  |
-| **M7**  | Gemini Web App                   | Phase 2 | 30 min      | 30 min   | 60 min  | M4                  |
-| **M8**  | Gemini on Mobile                 | Phase 2 | 15 min      | 5 min    | 20 min  | M4                  |
-| **M9**  | NotebookLM                       | Phase 2 | 30 min      | 30 min   | 60 min  | M4                  |
-| **M10** | Gems — Build Your AI Colleague   | Phase 3 | 60 min      | 60 min   | 120 min | M4                  |
-| **M11** | Workspace Studio & Apps Script   | Phase 3 | 45 min      | 60 min   | 105 min | M4, M10 recommended |
+| #       | Module                           | Phase   | Instruction | Practice | Total   | Prerequisites |
+| :------ | :------------------------------- | :------ | :---------- | :------- | :------ | :------------ |
+| **M1**  | GenAI Foundations                | Phase 1 | 15 min      | —        | 15 min  | None          |
+| **M2**  | The Flow Forward Vision          | Phase 1 | 10 min      | —        | 10 min  | None          |
+| **M3**  | Security & Zero Trust            | Phase 1 | 15 min      | 5 min    | 20 min  | M1            |
+| **M4**  | PTCF Prompting Framework         | Phase 1 | 25 min      | 20 min   | 45 min  | M1–M3         |
+| **M5**  | Live Demo: The Difference        | Phase 1 | 15 min      | —        | 15 min  | M4            |
+| **M6**  | Gemini in Workspace (Side Panel) | Phase 2 | 30 min      | 30 min   | 60 min  | M4            |
+| **M7**  | Gemini Web App                   | Phase 2 | 30 min      | 30 min   | 60 min  | M4            |
+| **M8**  | Gemini on Mobile + Gemini Live   | Phase 2 | 15 min      | 15 min   | 30 min  | M4            |
+| **M9**  | NotebookLM                       | Phase 2 | 30 min      | 30 min   | 60 min  | M4            |
+| **M10** | Gems — Build Your AI Colleague   | Phase 3 | 60 min      | 60 min   | 120 min | M6–M9         |
+| **M11** | Workspace Studio & Apps Script   | Phase 3 | 45 min      | 60 min   | 105 min | M10           |
 
 **Total instruction content:** ~4h 45 min · **Total with all practice:** ~8h 25 min (before breaks/lunch)
 
@@ -108,9 +110,9 @@
 
 ---
 
-### M4 — TCF Prompting Framework `35 min (incl. practice) · Requires M1–M3`
+### M4 — PTCF Prompting Framework `45 min (incl. practice) · Requires M1–M3`
 
-**What it covers:** Persona + Task + Context + Format. Bad prompt vs. TCF master prompt demo. Live audience exercise.
+**What it covers:** Starts with TCF (Task + Context + Format), then introduces Persona as the power upgrade via a live Vopak comparison exercise (same prompt, two personas — different output). Includes chain of thought and conditional logic concepts introduced ahead of M10.
 
 **What they leave with:** A universal prompting framework they can apply immediately.
 
@@ -122,7 +124,7 @@
 
 ### M5 — Live Demo: The Difference `15 min · Requires M4`
 
-**What it covers:** Side-by-side comparison of a bad prompt vs. a TCF-structured prompt. Departmental quick-fire.
+**What it covers:** Side-by-side comparison of a bad prompt vs. a PTCF-structured prompt. Departmental quick-fire.
 
 **What they leave with:** Direct visual proof that better prompts produce better results.
 
@@ -156,13 +158,13 @@
 
 ---
 
-### M8 — Gemini on Mobile `20 min · Requires M4`
+### M8 — Gemini on Mobile + Gemini Live `30 min · Requires M4`
 
-**What it covers:** Photo → structured data, voice → safety report, quick translation. Targeted at terminal workers and field staff.
+**What it covers:** Photo → structured data, voice → safety report, quick translation. For all colleagues — not just field staff. Includes a Gemini Live speed-prompting exercise: open a voice conversation, talk through an idea, then turn it into a finished output.
 
-**What they leave with:** AI on their phone — no laptop needed.
+**What they leave with:** AI on their phone — voice-first workflows via Gemini Live.
 
-**Can stand alone:** ✅ Yes — ideal addon to any on-site session with operational staff.
+**Can stand alone:** ✅ Yes — ideal add-on to any session.
 
 📄 [Full content → Phase 2 curriculum](phases/phase2_core_tools.md#-module-8-gemini-on-mobile-20-min)
 
@@ -180,9 +182,9 @@
 
 ---
 
-### M10 — Gems: Build Your AI Colleague `120 min · Requires M4`
+### M10 — Gems: Build Your AI Colleague `120 min · Requires M6–M9`
 
-**What it covers:** What Gems are and why they matter. With vs without demo. Anatomy of a great Gem. Demo gallery (4 pre-built Gems). Guided build (Meeting Summary Machine). Advanced Gems: grounding with files/NotebookLM, team sharing, Gem Architect. Solo build: your department Gem.
+**What it covers:** Opens with advanced prompting techniques for Gem instruction writing (persona/role, chain of thought, conditional logic). Then: what Gems are and why they matter. Demo gallery (4 pre-built Gems). Guided build. Advanced Gems: grounding with files/NotebookLM. Solo build: your department Gem. Ends with **how to share Gems** — sharing via link, managing access, and promoting a Gem to a team-wide shared resource.
 
 **What they leave with:** 2 working Gems — one guided, one of their own design.
 
@@ -194,7 +196,7 @@
 
 ---
 
-### M11 — Workspace Studio & Apps Script `105 min · Requires M4 (M10 recommended)`
+### M11 — Workspace Studio & Apps Script `105 min · Requires M10`
 
 **What it covers:**
 
