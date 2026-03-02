@@ -81,7 +81,7 @@
 
 **Can stand alone:** ✅ Yes — works as an opener for any session.
 
-📄 [Full content → Phase 1 curriculum](phases/phase1_foundation_ethics.md#-module-1-genai-foundations--what-is-this-thing-15-min)
+📄 [Full content → Phase 1 curriculum](../phases/phase1_foundation_ethics.md#-module-1-genai-foundations--what-is-this-thing-15-min)
 
 ---
 
@@ -93,7 +93,7 @@
 
 **Can stand alone:** ✅ Yes — always pair with M1 for context.
 
-📄 [Full content → Phase 1 curriculum](phases/phase1_foundation_ethics.md#-module-2-the-flow-forward-vision-10-min)
+📄 [Full content → Phase 1 curriculum](../phases/phase1_foundation_ethics.md#-module-2-the-flow-forward-vision-10-min)
 
 ---
 
@@ -105,7 +105,7 @@
 
 **Can stand alone:** ⚠️ Needs M1 for context on what Gemini actually is.
 
-📄 [Full content → Phase 1 curriculum](phases/phase1_foundation_ethics.md#-module-3-security--guardrails-15-min)
+📄 [Full content → Phase 1 curriculum](../phases/phase1_foundation_ethics.md#-module-3-security--guardrails-15-min)
 
 ---
 
@@ -117,7 +117,7 @@
 
 **Can stand alone:** ✅ Yes — the single most important module in the programme.
 
-📄 [Full content → Phase 1 curriculum](phases/phase1_foundation_ethics.md#-module-4-the-tcf-prompting-framework-20-min)
+📄 [Full content → Phase 1 curriculum](../phases/phase1_foundation_ethics.md#-module-4-the-tcf-prompting-framework-20-min)
 
 ---
 
@@ -129,7 +129,7 @@
 
 **Can stand alone:** ⚠️ Only meaningful after M4.
 
-📄 [Full content → Phase 1 curriculum](phases/phase1_foundation_ethics.md#-module-5-live-demo--the-difference-15-min)
+📄 [Full content → Phase 1 curriculum](../phases/phase1_foundation_ethics.md#-module-5-live-demo--the-difference-15-min)
 
 ---
 
@@ -141,7 +141,7 @@
 
 **Can stand alone:** ✅ Yes — most immediately applicable module for daily users.
 
-📄 [Full content → Phase 2 curriculum](phases/phase2_core_tools.md#-module-6-gemini-in-workspace--the-side-panel-60-min)
+📄 [Full content → Phase 2 curriculum](../phases/phase2_core_tools.md#-module-6-gemini-in-workspace--the-side-panel-60-min)
 
 ---
 
@@ -153,7 +153,7 @@
 
 **Can stand alone:** ✅ Yes — run after M6 or standalone for analyst-heavy departments.
 
-📄 [Full content → Phase 2 curriculum](phases/phase2_core_tools.md#-module-7-gemini-web-app--heavy-lifting-60-min)
+📄 [Full content → Phase 2 curriculum](../phases/phase2_core_tools.md#-module-7-gemini-web-app--heavy-lifting-60-min)
 
 ---
 
@@ -165,7 +165,7 @@
 
 **Can stand alone:** ✅ Yes — ideal add-on to any session.
 
-📄 [Full content → Phase 2 curriculum](phases/phase2_core_tools.md#-module-8-gemini-on-mobile-20-min)
+📄 [Full content → Phase 2 curriculum](../phases/phase2_core_tools.md#-module-8-gemini-on-mobile-20-min)
 
 ---
 
@@ -177,7 +177,7 @@
 
 **Can stand alone:** ✅ Yes — ideal full half-hour for Finance, SHEQ, HR, or Legal.
 
-📄 [Full content → Phase 2 curriculum](phases/phase2_core_tools.md#-module-9-notebooklm--your-teams-brain-60-min)
+📄 [Full content → Phase 2 curriculum](../phases/phase2_core_tools.md#-module-9-notebooklm--your-teams-brain-60-min)
 
 ---
 
@@ -191,7 +191,7 @@
 
 **Can stand alone:** ✅ Yes — excellent half-day workshop.
 
-📄 [Full content → Phase 3 curriculum](phases/phase3_automate_build.md#-module-10-gems--build-your-ai-colleague)
+📄 [Full content → Phase 3 curriculum](../phases/phase3_automate_build.md#-module-10-gems--build-your-ai-colleague)
 
 ---
 
@@ -208,7 +208,7 @@
 
 **Can stand alone:** ✅ Yes — good afternoon follow-up to a morning Gems workshop (M10).
 
-📄 [Full content → Phase 3 curriculum](phases/phase3_automate_build.md#-module-11-workspace-studio--apps-script)
+📄 [Full content → Phase 3 curriculum](../phases/phase3_automate_build.md#-module-11-workspace-studio--apps-script)
 
 ---
 

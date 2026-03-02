@@ -14,7 +14,7 @@ This report consolidates the technical and strategic backbone of the "Flow Forwa
 
 ### Adoption Metric Refinement: Moving Beyond License Count
 
-The primary metric for Broad Adoption is the **Gemini Penetration Rate**. The previous method of using the fixed overall license count (e.g., ~7,100 licenses) as the denominator led to an artificially low and demotivating result. Our validated approach provides an accurate, actionable rate:
+The primary metric for Broad Adoption is the **Gemini Penetration Rate**. The previous method of using the fixed overall license count (e.g., ~5,000 active Workspace users) as the denominator led to an artificially low and demotivating result. Our validated approach provides an accurate, actionable rate:
 
 $$ \text{Gemini Penetration Rate} = \frac{\text{Active Gemini Users (Numerator)}}{\text{Active Workspace Users (Denominator)}} $$
 

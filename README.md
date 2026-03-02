@@ -238,6 +238,8 @@ The programme is backed by BigQuery analytics correlating workshop attendance wi
 | Document                                                       | Description                                                        |
 | :------------------------------------------------------------- | :----------------------------------------------------------------- |
 | [Project Charter](docs/admin/project_charter.md)               | Programme mandate, phases, scope, success metrics                  |
+| [Capstone Facilitator Guide](docs/admin/capstone_facilitator_guide.md) | Step-by-step master guide for running capstone simulations         |
+| [Resistance Handling Guide](docs/training/resistance_handling.md) | Facilitator cheat sheet for handling common AI objections          |
 | [Participant Tracker](docs/admin/participant_tracker.md)       | 67 trained participants — job title, department, country, location |
 | [Workshop Schedule](docs/admin/workshop_schedule.md)           | Facilitator session timeline                                       |
 | [Module Slides Index](docs/modules/README.md)                  | Per-module slide outlines and curriculum (M1–M11)                  |
