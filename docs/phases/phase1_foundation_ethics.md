@@ -254,7 +254,7 @@ The organization provides the license and the training; the employee provides th
 
 ---
 
-> **Branded Terminology Reminder (Comm/PR & all departments):** When using the PTCF framework for any external communication — customer emails, press releases, regulatory submissions — ensure the Persona and Format elements are aligned with the [Vopak Glossary](../training/vopak_glossary.md). Vopak's voice: **Trustworthy, Collaborative, Courageous.** AI-drafted text should always be reviewed for tone before it goes to an external audience.
+> **Branded Terminology Reminder (Comm/PR & all departments):** When using the PTCF framework for any external communication — customer emails, press releases, regulatory submissions — ensure the Persona and Format elements are aligned with the [Vopak Glossary](../admin/vopak_glossary.md). Vopak's voice: **Trustworthy, Collaborative, Courageous.** AI-drafted text should always be reviewed for tone before it goes to an external audience.
 
 ## 💻 M5 · Live Demo: The Difference (30 min)
 

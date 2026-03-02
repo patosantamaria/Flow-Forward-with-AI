@@ -179,5 +179,5 @@ ORDER BY
 ```
 
 > After running: paste `Job_Title` and `Location_Name` into the tracker.
-> Use `Job_Title` to assign training departments → [Department Guide](../departments/_department_guide.md).
+> Use `Job_Title` to assign training departments → [Department Guide](../admin/_department_guide.md).
 > Also link results to BigQuery adoption logs to measure pre/post training impact → [STRATEGY_AND_ANALYTICS.md](../STRATEGY_AND_ANALYTICS.md).

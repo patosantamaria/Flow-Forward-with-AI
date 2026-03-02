@@ -1,6 +1,6 @@
 # Treasury — Prompt Examples (Phase 2)
 
-> 💡 Ground your prompts with precise Vopak terminology: [Vopak Glossary](../../training/vopak_glossary.md)
+> 💡 Ground your prompts with precise Vopak terminology: [Vopak Glossary](../../admin/vopak_glossary.md)
 
 ---
 

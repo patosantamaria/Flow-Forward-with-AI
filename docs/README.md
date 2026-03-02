@@ -39,9 +39,9 @@ Each folder contains `prompts.md` (Phase 2), `gems.md`, `capstone.md` (Phase 3),
 | Legal                  | [legal/](departments/legal/)                               |
 | IT, OT & Digital       | [it_ot_digital/](departments/it_ot_digital/)               |
 
-**Facilitator:** See the [Department Guide](departments/_department_guide.md) for cross-department collaboration schedule and Data Room prep.
+**Facilitator:** See the [Department Guide](admin/_department_guide.md) for cross-department collaboration schedule and Data Room prep.
 
-> 💡 Use the [Vopak Glossary](training/vopak_glossary.md) to ground your department prompts with precise Vopak terminology.
+> 💡 Use the [Vopak Glossary](admin/vopak_glossary.md) to ground your department prompts with precise Vopak terminology.
 
 ---
 

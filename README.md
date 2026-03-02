@@ -189,7 +189,7 @@ Each capstone includes a **Capstone Facilitator Gem** that guides participants t
 | [Audit](docs/departments/audit/)                                 | [prompts](docs/departments/audit/prompts.md)                | [capstone](docs/departments/audit/capstone.md)                | [gems](docs/departments/audit/gems.md)                |
 | [Communications](docs/departments/communications/)               | [prompts](docs/departments/communications/prompts.md)       | [capstone](docs/departments/communications/capstone.md)       | [gems](docs/departments/communications/gems.md)       |
 
-📄 **[Facilitator Department Guide →](docs/departments/_department_guide.md)** | 📖 **[Vopak Glossary →](docs/training/vopak_glossary.md)**
+📄 **[Facilitator Department Guide →](docs/admin/_department_guide.md)** | 📖 **[Vopak Glossary →](docs/admin/vopak_glossary.md)**
 
 ---
 
@@ -239,7 +239,7 @@ The programme is backed by BigQuery analytics correlating workshop attendance wi
 | :------------------------------------------------------------- | :----------------------------------------------------------------- |
 | [Project Charter](docs/admin/project_charter.md)               | Programme mandate, phases, scope, success metrics                  |
 | [Capstone Facilitator Guide](docs/admin/capstone_facilitator_guide.md) | Step-by-step master guide for running capstone simulations         |
-| [Resistance Handling Guide](docs/training/resistance_handling.md) | Facilitator cheat sheet for handling common AI objections          |
+| [Resistance Handling Guide](docs/admin/resistance_handling.md) | Facilitator cheat sheet for handling common AI objections          |
 | [Participant Tracker](docs/admin/participant_tracker.md)       | 67 trained participants — job title, department, country, location |
 | [Workshop Schedule](docs/admin/workshop_schedule.md)           | Facilitator session timeline                                       |
 | [Module Slides Index](docs/modules/README.md)                  | Per-module slide outlines and curriculum (M1–M11)                  |

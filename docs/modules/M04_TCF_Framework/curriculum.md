@@ -82,7 +82,7 @@ _Expected output: data-focused, mentions reconciliation, reporting speed, error 
 
 ## Branded Terminology Reminder
 
-> When using PTCF for external communication — customer emails, regulatory submissions, press releases — ensure the Persona and Format elements align with the [Vopak Glossary](../../training/vopak_glossary.md). Vopak's voice: **Trustworthy, Collaborative, Courageous.** AI-drafted text must always be reviewed for tone before it reaches an external audience.
+> When using PTCF for external communication — customer emails, regulatory submissions, press releases — ensure the Persona and Format elements align with the [Vopak Glossary](../../admin/vopak_glossary.md). Vopak's voice: **Trustworthy, Collaborative, Courageous.** AI-drafted text must always be reviewed for tone before it reaches an external audience.
 
 ---
 

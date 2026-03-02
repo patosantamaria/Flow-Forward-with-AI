@@ -5,7 +5,7 @@ import datetime
 import os
 
 # Configuration
-OUTPUT_DIR = "docs/training/myservice_care/sandbox_data"
+OUTPUT_DIR = "docs/events/MyService_Care/sandbox_data"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # 1. Generate Incident Log (CSV)
@@ -33,9 +33,9 @@ def generate_incident_log():
         
         # Logic for "Business Time Left" - Make some P1s critical (< 2 hours)
         if prio == "P1":
-            time_left = round(random.uniform(0.5, 4.0), 1)
+            time_left = float(f"{random.uniform(0.5, 4.0):.1f}")
         else:
-            time_left = round(random.uniform(10.0, 48.0), 1)
+            time_left = float(f"{random.uniform(10.0, 48.0):.1f}")
             
         created = (start_date + datetime.timedelta(hours=random.randint(1, 160))).strftime("%Y-%m-%d %H:%M:%S")
         rc = random.choice(root_causes)
