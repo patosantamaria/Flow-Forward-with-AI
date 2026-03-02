@@ -39,7 +39,7 @@ Each folder contains `prompts.md` (Phase 2), `gems.md`, `capstone.md` (Phase 3),
 | Legal                  | [legal/](departments/legal/)                               |
 | IT, OT & Digital       | [it_ot_digital/](departments/it_ot_digital/)               |
 
-**Facilitator:** See the [Department Guide](departments/_track_guide.md) for cross-department collaboration schedule and Data Room prep.
+**Facilitator:** See the [Department Guide](departments/_department_guide.md) for cross-department collaboration schedule and Data Room prep.
 
 > 💡 Use the [Vopak Glossary](training/vopak_glossary.md) to ground your department prompts with precise Vopak terminology.
 
@@ -73,11 +73,11 @@ Each folder contains `prompts.md` (Phase 2), `gems.md`, `capstone.md` (Phase 3),
 
 ## 📁 Specialized Training Plans
 
-> These are tailored training plans for specific teams outside the standard department tracks. They follow the same modular structure but are adapted to department-specific tools and workflows.
+> These are tailored training plans for specific teams outside the standard departments. They follow the same modular structure but are adapted to department-specific tools and workflows.
 
 | Team                          | Status                                                                                    | Lead            |
 | :---------------------------- | :---------------------------------------------------------------------------------------- | :-------------- |
-| **Global Tax (Rotterdam HQ)** | Use [modules/module_catalogue.md](modules/module_catalogue.md) to build custom tax track. | Shirley Terhaar |
+| **Global Tax (Rotterdam HQ)** | Use [modules/module_catalogue.md](modules/module_catalogue.md) to build custom tax department. | Shirley Terhaar |
 
 ---
 

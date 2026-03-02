@@ -189,7 +189,7 @@ Each capstone includes a **Capstone Facilitator Gem** that guides participants t
 | [Audit](docs/departments/audit/)                                 | [prompts](docs/departments/audit/prompts.md)                | [capstone](docs/departments/audit/capstone.md)                | [gems](docs/departments/audit/gems.md)                |
 | [Communications](docs/departments/communications/)               | [prompts](docs/departments/communications/prompts.md)       | [capstone](docs/departments/communications/capstone.md)       | [gems](docs/departments/communications/gems.md)       |
 
-📄 **[Facilitator Department Guide →](docs/departments/_track_guide.md)** | 📖 **[Vopak Glossary →](docs/training/vopak_glossary.md)**
+📄 **[Facilitator Department Guide →](docs/departments/_department_guide.md)** | 📖 **[Vopak Glossary →](docs/training/vopak_glossary.md)**
 
 ---
 

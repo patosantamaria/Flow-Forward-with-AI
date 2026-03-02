@@ -19,7 +19,7 @@ HR needs a reskilling plan and ethical AI guidelines **by the end of this sessio
 
 ### 2. Apply (30 min)
 
-> **Prompt:** "Draft a 6-month Workforce Reskilling & Transition Plan for Vopak AME BU. Structure: Month 1-2 (Awareness), Month 3-4 (Skills Building), Month 5-6 (Integration). For each phase: target audience, activities, resources needed, success metrics. Include a specific track for AI Champions development."
+> **Prompt:** "Draft a 6-month Workforce Reskilling & Transition Plan for Vopak AME BU. Structure: Month 1-2 (Awareness), Month 3-4 (Skills Building), Month 5-6 (Integration). For each phase: target audience, activities, resources needed, success metrics. Include a specific pathway for AI Champions development."
 
 > **Prompt:** "Draft Ethical Guidelines for AI in Recruitment & Performance Management at Vopak. Cover: (1) what AI can and cannot be used for in hiring decisions, (2) transparency requirements when AI is used in performance reviews, (3) data privacy protections for employee data, (4) Works Council notification requirements."
 

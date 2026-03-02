@@ -188,7 +188,7 @@ Terminals have shift workers with limited screen time. They cannot attend a full
 - Each QR code links to one pre-built Gem in the Gem Marketplace — scan, open, use. No login beyond their existing Google account.
 - **Poster format:** "Tired of writing shift handovers? Scan this → paste your notes → done in 90 seconds."
 
-### 5.3 The 15-Minute Micro-Training Track
+### 5.3 The 15-Minute Micro-Training Series
 
 For terminal workers who cannot attend workshops, deliver training as **daily micro-lessons via Google Chat**:
 
