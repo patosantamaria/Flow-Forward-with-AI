@@ -31,7 +31,7 @@ The CoE bridges the gap between aggressive enablement and strict IT governance. 
 ### 1.1 The Training Library
 
 - Hosts on-demand recordings of Phase 1, 2, and 3 sessions.
-- Distributes PDF Quick-Start guides and the TCF prompting cheat sheets.
+- Distributes PDF Quick-Start guides and the PTCF prompting cheat sheets.
 
 ### 1.2 The Gemini Governance Registry
 
@@ -69,7 +69,7 @@ Training events create usage spikes. Micro-learning creates sustained habits.
 
 ### 2.2 Content Roadmap (Example)
 
-- **Week 1:** "The Perfect TCF Prompt" (M4 recap)
+- **Week 1:** "The Perfect PTCF Prompt" (M4 recap)
 - **Week 2:** "Ask Gemini to summarize a 50-email thread" (M6 recap)
 - **Week 3:** "Generating an Audio Overview in NotebookLM" (M9 recap)
 - **Week 4:** "Setting up an inbox triage flow in Workspace Studio" (M11 recap)

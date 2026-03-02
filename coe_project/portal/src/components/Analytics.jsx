@@ -2,7 +2,7 @@ const kpis = [
   { value: '292%', label: 'Projected ROI', sub: 'Project Ascend internal analysis', icon: 'trending_up' },
   { value: '23 mo.', label: 'Payback period', sub: 'Based on current adoption rates', icon: 'schedule' },
   { value: '~30%', label: 'Of the day — searching', sub: 'Knowledge workers across Oracle, Drive & SharePoint', icon: 'manage_search' },
-  { value: '67', label: 'Colleagues trained', sub: 'Across 9 sessions in 12 departments', icon: 'groups' },
+  { value: '67', label: 'Colleagues trained', sub: 'Across 9 sessions in 14 departments', icon: 'groups' },
 ]
 
 const examples = [

@@ -37,7 +37,7 @@
 
 ---
 
-**How confident do you feel using the TCF (Persona, Task, Context, Format) prompting method?** _(1 = Not at all confident → 5 = Very confident)_
+**How confident do you feel using the PTCF (Persona, Task, Context, Format) prompting method?** _(1 = Not at all confident → 5 = Very confident)_
 
 **Is there anything from Phase 1 you'd like us to revisit or clarify during Phase 2?** _(short answer)_
 

@@ -1,8 +1,8 @@
 # M8 — Gemini on Mobile: Slide Outline
 
-> **Module:** M8 · **Duration:** 20 min · **Slides:** 4 · **Prerequisites:** M4  
-> **Ref curriculum:** [phase2_core_tools.md](../../phases/phase2_core_tools.md#-m8--gemini-on-mobile)  
-> **Primary audience:** Terminal staff, field workers, site supervisors, maintenance crews, Operations.
+> **Module:** M8 · **Duration:** 30 min · **Slides:** 4  
+> **Slide Design:** Standard CoE template (provided)  
+> **For all colleagues** — includes Gemini Live speed-prompting exercise.
 
 ---
 

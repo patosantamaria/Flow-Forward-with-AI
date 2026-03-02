@@ -59,7 +59,7 @@ Participants analyze a real document, run a multi-document comparison, and compl
 
 1. Find two conflicting documents or a large PDF you need to analyze this week.
 2. Upload it to Gemini Web App.
-3. Apply a TCF prompt to extract a specific table or summary.
+3. Apply a PTCF prompt to extract a specific table or summary.
 
 ### ⏱️ "Time Saved" Exercise (15 min)
 

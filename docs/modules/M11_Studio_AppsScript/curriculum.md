@@ -2,7 +2,7 @@
 
 > **Module:** M11 · **Duration:** 105 min net content (incl. practice) · **Standalone:** ✅ Yes (afternoon workshop)  
 > **Slides:** [slides.md](slides.md) · **Phase overview:** [phase3_automate_build.md](../../phases/phase3_automate_build.md)  
-> **Prerequisites:** M4 (TCF Framework); M10 (Gems) recommended.  
+> **Prerequisites:** M10 (Gems).  
 > **What they leave with:** 1 Studio flow running on autopilot + 1 Gemini-written Apps Script.
 
 ---

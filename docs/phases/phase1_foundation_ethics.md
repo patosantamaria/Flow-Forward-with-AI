@@ -9,7 +9,7 @@
 | **Duration**             | 75 Minutes (Standard) to 90 Minutes (Extended Practice)                                                                                                                      |
 | **Format**               | Remote/Online Webinar OR On-site Townhall                                                                                                                                    |
 | **Prerequisites**        | None (This is the baseline program)                                                                                                                                          |
-| **What they leave with** | A clear understanding of what AI is, clear boundaries on what is safe, and the PTCF prompting formula — starting from TCF basics and unlocking Persona as the power upgrade. |
+| **What they leave with** | A clear understanding of what AI is, clear boundaries on what is safe, and the PTCF prompting formula — starting from PTCF basics and unlocking Persona as the power upgrade. |
 
 ### The 3 Building Blocks
 
@@ -32,7 +32,7 @@ This baseline session is modular to fit different company rhythms.
 | 15 min       | M1         | GenAI Foundations — What Is This Thing?                                   |
 | 10 min       | M2         | The "Flow Forward" Vision                                                 |
 | 15 min       | M3         | Security & Guardrails (Zero Trust)                                        |
-| 25 min       | M4         | The PTCF Prompting Framework (TCF → Persona reveal + comparison exercise) |
+| 25 min       | M4         | The PTCF Prompting Framework (PTCF → Persona reveal + comparison exercise) |
 | 15 min       | M5         | Live Demo: The Difference                                                 |
 | 5 min        | Closing    | Homework & Next Steps                                                     |
 | **→ 90 min** | ✅ _Total_ | _Full interactive session_                                                |
@@ -44,7 +44,7 @@ This baseline session is modular to fit different company rhythms.
 | 10 min       | M1         | GenAI Foundations — What Is This Thing?                |
 | 8 min        | M2         | The "Flow Forward" Vision                              |
 | 12 min       | M3         | Security & Guardrails                                  |
-| 20 min       | M4         | The PTCF Prompting Framework (focus on TCF foundation) |
+| 20 min       | M4         | The PTCF Prompting Framework (focus on PTCF foundation) |
 | 10 min       | M5         | Live Demo: The Difference                              |
 | 5 min        | Closing    | Q&A & Next Steps                                       |
 | **→ 60 min** | ✅ _Total_ | _Executive Overview_                                   |
@@ -60,7 +60,7 @@ This baseline session is modular to fit different company rhythms.
 
 > **Reference:** This module is based on the first 15 minutes of the **"Gemini Introductory"** internal training developed by Patricio Santamaria. Unlike the rest of Phase 1, this section does not focus on any specific features — it builds the conceptual foundation every participant needs before the rest of training makes sense.
 >
-> **Why this comes first:** Most training programs assume participants already understand what AI _is_. They don't. Without this shared vocabulary, the TCF framework and the Zero Trust guardrails land on shaky foundations.
+> **Why this comes first:** Most training programs assume participants already understand what AI _is_. They don't. Without this shared vocabulary, the PTCF framework and the Zero Trust guardrails land on shaky foundations.
 
 ### 0.1 What Is Artificial Intelligence? (3 min)
 
@@ -234,7 +234,7 @@ The organization provides the license and the training; the employee provides th
 
 ---
 
-## 🧠 M4 · The TCF Prompting Framework (35 min incl. practice)
+## 🧠 M4 · The PTCF Prompting Framework (35 min incl. practice)
 
 > **Standalone:** ✅ Yes · 35 min · Requires M3 (security guardrails first) · **The single most important module in the programme**
 > **Deliverable:** A universal prompting formula participants can apply the moment they get back to their desk.
@@ -254,7 +254,7 @@ The organization provides the license and the training; the employee provides th
 
 ---
 
-> **Branded Terminology Reminder (Comm/PR & all departments):** When using the TCF framework for any external communication — customer emails, press releases, regulatory submissions — ensure the Persona and Format elements are aligned with the [Vopak Glossary](../training/vopak_glossary.md). Vopak's voice: **Trustworthy, Collaborative, Courageous.** AI-drafted text should always be reviewed for tone before it goes to an external audience.
+> **Branded Terminology Reminder (Comm/PR & all departments):** When using the PTCF framework for any external communication — customer emails, press releases, regulatory submissions — ensure the Persona and Format elements are aligned with the [Vopak Glossary](../training/vopak_glossary.md). Vopak's voice: **Trustworthy, Collaborative, Courageous.** AI-drafted text should always be reviewed for tone before it goes to an external audience.
 
 ## 💻 M5 · Live Demo: The Difference (15 min)
 
@@ -269,7 +269,7 @@ The organization provides the license and the training; the employee provides th
 - **Result:** Generic, likely inaccurate, wrong tone. No context, no guardrails.
 - **Why it failed:** The AI had to guess what tone to use, what the rule was, and how to format it.
 
-### 4.2 Demo 2: The TCF Master Prompt
+### 4.2 Demo 2: The PTCF Master Prompt
 
 - **Input:**
   > "(Persona) Act as the Terminal Manager for BU Netherlands.
@@ -281,7 +281,7 @@ The organization provides the license and the training; the employee provides th
 
 ### 4.3 Departmental Quick-Fire
 
-_Show one quick TCF prompt per department audience to prove relevance across all functions:_
+_Show one quick PTCF prompt per department audience to prove relevance across all functions:_
 
 - **Commercial:** "(Persona) Head of Commercial. (Task) Draft a prospect email. (Context) Competing against lower-cost competitor, value is safety. (Format) Persuasive tone, 3 bullets."
 - **Engineering:** "(Persona) Forensic Project Manager. (Task) Identify top 3 risks. (Context) Tank 405 conversion. (Format) Risk register table."
@@ -305,6 +305,6 @@ _Show one quick TCF prompt per department audience to prove relevance across all
 
 ## 🎯 Closing & Next Steps
 
-1. **Provide the Quick-Start Guide:** Distribute a 1-page PDF summarizing the TCF framework and the Core Security Guardrails.
+1. **Provide the Quick-Start Guide:** Distribute a 1-page PDF summarizing the PTCF framework and the Core Security Guardrails.
 2. **Homework (Pre-Work for Phase 2):** Ask employees to log their top 3 most repetitive or frustrating daily tasks and bring that list to Phase 2 (Core Tools Deep Dive).
 3. **Survey:** Send a brief feedback survey. Include the question: _"What holds you back from using AI more?"_ with options: "I don't know what to ask it", "I'm not confident in what to ask", "I don't trust the output", "I don't have time to learn".

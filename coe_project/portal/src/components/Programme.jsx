@@ -18,7 +18,7 @@ const phases = [
     title: 'Phase 2 — Core Tools Deep Dive',
     sub: 'M6–M9 · Half-day or full day · Requires Phase 1',
     tagline: 'Turning "Ask Gemini" into your unstoppable daily co-pilot.',
-    desc: `We go hands-on with the four tools already in your Vopak account. The side panel in Gmail and Docs, the Web App for heavy analysis and document comparison, Gemini on Mobile for field staff, and NotebookLM — a grounded research space that works only with files you control, so it never invents answers about your own documents.`,
+    desc: `We go hands-on with the four tools already in your Vopak account. The side panel in Gmail and Docs, the Web App for heavy analysis and document comparison, Gemini on Mobile + Gemini Live for all colleagues, and NotebookLM — a grounded research space that works only with files you control, so it never invents answers about your own documents.`,
     outcome: "You leave with: working knowledge of all four tools and at least one task you've already done faster.",
     chips: ['Hands-on workshop', 'Half-day or full day', 'Requires Phase 1'],
     comingSoon: false,

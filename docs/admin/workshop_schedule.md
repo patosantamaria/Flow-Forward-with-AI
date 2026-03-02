@@ -11,7 +11,7 @@
 | Duration   | Module(s)          | Facilitator Action                                                          |
 | :--------- | :----------------- | :-------------------------------------------------------------------------- |
 | 30 min     | M1 + M2            | **Intro:** Vision, Vopak career superpower framing, what GenAI actually is. |
-| 30 min     | M3 + M4            | **Guardrails:** Security, Zero Trust, No PII. Intro TCF Framework.          |
+| 30 min     | M3 + M4            | **Guardrails:** Security, Zero Trust, No PII. Intro PTCF Framework.          |
 | 15 min     | ☕ Break           |                                                                             |
 | **→ 1h15** | _Morning Part 1_   | _Foundation complete_                                                       |
 | 60 min     | M6                 | **Side Panel:** Gmail, Docs, Drive. Cross-app context. Guided practice.     |
@@ -34,7 +34,7 @@
 
 | Duration   | Module       | Facilitator Action                                              |
 | :--------- | :----------- | :-------------------------------------------------------------- |
-| 30 min     | M4 (Express) | TCF Refresher + Live Demo (M5).                                 |
+| 30 min     | M4 (Express) | PTCF Refresher + Live Demo (M5).                                 |
 | 60 min     | M6           | Gemini in Workspace (Side Panel). Focus: Gmail/Docs efficiency. |
 | 15 min     | ☕ Break     |                                                                 |
 | **→ 1h45** | _Morning_    | _Refresher + Side Panel complete_                               |
@@ -69,5 +69,5 @@
 | :----------- | :--------- | :-------------------------------------------------- |
 | 25 min       | M1 + M2    | What is it + Why Vopak. Fast, visual, story-driven. |
 | **→ 25 min** | _Core_     | _Minimum viable overview_                           |
-| +20 min      | M3 + M4    | _(Optional)_ Zero Trust + 10-min TCF intro.         |
+| +20 min      | M3 + M4    | _(Optional)_ Zero Trust + 10-min PTCF intro.         |
 | **→ 45 min** | ✅ _Total_ | _Extended Executive session_                        |

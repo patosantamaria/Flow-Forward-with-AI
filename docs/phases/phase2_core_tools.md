@@ -4,13 +4,13 @@
 
 ## Overview
 
-| Field                    | Detail                                                                                                |
-| :----------------------- | :---------------------------------------------------------------------------------------------------- |
-| **Duration**             | Half-day (3.5 hrs) or Full-day (6 hrs) — see module configurations                                    |
-| **Format**               | On-site, hands-on workshop                                                                            |
-| **Prerequisites**        | Phase 1 (M1–M4 minimum) — participants must have the TCF framework before tool practice is meaningful |
-| **What they leave with** | Working knowledge of 4 tools: Gemini side panel, Gemini Web App, Gemini on Mobile, NotebookLM         |
-| **Modules**              | M6 (Gemini in Workspace) · M7 (Gemini Web App) · M8 (Mobile) · M9 (NotebookLM)                        |
+| Field                    | Detail                                                                                                 |
+| :----------------------- | :----------------------------------------------------------------------------------------------------- |
+| **Duration**             | Half-day (3.5 hrs) or Full-day (6 hrs) — see module configurations                                     |
+| **Format**               | On-site, hands-on workshop                                                                             |
+| **Prerequisites**        | Phase 1 (M1–M4 minimum) — participants must have the PTCF framework before tool practice is meaningful |
+| **What they leave with** | Working knowledge of 4 tools: Gemini side panel, Gemini Web App, Gemini on Mobile, NotebookLM          |
+| **Modules**              | M6 (Gemini in Workspace) · M7 (Gemini Web App) · M8 (Mobile) · M9 (NotebookLM)                         |
 
 ### The 3 Core Tools
 
@@ -134,7 +134,7 @@ _(Have employees break into their departments and execute specific prompts.)_
 
 1. Ask the audience to find two conflicting documents or a massive PDF they have to read this week.
 2. Upload it to Gemini Web App.
-3. Apply a TCF prompt to extract a specific table or summary.
+3. Apply a PTCF prompt to extract a specific table or summary.
 
 ### ⏱️ "Time Saved" Exercise (15 min)
 
@@ -150,13 +150,13 @@ _(Have employees break into their departments and execute specific prompts.)_
 
 ---
 
-## 📱 M8 · Gemini on Mobile (20 min)
+## 📱 M8 · Gemini on Mobile + Gemini Live (30 min)
 
-> **Standalone:** ✅ Yes · 20 min · Requires M4 · Best as an add-on, not a standalone session
-> **Local delivery:** 20-min add-on at the end of M6 or M7 when field/terminal staff are in the room
+> **Standalone:** ✅ Yes · 30 min · Requires M4 · Works as an add-on to any session
+> **Local delivery:** 30-min add-on at the end of M6 or M7
 > **Deliverable:** Participants convert a whiteboard photo or voice memo into structured data on their phone.
 
-> This section is specifically designed for colleagues who work on terminals, in the field, or away from a desk.
+> This module is for **all colleagues** — not limited to field staff. It includes a Gemini Live speed-prompting exercise.
 
 **Key message:** "You don't need a laptop. Gemini lives on your phone."
 

@@ -27,7 +27,7 @@ This program is structured into 11 self-contained modules to allow for flexible 
 
 | Phase                    | Core Focus           | Key Outcome                                                           |
 | :----------------------- | :------------------- | :-------------------------------------------------------------------- |
-| **Foundation** (M1–M5)   | Foundations & Ethics | Shared vocabulary, Zero Trust security, and TCF prompting skills.     |
+| **Foundation** (M1–M5)   | Foundations & Ethics | Shared vocabulary, Zero Trust security, and PTCF prompting skills.     |
 | **Toolbox** (M6–M9)      | Core Tools Deep Dive | Proficiency in Workspace Side Panel, Web App, Mobile, and NotebookLM. |
 | **Automation** (M10–M11) | Automate & Build     | Ability to build custom Gems and no-code Studio automations.          |
 

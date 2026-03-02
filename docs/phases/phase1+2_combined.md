@@ -4,12 +4,12 @@
 
 ## Overview
 
-| Field                    | Detail                                                                                                                                                       |
-| :----------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Duration**             | Full Day (approx. 7.5 hours including breaks and lunch)                                                                                                      |
-| **Format**               | On-site workshop (also works as a remote full-day with more structured breakout management)                                                                  |
-| **Prerequisites**        | None — this is the entry point for the entire programme                                                                                                      |
-| **What they leave with** | Clear understanding of GenAI and Gemini, Zero Trust guardrails, TCF framework, and hands-on mastery of the Gemini side panel, Gemini Web App, and NotebookLM |
+| Field                    | Detail                                                                                                                                                        |
+| :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Duration**             | Full Day (approx. 7.5 hours including breaks and lunch)                                                                                                       |
+| **Format**               | On-site workshop (also works as a remote full-day with more structured breakout management)                                                                   |
+| **Prerequisites**        | None — this is the entry point for the entire programme                                                                                                       |
+| **What they leave with** | Clear understanding of GenAI and Gemini, Zero Trust guardrails, PTCF framework, and hands-on mastery of the Gemini side panel, Gemini Web App, and NotebookLM |
 
 > **Design note:** This combined format is the result of the practical reality from the AME BU pilot — Phases 1 and 2 were always delivered together. Rather than improvising the merge on-site, this document provides a tested single-day schedule that flows naturally from awareness to hands-on practice.
 
@@ -23,9 +23,9 @@
 | 15 min     | M1                 | GenAI Foundations — what is AI, what is Gemini, what do we have |
 | 10 min     | M2                 | The Flow Forward Vision — why Vopak is investing in this        |
 | 15 min     | M3                 | Security & Guardrails (Zero Trust)                              |
-| 20 min     | M4                 | The TCF Prompting Framework                                     |
-| 15 min     | M5                 | Live Demo — The Difference (bad vs TCF prompt)                  |
-| 15 min     | 🔨 Practice        | Live TCF Exercise (audience submits prompts live)               |
+| 25 min     | M4                 | The PTCF Prompting Framework (TCF → Persona reveal)             |
+| 15 min     | M5                 | Live Demo — The Difference (bad vs PTCF prompt)                 |
+| 15 min     | 🔨 Practice        | Live PTCF Exercise (audience submits prompts live)              |
 | **→ 1h40** | _Morning Part 1_   | _Foundation complete_                                           |
 | 15 min     | ☕ Break           |                                                                 |
 | 30 min     | M6                 | Gemini in Workspace — The Side Panel                            |
@@ -34,7 +34,7 @@
 | **→ 3h30** | _Morning Part 2_   | _Core Tools Part 1 complete_                                    |
 | 60 min     | 🍽️ Lunch           |                                                                 |
 | 30 min     | 🔨 Practice        | Analyze & Compare + Time Saved exercise                         |
-| 15 min     | M8                 | Gemini on Mobile — for field workers and terminal staff         |
+| 20 min     | M8                 | Gemini on Mobile + Gemini Live — for all colleagues             |
 | 30 min     | M9                 | NotebookLM — Your Team's Brain                                  |
 | 15 min     | ☕ Break           |                                                                 |
 | 30 min     | 🔨 Practice        | NotebookLM: Upload, ask, Audio Overview demo                    |
@@ -83,7 +83,7 @@ A required foundation module based on the first 15 min of the **"Gemini Introduc
 - Limits: data cutoffs, hallucinations, financial/legal guard
 - Vopak AI Principles: Trustworthy, Collaborative, Courageous
 
-### 🧠 M4 · TCF Prompting Framework (20 min)
+### 🧠 M4 · PTCF Prompting Framework (20 min)
 
 **[Persona] + [Task] + [Context] + [Format]**
 
@@ -97,12 +97,12 @@ A required foundation module based on the first 15 min of the **"Gemini Introduc
 ### 💻 M5 · Live Demo — The Difference (15 min)
 
 - **Bad prompt:** "Write an email about the new safety rule for tank 405" → generic, wrong tone
-- **TCF Master Prompt:** Same ask, structured → ready-to-send, accurate, authoritative
-- **Departmental Quick-Fire:** One TCF prompt per function in the room (Commercial, Engineering, Finance)
+- **PTCF Master Prompt:** Same ask, structured → ready-to-send, accurate, authoritative
+- **Departmental Quick-Fire:** One PTCF prompt per function in the room (Commercial, Engineering, Finance)
 
-### 🔨 Live Practice: TCF Exercise (15 min)
+### 🔨 Live Practice: PTCF Exercise (15 min)
 
-Each participant writes one TCF prompt for their real work. 3–4 volunteers share. Facilitator gives feedback live.
+Each participant writes one PTCF prompt for their real work. 3–4 volunteers share. Facilitator gives feedback live.
 
 ---
 
@@ -135,7 +135,7 @@ The standalone chat interface for analysis, comparison, and research:
 
 ### 🔨 Practice: Analyze & Compare + Time Saved Exercise (30 min)
 
-1. Upload a real PDF or document from this week → apply a TCF prompt to extract what you need
+1. Upload a real PDF or document from this week → apply a PTCF prompt to extract what you need
 2. **"Time Saved" Table:** Each person fills in their top 3 repetitive tasks with time estimates. Facilitator reads totals aloud: "You just identified X hours/month you could get back."
 
 ### 📱 M8 · Gemini on Mobile (15 min)

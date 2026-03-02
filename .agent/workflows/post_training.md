@@ -70,7 +70,7 @@ Reference: `coe_project/queries/action_leaderboard.sql` (Query 6)
 
 | Week | Topic                                        | Feature                             | Link to Phase |
 | :--- | :------------------------------------------- | :---------------------------------- | :------------ |
-| W1   | The Perfect TCF Prompt                       | Gemini Chat                         | Phase 1 recap |
+| W1   | The Perfect PTCF Prompt                      | Gemini Chat                         | Phase 1 recap |
 | W2   | Summarize a 50-email thread in Gmail         | Gemini in Gmail — summarize_thread  | Phase 2       |
 | W3   | Generate an Audio Overview in NotebookLM     | NotebookLM — audio_overview         | Phase 2       |
 | W4   | Cross-reference two documents in the Web App | Gemini Web App — file upload        | Phase 2       |

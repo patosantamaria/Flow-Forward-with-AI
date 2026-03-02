@@ -173,13 +173,14 @@ Phase 4 is in development. Where Phase 3 automates a task, Phase 4 deploys **age
 
 ## 🏢 Department Content
 
-12 departments. Each with a dedicated prompt library, capstone challenge, and Gem examples — grounded in real Vopak operational scenarios.
+14 departments. Each with a dedicated prompt library, capstone challenge, and Gem examples — grounded in real Vopak operational scenarios.
 
 | Department                                                       | Prompts                                                     | Capstone                                                      | Gems                                                  |
 | :--------------------------------------------------------------- | :---------------------------------------------------------- | :------------------------------------------------------------ | :---------------------------------------------------- |
 | [Commercial & BD](docs/departments/commercial_bd/)               | [prompts](docs/departments/commercial_bd/prompts.md)        | [capstone](docs/departments/commercial_bd/capstone.md)        | [gems](docs/departments/commercial_bd/gems.md)        |
 | [Customer Service](docs/departments/customer_service/)           | [prompts](docs/departments/customer_service/prompts.md)     | [capstone](docs/departments/customer_service/capstone.md)     | [gems](docs/departments/customer_service/gems.md)     |
 | [Finance](docs/departments/finance/)                             | [prompts](docs/departments/finance/prompts.md)              | [capstone](docs/departments/finance/capstone.md)              | [gems](docs/departments/finance/gems.md)              |
+| [Treasury](docs/departments/treasury/)                           | [prompts](docs/departments/treasury/prompts.md)             | [capstone](docs/departments/treasury/capstone.md)             | [gems](docs/departments/treasury/gems.md)             |
 | [HR](docs/departments/hr/)                                       | [prompts](docs/departments/hr/prompts.md)                   | [capstone](docs/departments/hr/capstone.md)                   | [gems](docs/departments/hr/gems.md)                   |
 | [Operations](docs/departments/operations/)                       | [prompts](docs/departments/operations/prompts.md)           | [capstone](docs/departments/operations/capstone.md)           | [gems](docs/departments/operations/gems.md)           |
 | [Projects & Engineering](docs/departments/projects_engineering/) | [prompts](docs/departments/projects_engineering/prompts.md) | [capstone](docs/departments/projects_engineering/capstone.md) | [gems](docs/departments/projects_engineering/gems.md) |
@@ -187,6 +188,7 @@ Phase 4 is in development. Where Phase 3 automates a task, Phase 4 deploys **age
 | [Maintenance](docs/departments/maintenance/)                     | [prompts](docs/departments/maintenance/prompts.md)          | [capstone](docs/departments/maintenance/capstone.md)          | [gems](docs/departments/maintenance/gems.md)          |
 | [IT, OT & Digital](docs/departments/it_ot_digital/)              | [prompts](docs/departments/it_ot_digital/prompts.md)        | [capstone](docs/departments/it_ot_digital/capstone.md)        | [gems](docs/departments/it_ot_digital/gems.md)        |
 | [Procurement](docs/departments/procurement/)                     | [prompts](docs/departments/procurement/prompts.md)          | [capstone](docs/departments/procurement/capstone.md)          | [gems](docs/departments/procurement/gems.md)          |
+| [Legal](docs/departments/legal/)                                 | [prompts](docs/departments/legal/prompts.md)                | [capstone](docs/departments/legal/capstone.md)                | [gems](docs/departments/legal/gems.md)                |
 | [Audit](docs/departments/audit/)                                 | [prompts](docs/departments/audit/prompts.md)                | [capstone](docs/departments/audit/capstone.md)                | [gems](docs/departments/audit/gems.md)                |
 | [Communications](docs/departments/communications/)               | [prompts](docs/departments/communications/prompts.md)       | [capstone](docs/departments/communications/capstone.md)       | [gems](docs/departments/communications/gems.md)       |
 

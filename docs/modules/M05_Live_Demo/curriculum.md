@@ -7,7 +7,7 @@
 
 ## Learning Objective
 
-Direct visual proof that better prompts produce dramatically better results. Participants see — not just hear — why the TCF framework matters.
+Direct visual proof that better prompts produce dramatically better results. Participants see — not just hear — why the PTCF framework matters.
 
 > **Facilitator Action:** Screen share Gemini in Google Workspace (the "Ask Gemini" side panel) or Gemini Web App. This is a live, unscripted demo — not a slide deck.
 
@@ -23,7 +23,7 @@ Direct visual proof that better prompts produce dramatically better results. Par
 
 ---
 
-## Demo 2: The TCF Master Prompt
+## Demo 2: The PTCF Master Prompt
 
 **Input:**
 
@@ -39,7 +39,7 @@ Direct visual proof that better prompts produce dramatically better results. Par
 
 ## Demo 3: Departmental Quick-Fire
 
-Show one TCF prompt per department represented in the room to prove relevance across all functions. Run each in under 60 seconds:
+Show one PTCF prompt per department represented in the room to prove relevance across all functions. Run each in under 60 seconds:
 
 - **Commercial:** "_(Persona)_ Head of Commercial. _(Task)_ Draft a prospect differentiator email. _(Context)_ Competing against a lower-cost competitor; our value is safety record and reliability. _(Format)_ Persuasive tone, 3 bullets, max 200 words."
 - **Engineering:** "_(Persona)_ Forensic Project Manager. _(Task)_ Identify top 3 risks. _(Context)_ Tank 405 conversion, based on attached risk register. _(Format)_ Risk matrix table: Risk | Likelihood | Impact | Mitigation."
@@ -63,6 +63,6 @@ Show one TCF prompt per department represented in the room to prove relevance ac
 
 ## Closing & Next Steps
 
-1. **Distribute the Quick-Start Guide:** 1-page PDF with the TCF formula and Core Security Guardrails.
+1. **Distribute the Quick-Start Guide:** 1-page PDF with the PTCF formula and Core Security Guardrails.
 2. **Homework for Phase 2:** Log your top 3 most repetitive or frustrating daily tasks. Bring that list to the next session.
 3. **Survey:** Include the question _"What holds you back from using AI more?"_ with options: "I don't know what to ask it", "I'm not confident", "I don't trust the output", "I don't have time to learn."

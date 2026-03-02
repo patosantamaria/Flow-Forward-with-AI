@@ -55,7 +55,6 @@
 | **Phase 1 + 2** _(standard)_ | M1–M9             | Foundation + all 4 core tools — the AI Week format |
 | **Phase 2 Only**             | M6 + M7 + M8 + M9 | Deep tools day for teams who've done Phase 1       |
 | **Phase 3 Full**             | M10 + M11         | Morning: Gems · Afternoon: Studio + Apps Script    |
-| **Gems + Foundation**        | M1–M5 + M10       | Foundation in the morning + Gems in the afternoon  |
 
 ### 📅 Multi-Day Programme (Complete Journey)
 

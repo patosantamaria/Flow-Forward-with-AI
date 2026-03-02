@@ -1,8 +1,8 @@
 # M8 — Gemini on Mobile: Curriculum
 
-> **Module:** M8 · **Duration:** 20 min · **Standalone:** ✅ Add-on · Requires M4  
+> **Module:** M8 · **Duration:** 30 min · **Standalone:** ✅ Add-on · Requires M4  
 > **Slides:** [slides.md](slides.md) · **Phase overview:** [phase2_core_tools.md](../../phases/phase2_core_tools.md)  
-> **Primary audience:** Terminal staff, field workers, site supervisors, maintenance crews.
+> **For all colleagues** — not limited to field staff. Includes a Gemini Live speed-prompting exercise.
 
 ---
 

@@ -33,7 +33,7 @@ const phase1 = [
     id: 'M5', dur: '15 min', icon: 'play_arrow',
     title: 'Live demo — the difference',
     what: 'Seeing is believing. Same task, two prompts, night-and-day results.',
-    detail: `A live side-by-side: a generic prompt versus a well-structured TCF prompt, on a task from your department. Then quick-fire departmental demos — Operations shift handover, Finance CFF reconciliation, SHEQ incident report — to show that this isn't abstract. It works on your work.`,
+    detail: `A live side-by-side: a generic prompt versus a well-structured PTCF prompt, on a task from your department. Then quick-fire departmental demos — Operations shift handover, Finance CFF reconciliation, SHEQ incident report — to show that this isn't abstract. It works on your work.`,
     tag: 'Closes Phase 1', tagColor: 'bg-slate-100 text-slate-500',
   },
 ]

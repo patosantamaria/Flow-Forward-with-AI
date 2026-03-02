@@ -8,7 +8,6 @@
 ## 1. Leadership Meeting Summariser
 
 **Department:** Operations / Leadership Support
-**Track:** A — GROW
 
 ```
 PERSONA: You are a senior leadership coordinator at a global industrial company.
@@ -42,7 +41,6 @@ RULES:
 ## 2. 12-Month CFF Analyzer
 
 **Department:** Finance / Treasury
-**Track:** E — ENABLE
 
 ```
 PERSONA: You are a Senior Vopak Treasury Analyst responsible for the monthly
@@ -80,7 +78,6 @@ RULES:
 ## 3. Bilingual Translator Persona
 
 **Department:** All departments / Cross-functional
-**Track:** All tracks
 
 ```
 PERSONA: You are a professional bilingual translator specializing in Vopak's
@@ -120,7 +117,6 @@ RULES:
 ## 4. SHEQ Investigator
 
 **Department:** SHEQ
-**Track:** C — IMPROVE
 
 ```
 PERSONA: You are a Vopak SHEQ Investigation Officer with deep expertise in the

@@ -2,7 +2,7 @@
 
 > **Module:** M10 · **Duration:** 120 min net content (incl. practice) · **Standalone:** ✅ Yes (half-day)  
 > **Slides:** [slides.md](slides.md) · **Phase overview:** [phase3_automate_build.md](../../phases/phase3_automate_build.md)  
-> **Prerequisites:** M4 (TCF Framework). M6–M9 recommended but not required.  
+> **Prerequisites:** M6–M9 (all Phase 2 tools).  
 > **What they leave with:** 2 working Gems — 1 guided build, 1 department-specific.
 
 ---

@@ -22,22 +22,24 @@
 
 Each folder contains `prompts.md` (Phase 2), `capstone.md` (Phase 3), and `gems.md`. Pick the folder for the departments attending your workshop.
 
-| Track | Code       | Departments            | Folder                                                     |
-| :---- | :--------- | :--------------------- | :--------------------------------------------------------- |
-| **A** | GROW       | Commercial & BD        | [commercial_bd/](departments/commercial_bd/)               |
-| **A** | GROW       | Customer Service       | [customer_service/](departments/customer_service/)         |
-| **B** | ACCELERATE | Projects & Engineering | [projects_engineering/](departments/projects_engineering/) |
-| **C** | IMPROVE    | Operations             | [operations/](departments/operations/)                     |
-| **C** | IMPROVE    | SHEQ                   | [sheq/](departments/sheq/)                                 |
-| **D** | SUSTAIN    | Maintenance            | [maintenance/](departments/maintenance/)                   |
-| **E** | ENABLE     | HR                     | [hr/](departments/hr/)                                     |
-| **E** | ENABLE     | Finance                | [finance/](departments/finance/)                           |
-| **E** | ENABLE     | Communications         | [communications/](departments/communications/)             |
-| **E** | ENABLE     | Audit                  | [audit/](departments/audit/)                               |
-| **E** | ENABLE     | Procurement            | [procurement/](departments/procurement/)                   |
-| **E** | ENABLE     | IT, OT & Digital       | [it_ot_digital/](departments/it_ot_digital/)               |
+| Department             | Folder                                                     |
+| :--------------------- | :--------------------------------------------------------- |
+| Commercial & BD        | [commercial_bd/](departments/commercial_bd/)               |
+| Customer Service       | [customer_service/](departments/customer_service/)         |
+| Projects & Engineering | [projects_engineering/](departments/projects_engineering/) |
+| Operations             | [operations/](departments/operations/)                     |
+| SHEQ                   | [sheq/](departments/sheq/)                                 |
+| Maintenance            | [maintenance/](departments/maintenance/)                   |
+| HR                     | [hr/](departments/hr/)                                     |
+| Finance                | [finance/](departments/finance/)                           |
+| Treasury               | [treasury/](departments/treasury/)                         |
+| Communications         | [communications/](departments/communications/)             |
+| Audit                  | [audit/](departments/audit/)                               |
+| Procurement            | [procurement/](departments/procurement/)                   |
+| Legal                  | [legal/](departments/legal/)                               |
+| IT, OT & Digital       | [it_ot_digital/](departments/it_ot_digital/)               |
 
-**Facilitator:** See the [Track Guide](departments/_track_guide.md) for cross-department collaboration schedule and Data Room prep.
+**Facilitator:** See the [Department Guide](departments/_track_guide.md) for cross-department collaboration schedule and Data Room prep.
 
 > 💡 Use the [Vopak Glossary](training/vopak_glossary.md) to ground your department prompts with precise Vopak terminology.
 
