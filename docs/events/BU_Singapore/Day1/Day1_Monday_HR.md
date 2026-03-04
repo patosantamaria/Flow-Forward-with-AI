@@ -340,44 +340,42 @@ Generate an Audio Overview live.
 
 ---
 
-### 🏆 14:45 — Capstone: "Project Ascend" (60 min)
+### 🏆 14:45 — Capstone (60 min)
 
-> **Source:** [`hr/capstone.md`](../../departments/hr/capstone.md)
+> **Two capstones available — choose one:**
+>
+> | Capstone                                              | Best for                                                                 | Source                                                         |
+> | :---------------------------------------------------- | :----------------------------------------------------------------------- | :------------------------------------------------------------- |
+> | **A — "The Project Banyan Expansion"** ⭐ Recommended | BU Singapore — local scenario, MOM regulations, tangible HR deliverables | [`capstone_banyan_expansion.md`](capstone_banyan_expansion.md) |
+> | **B — "Project Ascend"**                              | Any BU — strategic reskilling, ethical AI governance, Works Council      | [`capstone_project_ascend.md`](capstone_project_ascend.md)     |
+>
+> Open the **[Capstone Facilitator Gem](capstone_facilitator_gem.md)** in a separate tab for prompt coaching and time management.
+
+#### If using Capstone A — "The Project Banyan Expansion" (Recommended for BU Singapore)
 
 **Brief the challenge (5 min):**
 
-> "Here's your scenario: The CEO has mandated a rapid AI integration across all business functions. The HR team must design the workforce reskilling strategy while ensuring ethical AI guardrails for recruitment and performance management. The Works Council is watching — any misstep in employee rights will trigger a formal objection."
+> "Here's your scenario: Vopak has just secured an emergency 12-month contract to manage a new chemical storage wing. We need a Quick Response Team of 10 Terminal Operators — fully onboarded, costed, and briefed by end of week. You are the HR Task Force."
 >
-> "You have 55 minutes. You need to deliver two things: a 6-month Workforce Reskilling Plan and Ethical AI Guidelines for Recruitment & Performance."
+> "You have 55 minutes. Three tasks: draft a compliant Job Description, verify shift and overtime compliance, and draft the employee announcement. Then package it all into a slide deck for the BU Director."
 
-**Data Room** (pre-shared or share now):
+**Team Split:** 2 teams of 4, 1 team of 5. Mix Martjin into one of the HR teams.
 
-- Employee Handbook (L&D Section)
-- Works Council Guidelines
-- AI Acceptable Use Policy
-- Industry AI Reskilling Case Studies
-- Workforce Skills Assessment Template
+**Follow the full step-by-step guide in [`capstone_banyan_expansion.md`](capstone_banyan_expansion.md):**
 
-**Team Split:**
-With 9 people, make 2 teams of 4 and 1 of 5. Mix Martjin into one of the HR teams.
+1. **NotebookLM** (10 min) — Upload Data Room, verify compliance
+2. **Deep Research** (10 min) — Research regulatory requirements & market benchmarks
+3. **Gemini Drafting** (20 min) — JD + Interview Scorecard + Budget + Announcement Email
+4. **Google Slides** (10 min) — 5-slide HR Readiness Package
+5. **Google Vids** (optional bonus) — Onboarding welcome video
 
-**Step 1: NotebookLM (10 min)** — Upload Data Room docs, ask: "What are the 3 most critical issues I should focus on?"
+**Mid-Challenge Update (at 20 min mark):**
 
-**Step 2: Deep Research (10 min)** — Gemini Web App with Deep Research:
+> "The new chemical product requires Level 3 PPE certification (takes 2 weeks). Also: new rest-day pay rules announced. Check your budget and compliance."
 
-> "Research best practices for AI reskilling programs in industrial organisations. Identify: effective training formats for non-technical staff, common resistance points, and success metrics."
+#### If using Capstone B — "Project Ascend"
 
-**Step 3: Drafting (25 min)** — Two deliverables:
-
-> **Deliverable 1:** "Draft a 6-month Workforce Reskilling & Transition Plan for Vopak Singapore BU. Structure: Month 1-2 (Awareness), Month 3-4 (Skills Building), Month 5-6 (Integration). For each phase: target audience, activities, resources needed, success metrics. Include a pathway for AI Champions development."
-
-> **Deliverable 2:** "Draft Ethical Guidelines for AI in Recruitment & Performance Management at Vopak. Cover: what AI can/cannot be used for in hiring, transparency requirements for AI in performance reviews, data privacy protections, Works Council notification requirements."
-
-**Step 4: Slide Deck (10 min)** — Use the Slide Deck Creator Gem to create a 5-7 slide executive presentation.
-
-**Mid-Challenge Update (delivered by you at the 30-min mark):**
-
-> "Update from the Engineering team: the Tank T-405 project is accelerating and Ops needs 15 additional terminal operators onboarded within 6 weeks. Your reskilling plan needs to account for fast-track onboarding. Adjust your timeline."
+**Brief:** CEO mandates AI reskilling. Design a 6-month plan + ethical AI guidelines + board presentation. Follow [`capstone_project_ascend.md`](capstone_project_ascend.md).
 
 ---
 
