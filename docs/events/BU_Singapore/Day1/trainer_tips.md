@@ -17,6 +17,20 @@ This is your **warmest, most receptive group**. HR professionals are natural peo
 
 ## Phase 1 Tailoring
 
+### 🌍 The Bigger Picture — MUST deliver in M1
+
+**This is a BU Singapore requirement.** Before moving into M2, pause and set the broader context:
+
+> "What we'll cover today is the foundation — but AI is much bigger than this room. Agentic AI, autonomous workflows, 24/7 monitoring agents — that's where the industry is heading. Today's training gets you ready so that when Vopak fully embraces advanced AI, you're not starting from zero."
+
+**For HR, anchor it in their world:**
+
+> "Imagine an AI agent that automatically processes leave requests, cross-references with headcount planning, flags workforce risks, and drafts the response — all before you open your laptop. That's where this is going. Today, we learn to prompt. Tomorrow, we build agents."
+
+**The driver's licence analogy works perfectly here:**
+
+> "Today is your driver's licence. Once you can drive, the type of vehicle — sedan, truck, Formula 1 — that comes next."
+
 ### M1: GenAI Foundations — Phrasing Tips
 
 **Replace this:**

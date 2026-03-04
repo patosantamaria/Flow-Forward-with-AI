@@ -66,6 +66,14 @@ Key points to hit:
 - Enterprise Data Protection — "Your data is NOT used to train the model"
 - The Smart Intern analogy — "well-read intern who has never worked at Vopak"
 
+**🌍 The Bigger Picture (2 min) — Deliver this before moving to M2:**
+
+> "Before we dive in, I want to set expectations. What we'll cover today is **the foundation** — but AI is much, much bigger than what we'll see in this room. There's agentic AI, where AI systems don't just answer your questions but actually execute multi-step workflows on your behalf — booking meetings, filing reports, coordinating across systems. There are AI agents that monitor your terminal data 24/7 and flag anomalies before a human even notices. There's AI that writes and deploys code, manages supply chains, and negotiates contracts."
+>
+> "We're not covering all of that today — and that's by design. The intent of this training is to **get everyone started**. To build a foundation so that when Vopak fully embarks on advanced AI — and it will — you're all ready. You can adapt, you can adopt, and you're not starting from zero."
+>
+> "Think of today as your driver's licence. We're teaching you to drive. Once you can drive, the type of vehicle you use — sedan, truck, Formula 1 — that comes next. But first, you need to be able to drive."
+
 ---
 
 ### 📘 09:25 — M2: The Flow Forward Vision (15 min)

@@ -56,6 +56,14 @@
 
 > "As technical professionals, you might be wondering about the model architecture. Gemini is a multimodal transformer-based model — it processes text, images, code, and audio natively. But the key insight for today isn't the architecture — it's that the interface is natural language. You don't need to code to use it. You explain what you need, like you would to a competent colleague."
 
+**🌍 The Bigger Picture (2 min) — Deliver this before moving to M2:**
+
+> "Before we go further — let me set expectations. What we'll cover today is the **foundation**, but AI is much bigger than this room. There's agentic AI — systems that don't just answer questions but execute multi-step workflows autonomously. Imagine an AI agent that monitors your SCADA data 24/7, detects anomalies, generates the incident ticket, drafts the root cause analysis, and notifies the right engineer — all before you've finished your coffee. That's where the industry is heading."
+>
+> "We're not there yet in this training — and that's by design. The intent is to **get everyone started**. Build a foundation so that when Vopak fully embarks on advanced AI — and it will — you're ready to build on top of what you learn today. You can adapt, you can adopt, and you're not starting from zero."
+>
+> "Think of today as your driver's licence. Once you can drive, the vehicle — sedan, truck, Formula 1 — that comes next."
+
 ---
 
 ### 📘 09:25 — M2: The Flow Forward Vision (15 min)

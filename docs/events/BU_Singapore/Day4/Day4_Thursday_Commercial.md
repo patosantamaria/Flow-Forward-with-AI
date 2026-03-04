@@ -64,6 +64,14 @@
 
 > "For Commercial, think of Gemini as an analyst who can read a 45-page RFP and brief you on the key clauses in 3 minutes. That's not automation — that's giving you a head start before every negotiation."
 
+**🌍 The Bigger Picture (2 min) — Deliver this before moving to M2:**
+
+> "Quick expectation-setting. What we cover today is the **foundation** — but AI is much bigger than this. There's agentic AI — systems that don't just analyse an RFP but autonomously monitor your deal pipeline, flag at-risk renewals, draft counter-proposals, and prep your customer briefing materials — all before your first coffee. Think of an AI deal assistant that works 24/7 while you sleep."
+>
+> "We're not there yet — and that's by design. Today gets everyone **started**. So that when Vopak fully embraces advanced AI — and it will — you're already driving. You're not learning the basics while your competitor is lapping you."
+>
+> "Today is your driver's licence. The Formula 1 comes later."
+
 ---
 
 ### 📘 09:22 — M2: The Flow Forward Vision (12 min)

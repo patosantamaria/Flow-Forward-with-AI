@@ -62,6 +62,14 @@
 
 > "I want to be upfront about something. AI is incredibly powerful for analysing documents and drafting communications. But AI does NOT replace your safety judgement. If Gemini tells you a procedure is safe and your experience tells you it isn't — **you override the AI, every single time.** AI is a first draft, never a final authority. That's especially true for anything that touches permits, SOPs, or incident classification."
 
+**🌍 The Bigger Picture (2 min) — Deliver this before moving to M2:**
+
+> "Before we go further — let me be honest about where this is heading. What we'll cover today is the **foundation**, but AI is much bigger than this room. There's agentic AI — systems that don't just help you write reports but autonomously monitor your terminal sensors 24/7, detect pressure anomalies, generate the alert, draft the incident report, and notify the duty manager — all in real time. There are AI agents that compare your SOPs against regulatory updates overnight and flag what's changed."
+>
+> "We're not there yet — and that's by design. The intent of this training is to **get everyone started**. Build a foundation so that when Vopak fully embarks on advanced AI — and it will — you're not starting from zero. You'll be the people who can evaluate, adapt, and lead the adoption."
+>
+> "Think of today as your driver's licence. Once you can drive, the vehicle — sedan, truck, Formula 1 — that comes next. And for operations, the safety principles you bring are what make you the BEST people to evaluate how AI should be used in the field."
+
 ---
 
 ### 📘 09:25 — M2: The Flow Forward Vision (15 min)

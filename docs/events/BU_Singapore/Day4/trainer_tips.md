@@ -18,6 +18,16 @@
 
 ## Phase 1 Tailoring
 
+### 🌍 The Bigger Picture — MUST deliver in M1
+
+**This is a BU Singapore requirement.** Before moving into M2, set the broader AI context:
+
+> "What we cover today is the foundation — AI is much bigger. Agentic AI, autonomous deal monitoring, real-time pipeline alerts — that's coming. Today gets everyone started."
+
+**For Commercial, competitive framing:**
+
+> "Imagine an AI deal assistant that monitors your pipeline 24/7, flags at-risk renewals, and drafts counter-proposals before you've opened your laptop. Your competitor won't have this. But they will — eventually. The question is who's ready first."
+
 ### M1: GenAI Foundations — Speed Frame
 
 **Don't give a tech lecture.** This group doesn't care how the engine works — they care how fast the car goes.

@@ -66,6 +66,14 @@
 
 > "When I say Gemini is like a Smart Intern — for Finance, think of an intern who has read every financial reporting standard, every Excel best practice, and can draft a variance analysis report in 30 seconds. But they've never seen your CFF template, don't know your Oracle codes, and need you to check every number. That's the dynamic."
 
+**🌍 The Bigger Picture (2 min) — Deliver this before moving to M2:**
+
+> "Before we dive deeper — I want to set expectations. What we'll cover today is the **foundation**, but AI is much, much bigger than this. There's agentic AI — systems that don't just answer your questions but execute entire workflows. Imagine an AI agent that reconciles your CFF submissions overnight, flags the variances, drafts the exception report, and has it in your inbox by 7 AM — every month, automatically. That's where this is heading."
+>
+> "We're not covering all of that today — and that's by design. The intent is to **get everyone started**. To build a foundation so that when Vopak fully embarks on advanced AI — and it will — you're ready. You can adapt, adopt, and you're not starting from zero."
+>
+> "Think of today as your driver's licence. Once you can drive, the vehicle — sedan, truck, Formula 1 — that comes next."
+
 ---
 
 ### 📘 09:25 — M2: The Flow Forward Vision (15 min)

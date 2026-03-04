@@ -43,6 +43,18 @@
 
 ## Phase 1 Tailoring
 
+### 🌍 The Bigger Picture — MUST deliver in M1
+
+**This is a BU Singapore requirement.** Before moving into M2, set the broader AI context:
+
+> "What we cover today is the foundation — AI is much bigger. Agentic AI, autonomous monitoring, real-time anomaly detection — that's where the industry is heading. Today gets everyone ready."
+
+**For Safety/Ops, anchor it in their world:**
+
+> "Imagine AI agents that monitor terminal sensors 24/7, detect pressure anomalies, generate the alert, and draft the incident report — in real time. That's coming. And YOUR safety expertise is what makes you the best people to evaluate how it should be used in the field."
+
+**Important for Brandon:** This message reinforces that AI is a strategic investment, not a fad. His buy-in here legitimises the broader programme.
+
 ### M1: GenAI Foundations — Field-First Framing
 
 **This group doesn't sit at desks all day.** Terminal Managers and Safety Officers are in the field 50%+ of the time.

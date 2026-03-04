@@ -43,6 +43,18 @@
 
 ## Phase 1 Tailoring
 
+### 🌍 The Bigger Picture — MUST deliver in M1
+
+**This is a BU Singapore requirement.** Before moving into M2, set the broader AI context:
+
+> "What we cover today is the foundation — AI is much bigger than this. Agentic AI, autonomous workflows, real-time monitoring — that's coming. Today gets everyone ready."
+
+**For Finance, anchor it in their world:**
+
+> "Imagine an AI agent that reconciles your CFF submissions overnight, flags the variances, and has the exception report in your inbox by 7 AM — every month, automatically. That's where this is heading."
+
+**With Diego in the room**, this message also signals executive alignment — "Vopak is investing in this because AI capability is a strategic asset."
+
 ### M1: GenAI Foundations — Brief and Credible
 
 **Trim to 12 minutes.** Finance people are efficient. Get to the point.

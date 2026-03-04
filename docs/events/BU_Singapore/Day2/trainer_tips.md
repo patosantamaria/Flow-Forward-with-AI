@@ -18,6 +18,16 @@ This is your **most technically sharp group**. Engineers and IT professionals wi
 
 ## Phase 1 Tailoring
 
+### 🌍 The Bigger Picture — MUST deliver in M1
+
+**This is a BU Singapore requirement.** Before moving into M2, set the broader AI context:
+
+> "What we cover today is the foundation — but AI is much bigger. Agentic AI, autonomous monitoring, self-healing systems — that's where the industry is heading. Today gets you ready."
+
+**For Engineering/IT, anchor it technically:**
+
+> "Imagine an AI agent that monitors your SCADA data 24/7, detects anomalies, generates the incident ticket, and drafts the root cause analysis — all before you've finished your coffee. That's agentic AI. Today, we learn to prompt. Tomorrow, we build agents."
+
 ### M1: GenAI Foundations — Go Slightly Deeper
 
 **This group can handle more technical detail.** Spend 30 extra seconds on:
