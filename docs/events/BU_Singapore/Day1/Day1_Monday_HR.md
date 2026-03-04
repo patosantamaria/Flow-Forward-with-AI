@@ -12,13 +12,12 @@
 | 6   | Gerilynn | HR             |
 | 7   | Joann    | HR             |
 | 8   | Harisha  | HR             |
-| 9   | Martjin  | DSAM VAS       |
 
 ---
 
 ## 🎯 Day Character
 
-**Intimate, HR-heavy group.** 6 of 9 are HR — lean deeply into people & culture scenarios. Small group means everyone participates. Use round-robin sharing, not volunteer-based. Martjin (DSAM VAS) brings a different perspective — pair him with HR folks during group work to spark cross-function dialogue.
+**Intimate, HR-heavy group.** 6 of 8 are HR — lean deeply into people & culture scenarios. Small group means everyone participates. Use round-robin sharing, not volunteer-based.
 
 ---
 
@@ -242,8 +241,6 @@ Run these 3 prompts live, one at a time, showing real-time results:
 > **Prompt (paste this into Google Sheets side panel):**
 > "Act as a Vopak People & Culture Specialist. Design a 6-month learning path for a new engineer. Structure as a weekly plan with columns: Week | Topic | Format (e-learning/workshop/mentoring) | Resource | Milestone. Include AI literacy milestones: Month 2 — complete Phase 1 training, Month 4 — build first personal Gem, Month 6 — present a 'Time Saved' ROI to their manager."
 
-**For Martjin (DSAM VAS):** Let him try the HR exercises or freestyle with a VAS/operations-relevant prompt. Encourage him to adapt: "Think about a report or communication you write regularly and ask Gemini to draft it."
-
 **Sharing (5 min):** Ask 2 people to share their "Aha!" moment with the room.
 
 ---
@@ -359,7 +356,7 @@ Generate an Audio Overview live.
 >
 > "You have 55 minutes. Three tasks: draft a compliant Job Description, verify shift and overtime compliance, and draft the employee announcement. Then package it all into a slide deck for the BU Director."
 
-**Team Split:** 2 teams of 4, 1 team of 5. Mix Martjin into one of the HR teams.
+**Team Split:** 2 teams of 4.
 
 **Follow the full step-by-step guide in [`capstone_banyan_expansion.md`](capstone_banyan_expansion.md):**
 
@@ -424,7 +421,7 @@ Each team gets **2 minutes** to present their key findings:
 ### During the Session
 
 - [ ] Round-robin format for all sharing (small group = everyone participates)
-- [ ] Watch for Martjin's engagement — ensure he has relevant exercises
+
 - [ ] Deliver mid-challenge update at 30-min mark during capstone
 - [ ] Take photos of participant work for the CoE library
 

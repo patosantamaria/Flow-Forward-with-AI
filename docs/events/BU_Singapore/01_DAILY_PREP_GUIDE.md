@@ -18,11 +18,11 @@
 
 ### Practice Exercises (Phase 2: M6–M9)
 
-| Session                      | Exercise to Use                                                                                                         | Source                                             |
-| :--------------------------- | :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------- |
-| **M6 Practice (Side Panel)** | Ex 1: Onboarding Journey Design (Docs) + Ex 3: AI Champions Network email (Gmail)                                       | [`hr/prompts.md`](../../departments/hr/prompts.md) |
-| **M7 Practice (Web App)**    | Martjin can do an Operations/VAS-flavoured exercise while HR group does Ex 2: Learning Path with AI Milestones (Sheets) | `hr/prompts.md` + freestyle for Martjin            |
-| **M9 Practice (NotebookLM)** | Ex 4: Policy Comparison — upload current vs proposed Employee Handbook sections                                         | [`hr/prompts.md`](../../departments/hr/prompts.md) |
+| Session                      | Exercise to Use                                                                   | Source                                             |
+| :--------------------------- | :-------------------------------------------------------------------------------- | :------------------------------------------------- |
+| **M6 Practice (Side Panel)** | Ex 1: Onboarding Journey Design (Docs) + Ex 3: AI Champions Network email (Gmail) | [`hr/prompts.md`](../../departments/hr/prompts.md) |
+| **M7 Practice (Web App)**    | Ex 2: Learning Path with AI Milestones (Sheets)                                   | `hr/prompts.md`                                    |
+| **M9 Practice (NotebookLM)** | Ex 4: Policy Comparison — upload current vs proposed Employee Handbook sections   | [`hr/prompts.md`](../../departments/hr/prompts.md) |
 
 ### Afternoon Capstone
 

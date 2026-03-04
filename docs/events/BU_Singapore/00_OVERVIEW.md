@@ -14,7 +14,7 @@
 
 | Day           | Date     | Group Size | Primary Departments                                                                 |
 | :------------ | :------- | :--------- | :---------------------------------------------------------------------------------- |
-| **Monday**    | 9 March  | 9          | HR, Office Management, DSAM VAS                                                     |
+| **Monday**    | 9 March  | 8          | HR, Office Management                                                               |
 | **Tuesday**   | 10 March | 11         | Digital/IT, Engineering, Stock Control, Ops, HR                                     |
 | **Wednesday** | 11 March | 14         | Finance, Finance (Procurement), BCSS Finance                                        |
 | **Thursday**  | 12 March | 12         | Commercial, Business Development                                                    |
@@ -24,8 +24,8 @@
 
 ## Day 1 — Monday, 9 March 2026
 
-**Departments:** HR (6), Office Management (1), DSAM VAS (1)
-**Group Size:** 9 — intimate group, strong discussion potential
+**Departments:** HR (6), Office Management (1)
+**Group Size:** 8 — intimate group, strong discussion potential
 
 | #   | Name     | Department     |
 | :-- | :------- | :------------- |
@@ -37,13 +37,12 @@
 | 6   | Gerilynn | HR             |
 | 7   | Joann    | HR             |
 | 8   | Harisha  | HR             |
-| 9   | Martjin  | DSAM VAS       |
 
 ### Facilitator Notes — Day 1
 
 - **Dominant department:** HR makes up 6 of 9 participants. Lean into HR-specific scenarios.
-- **Department prompts to pre-load:** `docs/departments/hr/prompts.md` (primary), plus 1–2 from `operations/` for Martjin's DSAM context.
-- **Capstone recommendation:** Use `docs/departments/hr/capstone.md` as the primary challenge. Martjin can work solo or pair with an HR participant for cross-function perspective.
+- **Department prompts to pre-load:** `docs/departments/hr/prompts.md` (primary).
+- **Capstone recommendation:** Use `docs/departments/hr/capstone.md` as the primary challenge.
 - **Key hook for this group:** Policy summarisation, onboarding document generation, training needs analysis — these will resonate instantly.
 - **Energy note:** Small group = more conversational. Use round-robin sharing instead of volunteer-based sharing. Everyone presents.
 

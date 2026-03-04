@@ -12,7 +12,6 @@ This is your **warmest, most receptive group**. HR professionals are natural peo
 
 - **The Sceptic** — Likely 1-2 people who've heard AI horror stories about bias in recruitment. Address it head-on in M3 (Security). Don't dodge it.
 - **The Enthusiast** — Usually 1-2 HR people who've already tried ChatGPT at home. Channel them — they become your in-room advocates.
-- **Martjin (DSAM VAS)** — The outlier. He's not HR. Watch his engagement during HR-specific exercises. Pair him with an HR colleague during group work. During practice, let him freestyle with VAS-relevant prompts.
 
 ---
 
@@ -105,6 +104,6 @@ This is where you win or lose the room. HR people are **emotionally driven profe
 - [ ] Every participant writes at least one PTCF prompt during practice (round-robin ensures this)
 - [ ] The "Time Saved" exercise produces genuine "aha" moments — read totals aloud
 - [ ] At least 2 people say "I'm going to use this for X on Monday"
-- [ ] Martjin feels included despite being the only non-HR person
+
 - [ ] The capstone produces at least one deliverable the team is genuinely proud of
 - [ ] You get a natural question about bias or ethics — that means they're thinking critically
