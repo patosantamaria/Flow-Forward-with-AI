@@ -343,7 +343,7 @@ _(This directly relates to BU Singapore — it will feel personally relevant!)_
 
 > **Deliverable 2 — Invest Now vs. Delay:** "Create a financial summary table comparing the 'invest now' scenario vs. 'delay to Q4' scenario. Include: total cost, revenue impact, opportunity cost of delay, and risk of losing ApexChem to competitors."
 
-**Step 4: Slide Deck (10 min)** — Slide Deck Creator Gem.
+**Step 4: Slide Deck (10 min)** — Vopak Slide Designer.
 
 **Mid-Challenge Update (at 30 min mark):**
 

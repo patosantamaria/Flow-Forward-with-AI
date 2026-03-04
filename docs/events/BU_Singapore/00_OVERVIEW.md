@@ -69,9 +69,9 @@
 
 ### Facilitator Notes — Day 2
 
-- **Technical audience:** IT + Engineering will likely be the most tech-savvy group of the week. Move faster on M1–M3 foundations if they're already comfortable; spend extra time on M7 (Gemini Web App heavy lifting) and M9 (NotebookLM).
+- **Technical audience:** IT + Engineering will likely be the most tech-savvy group of the week. Move faster on M1–M3 foundations if they’re already comfortable; spend extra time on M7 (Gemini Web App heavy lifting) and M9 (NotebookLM).
 - **Department prompts to pre-load:** `docs/departments/it_ot_digital/prompts.md`, `docs/departments/projects_engineering/prompts.md`, `docs/departments/operations/prompts.md`
-- **Capstone recommendation:** Mix teams across IT/Engineering/Ops for the afternoon challenge — cross-function perspective on technical documentation, incident analysis, or maintenance planning.
+- **Capstone recommendation:** Use the **BCSS JV "Crude Alert"** capstone (`Day2/capstones/capstone_crude_alert.md`). Split into 2 groups: Engineering Sprint (Team A) and IT/OT AI Strategy (Team B, led by Kiat). Both teams converge into a single JV Board Briefing. Generic alternative: `Day2/capstones/capstone_risk_radar.md`.
 - **Key hook for this group:** Code review analysis, technical spec summarisation, engineering document comparison, maintenance log analysis. The Visual Analysis demo (M7) will land well — use a P&ID or terminal schematic.
 - **Special consideration:** Kelvin Leong (Stock Controller) and Chin Teck Ming (Ops) may have different use cases — ensure at least one Sheets/data-focused exercise is included.
 
@@ -125,18 +125,18 @@
 | 6   | Charlene  | Commercial           |
 | 7   | Chen Howe | Commercial           |
 | 8   | Mikal     | Commercial           |
-| 9   | Claire    | Commercial           |
-| 10  | Suz       | Commercial           |
-| 11  | Victor    | Business Development |
-| 12  | Sarah     | Business Development |
+| 9   | Wendy     | Commercial           |
+| 10  | Yvonne    | Commercial           |
+| 11  | Chin Keat | Business Development |
+| 12  | Shanty    | Commercial           |
 
 ### Facilitator Notes — Day 4
 
 - **Commercial powerhouse:** 10 of 12 are Commercial/BD. Lean heavily into commercial use cases.
 - **Department prompts to pre-load:** `docs/departments/commercial_bd/prompts.md` (primary)
-- **Capstone recommendation:** Use `docs/departments/commercial_bd/capstone.md`. BD pair can form their own team or embed into Commercial teams for deal-support perspective.
+- **Capstone recommendation:** Use the **"Green Fuel Pitch"** capstone (`Day4/capstones/capstone_green_fuel_pitch.md`). 2-team competition (Team Alpha vs Team Bravo). OceanGreen Maritime Green Methanol enquiry with 3 hidden traps. Generic alternative: `Day4/capstones/capstone_speed_to_deal.md`.
 - **Key hook for this group:** Customer proposal drafting, competitor analysis, contract review, pricing comparison, tender responses, market research. Web Research demo (M7) comparing Vopak vs competitor annual reports will land perfectly here.
-- **Energy note:** Commercial teams are typically high-energy. Use competitive elements — timed challenges, team scores, "best prompt of the day" award.
+- **Energy note:** Commercial teams are typically high-energy. Use competitive elements — timed challenges, team scores, "Deal of the Day" award.
 - **Special emphasis:** The "Time Saved" exercise will be powerful here — commercial teams have high volumes of repetitive communication and document preparation.
 
 ---
@@ -156,8 +156,8 @@
 | 6   | Jinxin         | Terminal Manager    |
 | 7   | Awyong         | Terminal Manager    |
 | 8   | Lynn           | Customer Service    |
-| 9   | Wang Wei       | Engineering         |
-| 10  | Anis           | HR                  |
+| 9   | Pearlene       | Engineering         |
+| 10  | Jesslyn        | HR                  |
 
 ### Facilitator Notes — Day 5
 

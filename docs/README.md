@@ -49,7 +49,7 @@ Each folder contains `prompts.md` (Phase 2), `gems.md`, `capstone.md` (Phase 3),
 
 | File                                                         | Description                                                                                                                 |
 | :----------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
-| [Training Support Gems](gems/training_support_gems.md)       | Slide Deck Creator & Gem Architect system instructions                                                                      |
+| [Training Support Gems](gems/training_support_gems.md)       | Vopak Slide Designer & Gem Architect system instructions                                                                      |
 | [Production Gem Templates](gems/production_gem_templates.md) | 4 production-ready Gems: Leadership Meeting Summariser, CFF Analyzer, Bilingual Translator, SHEQ Investigator               |
 | [Toolkit Registry](toolkit_registry.md)                      | Mirror of the [live Google Sheet](https://docs.google.com/spreadsheets/d/1DTlReZWzQ72tpBXlg_P7JhUQ0SCsHAtHmbg3FPBxCr0/edit) |
 | [Strategy & Analytics](STRATEGY_AND_ANALYTICS.md)            | Program measurement framework & BigQuery methodology                                                                        |

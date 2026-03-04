@@ -61,23 +61,21 @@
 
 ### Afternoon Capstone
 
-> **Decision point:** This group spans 4+ departments. Two options:
+> **Primary: BCSS JV "Crude Alert" Briefing** — Split into 2 groups: Engineering Sprint (Team A) + IT/OT AI Strategy (Team B, led by Kiat). Both converge into a single JV Board Briefing.
 
-| Option                  | Title                                                                          | When to Use                                                                                                                                       |
-| :---------------------- | :----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **A — Engineering-led** | [**"The Risk Radar"**](../../departments/projects_engineering/capstone.md)     | If Engineering (4 pax) drives the energy. Scenario: Tank T-405 conversion, stress-test a SoW. Deliverable: Emergency executive memo + risk matrix |
-| **B — IT-led**          | [**"The Integration Blueprint"**](../../departments/it_ot_digital/capstone.md) | If IT/Digital (2 pax) + broader group want a systems perspective. Scenario: AI deployment roadmap + governance framework                          |
-| **C — Mixed teams**     | Use the generic Phase 1+2 afternoon challenge from `phase1+2_combined.md`      | If you want 2–3 mixed-department teams doing different capstones                                                                                  |
+| Option               | Title                                                                          | When to Use                                                                                               |
+| :------------------- | :----------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
+| **Primary (BU SG)**  | [**"BCSS JV Crude Alert"**](Day2/capstones/capstone_crude_alert.md)            | 2-group structure. Pump failure + AI governance for JV Board. Kiat leads convergence. Data room included. |
+| **A — Generic Eng.** | [**"The Risk Radar"**](Day2/capstones/capstone_risk_radar.md)                  | If Engineering drives the energy. Tank T-405 conversion, stress-test a SoW. Emergency memo + risk matrix  |
+| **B — Generic IT**   | [**"The Integration Blueprint"**](../../departments/it_ot_digital/capstone.md) | If IT/Digital + broader group want a systems perspective. AI deployment roadmap + governance framework    |
 
-**Recommendation:** Option A ("The Risk Radar") — the Engineering scenario is tangible and engaging for Ops/Stock Controllers too. IT can approach it from a systems integration angle.
+**Recommendation:** Use the BCSS JV "Crude Alert" — it anchors to a real participant (Kiat) and covers both workstream types.
 
 ### Data Room Docs to Prepare
 
-- [ ] Project Plan Summary / Draft Scope of Work
-- [ ] Engineering Specifications document
-- [ ] Budget Forecast (Sheet)
-- [ ] Historical Project Delay Log (Sheet)
-- [ ] Risk Register Template (Sheet)
+- [ ] Vendor Proposal — Apex-610-C (`Day2/capstones/data_room/vendor_proposal_apex610c.md`)
+- [ ] BCSS Terminal Specs (`Day2/capstones/data_room/bcss_terminal_specs.md`)
+- [ ] AI Policy / IT Security (`Day2/capstones/data_room/ai_policy_it_security.md`)
 
 ---
 
@@ -146,20 +144,20 @@
 
 ### Afternoon Capstone
 
-| Capstone                             | Title                                                              | Scenario                                                                                                                                                                    | Deliverables                                             |
-| :----------------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------- |
-| **Primary**                          | [**"Speed to Deal"**](../../departments/commercial_bd/capstone.md) | ApexChem Global submits a 45-page RFP for 20,000 cbm HMD storage. Analyze, find hidden traps (exclusivity clause, 90-day payment, liability shift), draft counter-proposal. | Strategic pushback email + 3-slide counter-proposal deck |
-| **Quick version** (if time is tight) | Same scenario, 30 min                                              | Extract 3 problematic RFP clauses, draft pushback email                                                                                                                     | Email + 3 slides                                         |
+> **Primary: "The Green Fuel Pitch"** — 2-team head-to-head competition. OceanGreen Maritime Green Methanol enquiry with 3 hidden traps.
 
-**Energy tip:** This group will love competition. Run the capstone as a team challenge — 3 teams of 4 racing to produce the best counter-proposal. Award "Deal of the Day" to the winning team.
+| Capstone                | Title                                                                 | Scenario                                                                                              | Deliverables                                                                         |
+| :---------------------- | :-------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
+| **Primary (BU SG)**     | [**"Green Fuel Pitch"**](Day4/capstones/capstone_green_fuel_pitch.md) | OceanGreen Maritime needs 50,000 cbm Green Methanol. 3 hidden traps in RFP. Team Alpha vs Team Bravo. | Feasibility note, risk matrix, Vopak Difference, pitch letter, counter-proposal deck |
+| **Generic alternative** | [**"Speed to Deal"**](Day4/capstones/capstone_speed_to_deal.md)       | ApexChem Global 45-page RFP for HMD storage. Find hidden traps, draft counter-proposal.               | Strategic pushback email + counter-proposal deck                                     |
+
+**Energy tip:** This group will love competition. Run as 2 teams of 6 racing to win **"Deal of the Day."**
 
 ### Data Room Docs to Prepare
 
-- [ ] Customer RFP (ApexChem — 10–15 pages with hidden aggressive clauses)
-- [ ] Pricing Matrix (Sheet)
-- [ ] Competitor Intelligence Brief
-- [ ] Standard Terms & Conditions
-- [ ] Strategic Mandates Document (New Energy priorities)
+- [ ] OceanGreen Maritime enquiry w/ hidden traps (`Day4/capstones/data_room/oceangreen_enquiry.md`)
+- [ ] Terminal capabilities + competitive landscape (`Day4/capstones/data_room/terminal_competitive_landscape.md`)
+- [ ] Pricing Framework (Sheet)
 
 ---
 

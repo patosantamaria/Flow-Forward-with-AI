@@ -138,7 +138,7 @@ Use Gemini Deep Research to investigate AI governance best practices:
 
 **Both teams come together.** Kiat compiles both workstreams into a single Board update.
 
-**Step 4 — Slide Deck Creator Gem:**
+**Step 4 — Vopak Slide Designer:**
 
 > **Deliverable 7 — JV Board Briefing Deck (REQUIRED):** "Create a 7-slide executive presentation for the BCSS JV Board:
 >
@@ -168,7 +168,7 @@ Use Gemini Deep Research to investigate AI governance best practices:
 | 4   | Vendor Digital Access Policy | A (Eng)   | 📋 OPTIONAL | Gemini Web App                      |
 | 5   | AI Guardrails Document       | B (IT/OT) | ⚡ REQUIRED | NotebookLM → Deep Research → Gemini |
 | 6   | 3-Phase AI Roadmap           | B (IT/OT) | ⚡ REQUIRED | Deep Research → Gemini              |
-| 7   | JV Board Briefing Deck       | Both      | ⚡ REQUIRED | Slide Deck Creator Gem              |
+| 7   | JV Board Briefing Deck       | Both      | ⚡ REQUIRED | Vopak Slide Designer              |
 | 7b  | Narrated Video               | Both      | 📋 OPTIONAL | Google Vids                         |
 
 **Required:** 5 deliverables · **Optional:** 3 deliverables
@@ -229,6 +229,6 @@ Use Gemini Deep Research to investigate AI governance best practices:
 - **Two real workstreams** that mirror the actual Day 2 audience — Engineers do engineering, IT/OT does strategy
 - **Kiat leads the convergence** — exactly what a BCSS GM would do in real life
 - **The pump crisis validates the AI strategy** — "We just used AI to vet specs and plan a recovery in 1 hour. Imagine what we could do with a proper governance framework and predictive maintenance."
-- **Every tool gets used** — NotebookLM, Deep Research, Gemini Web App, Slide Deck Creator, Google Vids (optional)
+- **Every tool gets used** — NotebookLM, Deep Research, Gemini Web App, Vopak Slide Designer, Google Vids (optional)
 - **JV Board context** gives IT/OT people meaningful strategic work instead of supporting engineering
 - **The curveball** forces both teams to adapt — just like real operations

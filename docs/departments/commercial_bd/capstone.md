@@ -107,11 +107,11 @@ Use **Gemini Web App** for the heavy analysis (Apply phase) and **Gemini in Work
 > **Gemini in Docs:** Draft your written deliverables, then use the side panel to refine tone, structure, and conciseness.
 > **Gemini in Sheets:** If your analysis involves data tables, use Gemini in Sheets to organise and visualise.
 
-### Step 4: Executive Slide Deck — Slide Deck Creator Gem (15 min)
+### Step 4: Executive Slide Deck — Vopak Slide Designer (15 min)
 
-Create a **5–7 slide executive deck** using the **Slide Deck Creator Gem** provided to you. This Gem generates Vopak-branded slide content ready to paste into Google Slides.
+Create a **5–7 slide executive deck** using the **Vopak Slide Designer** provided to you. This Gem generates Vopak-branded slide content ready to paste into Google Slides.
 
-> **How:** Open the **Slide Deck Creator Gem** → paste your key findings and analysis → the Gem produces structured slide content with Vopak branding, clear headers, and a board-ready format → copy into **Google Slides** and refine.
+> **How:** Open the **Vopak Slide Designer** → paste your key findings and analysis → the Gem produces structured slide content with Vopak branding, clear headers, and a board-ready format → copy into **Google Slides** and refine.
 
 > **Prompt tip:** "Create a 5–7 slide executive presentation covering: [paste your key findings]. Include: (1) title slide, (2) situation overview, (3) key findings with data, (4) analysis / comparison, (5) recommendations, (6) next steps, (7) appendix."
 
@@ -139,7 +139,7 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 | **Gemini Web App** | Structured analysis, document comparison, PTCF prompts | Step 3 |
 | **Gemini in Docs** | Drafting and refining written deliverables | Step 3 |
 | **Gemini in Sheets** | Data tables and visualisation _(if applicable)_ | Step 3 |
-| **Slide Deck Creator Gem** | Vopak-branded executive presentation | Step 4 |
+| **Vopak Slide Designer** | Vopak-branded executive presentation | Step 4 |
 | **Google Vids** | Narrated video from slides _(optional bonus)_ | Step 5 |
 
 ---
@@ -153,7 +153,7 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 1. Upload the RFP into **Gemini Web App** (5 min)
 2. Prompt: "Extract all commercial terms from this RFP. Flag the 3 most problematic clauses for Vopak and explain why." (10 min)
 3. Prompt: "Draft a professional negotiation email pushing back on these 3 clauses while keeping the deal alive." (10 min)
-4. Create a 3-slide counter-proposal using the **Slide Deck Creator Gem** (5 min)
+4. Create a 3-slide counter-proposal using the **Vopak Slide Designer** (5 min)
 
 ---
 

@@ -87,7 +87,7 @@
 
 ### M2 — The Flow Forward Vision `15 min · No prerequisites`
 
-**What it covers:** Real Vopak friction points (Operations handover, Treasury CFF), career superpower framing, strategic context (Shifting Gears 2030, Project Ascend 292% ROI).
+**What it covers:** Real Vopak friction points (Operations handover, Treasury CFF), career superpower framing, strategic context (Shifting Gears 2030, Project Ascend 292% ROI (illustrative)).
 
 **What they leave with:** The "why." A personally relevant reason to invest in this.
 

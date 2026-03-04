@@ -30,7 +30,7 @@ Two teams compete head-to-head to build the best pitch for a major Green Fuel st
    - "Need market research on Green Methanol → use **Deep Research**"
    - "Comparing contracts → use **Gemini Web App** with both documents"
    - "Drafting the pitch letter → use **Gemini in Docs**"
-   - "Building the pitch deck → use the **Slide Deck Creator Gem**"
+   - "Building the pitch deck → use the **[Vopak Slide Designer](https://gemini.google.com/gem/1QdQKuVfl9Il6DZZ9g60jf4vn7Lif946Y?usp=drive_link)**"
    - "Creating a video pitch → use **Google Vids** as a bonus"
 
 3. **Provide progressive hints for trap detection:**

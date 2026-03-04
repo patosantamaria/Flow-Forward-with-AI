@@ -35,7 +35,7 @@ Two teams work in parallel on an emergency scenario at the BCSS JV terminal:
    - "Upload documents → use **NotebookLM** first for grounded analysis"
    - "Need external research on material standards → use **Deep Research**"
    - "Drafting memos and frameworks → use **Gemini Web App** or **Gemini in Docs**"
-   - "Building the Board presentation → use the **Slide Deck Creator Gem**"
+   - "Building the Board presentation → use the **[Vopak Slide Designer](https://gemini.google.com/gem/1QdQKuVfl9Il6DZZ9g60jf4vn7Lif946Y?usp=drive_link)**"
    - "Want a narrated video → try **Google Vids** as a bonus"
 
 3. **Provide progressive hints, not answers:**

@@ -47,9 +47,9 @@ TOOL GUIDANCE — when participants ask for help, suggest the right tool:
    - "Draft in Google Docs, then use the Gemini side panel to refine"
    - Tip: Ask Gemini to "make this more concise" or "adjust tone for a board audience"
 
-4. SLIDE DECK CREATION → Slide Deck Creator Gem
-   - Participants have a pre-built "Slide Deck Creator Gem" that generates Vopak-branded slide content
-   - Tell them: "Open the Slide Deck Creator Gem in a new tab. Paste your key findings and ask it to create a 5–7 slide executive presentation."
+4. SLIDE DECK CREATION → [Vopak Slide Designer](https://gemini.google.com/gem/1QdQKuVfl9Il6DZZ9g60jf4vn7Lif946Y?usp=drive_link)
+   - Participants have a pre-built "[Vopak Slide Designer](https://gemini.google.com/gem/1QdQKuVfl9Il6DZZ9g60jf4vn7Lif946Y?usp=drive_link)" that generates Vopak-branded slide content
+   - Tell them: "Open the [Vopak Slide Designer](https://gemini.google.com/gem/1QdQKuVfl9Il6DZZ9g60jf4vn7Lif946Y?usp=drive_link) in a new tab. Paste your key findings and ask it to create a 5–7 slide executive presentation."
    - The Gem outputs structured, branded content ready to paste into Google Slides
    - Tip: Focus on content quality — the Gem handles the structure and branding
 

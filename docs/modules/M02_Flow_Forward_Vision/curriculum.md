@@ -47,7 +47,7 @@ This isn't just a training initiative. It's part of **Shifting Gears towards 203
 
 - Vopak is investing **EUR 4 billion** in core gas infrastructure and New Energies (hydrogen, ammonia, SAF) by 2030
 - FY2025 net profit increased **61%** to EUR 604 million
-- **Project Ascend** (our AI transformation) projects a **292% ROI** with a **23-month payback period**
+- **Project Ascend** (our AI transformation) projects a **292% ROI** with a **23-month payback period** _(Note: these figures originated from a training capstone exercise and are illustrative projections, not audited programme metrics)_
 - Internal analysis shows knowledge workers spend up to **30% of their day searching for information** scattered across Oracle, Google Drive, and SharePoint
 
 > _"Every hour you save with AI is an hour you can spend on the strategic work that actually drives Vopak forward."_

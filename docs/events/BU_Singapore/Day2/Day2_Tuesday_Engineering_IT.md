@@ -86,7 +86,7 @@
 
 > "What's YOUR 45-page document you wish someone would read for you? What's YOUR 2 AM debugging session? That's what we're here to fix."
 
-**Deliver the rest of M2 as standard.**
+**Deliver the rest of M2 as standard:** Career Superpower, Strategic Context (EUR 4 billion Shifting Gears investment, 61% net profit increase FY2025 — do NOT cite the Project Ascend 292% ROI, those were from a capstone exercise), The Real KPI.
 
 ---
 
@@ -366,7 +366,7 @@ Wait. The engineers will immediately ask: "What error? What system? What happene
 
 **Step 4: Convergence (10 min):**
 
-> Both teams bring their outputs together. Kiat leads the assembly of a single JV Board Briefing deck using the **Slide Deck Creator Gem**. The story: "We handled the crisis using AI today — here's how we scale that capability across the terminal."
+> Both teams bring their outputs together. Kiat leads the assembly of a single JV Board Briefing deck using the **Vopak Slide Designer**. The story: "We handled the crisis using AI today — here's how we scale that capability across the terminal."
 
 > ⚡ **Board Briefing Deck** (REQUIRED) — 7 slides covering the pump fix AND the AI strategy.
 > 📋 **Narrated Video via Google Vids** (OPTIONAL BONUS)

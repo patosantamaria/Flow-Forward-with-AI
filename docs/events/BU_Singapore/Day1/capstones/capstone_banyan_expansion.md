@@ -85,7 +85,7 @@ Create a **5-slide "HR Operational Readiness Package"** for the BU Director.
 > 4. Communication Strategy — Announcement approach, key messages
 > 5. Timeline & Next Steps — Week 1-4 onboarding milestones
 
-> **Alternative:** Use the **Slide Deck Creator Gem** → paste your key findings → copy structured content into Google Slides.
+> **Alternative:** Use the **Vopak Slide Designer** → paste your key findings → copy structured content into Google Slides.
 
 This is your **required** deliverable — you present this in 2 minutes.
 

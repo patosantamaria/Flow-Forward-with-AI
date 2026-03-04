@@ -87,7 +87,7 @@ Create a **5-7 slide executive presentation** for the board.
 > 6. Investment & ROI — Budget, expected productivity gains
 > 7. Next Steps & Ask — Board decision required
 
-> **Alternative:** Use the **Slide Deck Creator Gem** → paste findings → copy into Google Slides.
+> **Alternative:** Use the **Vopak Slide Designer** → paste findings → copy into Google Slides.
 
 This is your **required** deliverable — you present this in 2 minutes.
 

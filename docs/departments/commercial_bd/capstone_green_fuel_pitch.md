@@ -99,7 +99,7 @@ Use Gemini Deep Research to investigate the Green Fuel market:
 
 > **Deliverable 4 — Pitch Letter (REQUIRED):** "Draft a 3-paragraph executive response to OceanGreen Maritime's VP of Procurement. Paragraph 1: Acknowledge their enquiry and express strategic interest. Paragraph 2: Our value proposition — safety, location, Green Fuel readiness, and sustainability. Paragraph 3: Proposed next steps (site visit, technical review, commercial negotiation). Tone: confident, strategic, partnership-oriented — not desperate."
 
-> **Deliverable 5 — Counter-Proposal Deck (REQUIRED):** Use the Slide Deck Creator Gem to create a 5-7 slide pitch deck:
+> **Deliverable 5 — Counter-Proposal Deck (REQUIRED):** Use the Vopak Slide Designer to create a 5-7 slide pitch deck:
 >
 > - Slide 1: Title — "Vopak Singapore: Your Green Fuel Partner"
 > - Slide 2: Understanding Your Needs (show you've read the enquiry deeply)
@@ -137,7 +137,7 @@ Use Gemini Deep Research to investigate the Green Fuel market:
 | 2   | Risk & Opportunity Matrix               | ⚡ REQUIRED | Gemini Web App (contract analysis) |
 | 3   | The Vopak Difference (3 Winning Points) | ⚡ REQUIRED | Gemini + Human Knowledge           |
 | 4   | Executive Pitch Letter                  | ⚡ REQUIRED | Gemini in Docs                     |
-| 5   | Counter-Proposal Slide Deck             | ⚡ REQUIRED | Slide Deck Creator Gem             |
+| 5   | Counter-Proposal Slide Deck             | ⚡ REQUIRED | Vopak Slide Designer             |
 | 6   | 2-Minute Video Pitch                    | 📋 OPTIONAL | Google Vids                        |
 | 7   | Strategic Pushback Email                | 📋 OPTIONAL | Gemini in Docs                     |
 

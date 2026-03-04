@@ -335,7 +335,7 @@ Wait. They'll immediately ask: "Which customer? About what? What tone? What's th
 > - ⚡ **Risk & Opportunity Matrix** — Hidden traps found, risk assessment, counter-positions
 > - ⚡ **The Vopak Difference** — 3 winning points (at least 1 from human knowledge, not AI)
 > - ⚡ **Executive Pitch Letter** — 3-paragraph response to OceanGreen's VP Procurement
-> - ⚡ **Counter-Proposal Slide Deck** — 5-7 slides via Slide Deck Creator Gem
+> - ⚡ **Counter-Proposal Slide Deck** — 5-7 slides via Vopak Slide Designer
 
 > **Optional Deliverables:**
 >

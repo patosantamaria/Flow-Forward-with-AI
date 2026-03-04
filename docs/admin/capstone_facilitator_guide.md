@@ -8,7 +8,7 @@
 2. **Search Phase (15 min):** Upload Data Room files to NotebookLM, run Deep Research.
 3. **Apply Phase (30 min):** The core analysis in Gemini Web App. _Inject the Simulated Update here._
 4. **Refine Phase (15 min):** Finalize the analysis and pivot based on the update.
-5. **Create Phase (15 min):** Use Slide Deck Creator Gem and (optional) Google Vids.
+5. **Create Phase (15 min):** Use Vopak Slide Designer and (optional) Google Vids.
 
 > ⚡ **Quick Challenge Mode (~30 min):** Skip the deep research. Focus purely on the Gemini Web App analysis and the 3-slide summary.
 
