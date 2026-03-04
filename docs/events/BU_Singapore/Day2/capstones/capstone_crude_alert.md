@@ -1,5 +1,8 @@
 # 🏆 Day 2 Capstone: "The BCSS JV Crude Alert Briefing"
 
+> **Origin:** Based on BU Singapore's capstone (created by Yinxien & Leonard Leong), merged with CoE's "Risk Radar" capstone. Enhanced with full tool coverage, 2-group structure, mid-challenge curveball, and scoring rubric.
+> **Best for:** BU Singapore (BCSS JV context). For other BUs, use the generic "Risk Radar" capstone.
+
 ## Theme: Critical Asset Recovery & AI Governance for the JV Board
 
 **Time:** 60 minutes + 15 minutes pitches

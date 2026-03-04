@@ -1,13 +1,13 @@
-# Projects & Engineering — "The Risk Radar" (Phase 2 Capstone)
+# Commercial & BD — "Speed to Deal" (Phase 2 Capstone)
 
 > **Origin:** Flow Forward CoE. Generic version — works for any BU without modification.
-> **Best for:** Any BU where you want a SoW stress-test capstone. For BU Singapore, use the BCSS "Crude Alert" capstone instead.
+> **Best for:** Any BU where you want a competitive RFP analysis capstone. For BU Singapore, use the "Green Fuel Pitch" capstone instead.
 
 ## The Scenario
 
-Your terminal is executing **Project Phoenix** — the conversion of **Tank T-405** to handle ApexChem's new HMD product. You've received a Draft Scope of Work from the contractor, and your job is to stress-test it against technical data before the budget is locked.
+**ApexChem Global** has submitted a 45-page RFP requesting **20,000 cbm of Hexamethylenediamine (HMD)** storage at your terminal. This deal is strategically vital — it establishes a logistics baseline for a future long-term partnership in New Energies (LOHC and Green Ammonia).
 
-The BU Director needs your risk assessment **before the board meeting**.
+The Commercial Director needs your team's analysis and a counter-proposal **by the end of this session**.
 
 ---
 
@@ -15,31 +15,31 @@ The BU Director needs your risk assessment **before the board meeting**.
 
 ### 1. Search (15 min)
 
-Generate a comprehensive Scope of Work analysis based on technical specs.
+Extract and analyze key data from the ApexChem RFP documents using Gemini.
 
-> **Prompt:** "Analyze this Draft Scope of Work for Tank T-405 conversion. Cross-reference it against the HMD Safety Data Sheet and the terminal utility capacity report. Identify any gaps in: heating requirements, pipe specifications, material compatibility, and utility capacity."
+> **Prompt:** "Analyze this RFP document. Extract all commercial terms including: storage volume, contract duration, pricing structure, payment terms, exclusivity clauses, liability provisions, and any unusual conditions. Present in a structured summary table."
 
 **What you'll discover:**
 
-- Insufficient steam capacity — HMD has a high freezing point requiring heated storage, and the current boiler system can't handle the additional load
-- Pipe freezing risk — Trace heating specs don't account for HMD's solidification temperature
-- Vendor lead times — Critical alloy fittings have a 6-8 week lead time that blows the Q3 schedule
+- Toxic exclusivity clauses — ApexChem wants exclusive rights to Tank 405
+- 90-day payment terms buried in Annexure C (vs. your standard 30 days)
+- Product contamination liability shifted entirely to Vopak
 
 ### 2. Apply (30 min)
 
-Use AI to stress-test the SoW and flag missing items or budget risks.
+Identify financial risks and high-value opportunities. Draft a strategic response.
 
-> **Prompt:** "Based on the gaps identified, draft an emergency executive memo to the BU Director. Structure: (1) Executive Summary of the 3 critical risks, (2) Technical details for each risk with specific numbers, (3) Budget impact estimate, (4) Revised timeline recommendation, (5) Decision required. Tone: urgent but factual."
+> **Prompt:** "Based on this analysis, draft a professional negotiation email to ApexChem's procurement director. Acknowledge the strategic value of the partnership. Push back firmly but diplomatically on: (1) the exclusivity clause, (2) the 90-day payment terms, and (3) the liability transfer. Propose counter-terms that protect Vopak's interests while keeping the deal alive."
 
 ### 3. Refine (20 min)
 
-Draft a summary memo for leadership regarding project readiness.
+Create a 3-slide counter-proposal deck highlighting Vopak's New Energy value proposition.
 
-> **Prompt:** "Refine this memo for board presentation quality. Add a risk matrix visual (table format: Risk | Probability | Impact | Mitigation | Owner). Ensure all numbers are specific and traceable to source documents."
+> **Prompt:** "Create a 3-slide structure for a counter-proposal presentation: Slide 1 — Why Vopak (sustainability, safety, strategic location). Slide 2 — Revised Commercial Terms (our counter-offer in a comparison table). Slide 3 — The New Energy Partnership Vision (LOHC and Green Ammonia roadmap)."
 
 ### 4. Optional Stretch Goal
 
-Create a video briefing for the terminal team explaining the project's impact on daily operations.
+Create a 2-minute video briefing using Google Vids highlighting Vopak's unique strengths for this partnership.
 
 ---
 
@@ -55,8 +55,11 @@ Create a video briefing for the terminal team explaining the project's impact on
 
 ## Expected Deliverable
 
-1. An emergency executive memo with a risk matrix
-2. Revised project timeline with critical path analysis
+**2-3 minute pitch** presenting:
+
+1. A strategic pushback email to ApexChem
+2. A 3-slide counter-proposal deck
+3. Key risks identified and how you addressed them
 
 ---
 
@@ -64,15 +67,15 @@ Create a video briefing for the terminal team explaining the project's impact on
 
 > **Facilitator:** Create these documents in Google Docs/Sheets **before** the session and place them in a shared folder. Participants upload them into NotebookLM at the start.
 
-| #   | Document                         | Format       | What to Include                                                                                                                      |
-| :-- | :------------------------------- | :----------- | :----------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Project Plan Summary**         | Google Doc   | High-level project plan for a terminal expansion: phases, milestones, dependencies, critical path.                                   |
-| 2   | **Engineering Specifications**   | Google Doc   | Technical specifications for the expansion: tank dimensions, piping, instrumentation, electrical.                                    |
-| 3   | **Budget Forecast**              | Google Sheet | Detailed budget with line items: engineering, procurement, construction, commissioning, contingency. Include a 15% overrun scenario. |
-| 4   | **Historical Project Delay Log** | Google Sheet | Past project delays: project name, planned vs. actual completion, cause, impact. Show recurring patterns.                            |
-| 5   | **Risk Register Template**       | Google Sheet | Template: Risk ID, Description, Category, Probability, Impact, Risk Score, Mitigation, Owner, Status.                                |
+| #   | Document                          | Format       | What to Include                                                                                                                                                                                                                    |
+| :-- | :-------------------------------- | :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Customer RFP**                  | Google Doc   | A 10–15 page RFP from "ApexChem Global" requesting HMD storage: volumes, contract duration, pricing expectations, technical requirements, SLA expectations. Include some aggressive clauses (exclusivity, extended payment terms). |
+| 2   | **Pricing Matrix**                | Google Sheet | Standard pricing for storage, handling, and services by product category and contract type. Include volume-based discounts.                                                                                                        |
+| 3   | **Competitor Intelligence Brief** | Google Doc   | 2-page summary of competitor activity in the region: who they are, what they offer, recent contract wins/losses.                                                                                                                   |
+| 4   | **Standard Terms & Conditions**   | Google Doc   | Vopak's standard commercial T&Cs for terminal operating agreements.                                                                                                                                                                |
+| 5   | **Strategic Mandates Document**   | Google Doc   | 1-page summary of Vopak's strategic priorities for New Energy products (LOHC, Green Ammonia).                                                                                                                                      |
 
-> 💡 **Reference:** The BU NL workshop used a "Project Delay Log" and "Budget Estimate" — adapt with your BU's historical project data.
+> 💡 **Reference:** The BU NL workshop used a "Project Phoenix RFP" and "Pricing Matrix" — adapt these for your BU context.
 
 ---
 
@@ -145,12 +148,12 @@ Turn your slide deck into a narrated executive video using **Google Vids**.
 
 > **Use this version when time is limited.** Same scenario, single deliverable, fewer tools.
 
-**Challenge:** You have 30 minutes. Identify the top 5 risks for a terminal expansion project and create a risk heat map.
+**Challenge:** You have 30 minutes. ApexChem has submitted an RFP with 3 problematic clauses. Use **Gemini Web App** to extract the issues and draft a pushback email.
 
-1. Upload the project plan and delay log into **Gemini Web App** (5 min)
-2. Prompt: "Based on this project plan and historical delay data, identify the top 5 risks. For each: describe the risk, rate probability (1-5) and impact (1-5), calculate risk score, and propose one mitigation action." (15 min)
-3. Organise into a risk heat map in **Google Sheets** (5 min)
-4. Create a 3-slide summary using the **Slide Deck Creator Gem** (5 min)
+1. Upload the RFP into **Gemini Web App** (5 min)
+2. Prompt: "Extract all commercial terms from this RFP. Flag the 3 most problematic clauses for Vopak and explain why." (10 min)
+3. Prompt: "Draft a professional negotiation email pushing back on these 3 clauses while keeping the deal alive." (10 min)
+4. Create a 3-slide counter-proposal using the **Slide Deck Creator Gem** (5 min)
 
 ---
 

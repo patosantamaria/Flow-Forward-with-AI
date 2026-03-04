@@ -35,7 +35,7 @@
 2. **M2 "Day in the Life" slide:** Commercial friction (RFP analysis, proposal drafting, competitive benchmarking)
 3. **M4 PTCF Demo slide:** Commercial RFP analysis example
 4. **M5 Quick-Fire slide:** Commercial + BD prompts
-5. **Capstone brief slide:** "Speed to Deal" — ApexChem RFP Counter-Proposal
+5. **Capstone brief slide:** "The Green Fuel Pitch" — 2-team competition, OceanGreen Maritime enquiry
 
 ---
 
@@ -294,50 +294,57 @@ Wait. They'll immediately ask: "Which customer? About what? What tone? What's th
 
 ---
 
-### 🏆 14:36 — Capstone: "Speed to Deal" (60 min)
+### 🏆 14:36 — Capstone: "The Green Fuel Pitch" — 2-Team Competition (60 min)
 
-> **Source:** [`commercial_bd/capstone.md`](../../departments/commercial_bd/capstone.md)
+> **Primary:** [`capstones/capstone_green_fuel_pitch.md`](capstones/capstone_green_fuel_pitch.md)
+> **Alternative:** [`capstones/capstone_speed_to_deal.md`](capstones/capstone_speed_to_deal.md) _(generic version — use if the Green Fuel scenario doesn't fit)_
+> **Facilitator Gem:** [`gems/gem_green_fuel_pitch_coach.md`](gems/gem_green_fuel_pitch_coach.md)
 
 **Brief the challenge (5 min):**
 
-> "Here's the scenario: ApexChem Global just sent Vopak Singapore a 45-page RFP for 20,000 cbm of HMD storage. They need Phase 1 operational by Q3. Your job: analyze the RFP, find the hidden traps — there are at least 3 — and produce a counter-proposal that protects Vopak while winning the deal."
+> "Here's the scenario: OceanGreen Maritime — a major global shipping line — has sent a surprise enquiry. They need 50,000 cbm of Green Methanol storage starting Q3. That's strategic. But they're also talking to your neighbours on Jurong Island."
 >
-> "You're competing against 2 other teams. In 55 minutes, each team pitches their counter-proposal. The team with the best strategic response wins **Deal of the Day**."
-
-**The hidden traps in the RFP (for the facilitator — don't reveal these!):**
-
-1. **Exclusivity clause** — ApexChem wants exclusive use of the tank farm section, blocking other customers
-2. **90-day payment terms** — Way beyond Vopak's standard 30 days
-3. **Liability shift** — The RFP subtly shifts environmental liability to Vopak beyond standard custody transfer limits
-
-**Data Room:**
-
-- Customer RFP (pre-prepared with the 3 hidden traps embedded)
-- Pricing Matrix (Sheet)
-- Competitor Intelligence Brief
-- Standard Terms & Conditions
-- Strategic Mandates Document (New Energy priorities)
+> "Oh, and one more thing — buried in their requirements document are some clauses that could cost Vopak millions. Your job: find the traps, build the pitch, win the deal."
+>
+> "This is a competition. **Team Alpha vs. Team Bravo.** Both teams get the same enquiry. Both build a pitch. Only one wins **Deal of the Day.**"
 
 **Team Split:**
-3 teams of 4. This is a **competition** — make it feel like one. Give teams names: "Team Alpha," "Team Bravo," "Team Charlie." Or let them pick their own.
 
-**Step 1: NotebookLM (10 min)** — Upload Data Room. Ask: "What are the 3 most unusual or aggressive clauses in this RFP?"
+- **Team Alpha:** Neeraj, Sherif, Angeline, Vicknesh, Jeanna, Charlene (6 people)
+- **Team Bravo:** Chen Howe, Mikal, Wendy, Yvonne, Chin Keat, Shanty (6 people)
 
-**Step 2: Deep Analysis (10 min):**
+**Data Room** (pre-shared or share now):
 
-> "Analyze this RFP against Vopak's standard T&Cs. Identify every clause that deviates from standard. For each: describe the risk, estimate the financial impact, and propose counter-language."
+- [`oceangreen_enquiry.md`](capstones/data_room/oceangreen_enquiry.md) — Customer RFP with 3 hidden traps
+- [`terminal_competitive_landscape.md`](capstones/data_room/terminal_competitive_landscape.md) — Terminal capabilities + competitors
+- Pricing Framework (Sheet) — standard rate card
 
-**Step 3: Drafting (25 min):**
+**Step 1: NotebookLM (10 min)** — Upload all documents. Ask: "Cross-reference this enquiry against our terminal capabilities. What stands out?"
 
-> **Deliverable 1 — Strategic Pushback Email:** "Draft a senior-level response email to ApexChem addressing the 3 most problematic clauses. Tone: collaborative but firm. We want the deal, but not at any price. Propose alternative terms that protect Vopak while showing flexibility."
+**Step 2: Deep Research (10 min):**
 
-> **Deliverable 2 — Counter-Proposal Deck (3-5 slides):** "Create a counter-proposal presentation: Slide 1 — Vopak Value Proposition, Slide 2 — Our Assessment of Their Needs, Slide 3 — Proposed Terms (with changes highlighted), Slide 4 — Risk Mitigation, Slide 5 — Next Steps."
+> "Research Green Methanol storage requirements for maritime bunkering in Southeast Asia. Include Singapore MPA regulations, material compatibility, and competitor activity on Jurong Island."
 
-**Step 4: Slide Deck (10 min)** — Gem for slide creation.
+**Step 3: Trap Detection + Drafting (15 min):**
 
-**Mid-Challenge Update (at 30 min mark):**
+> "Compare this customer enquiry against Vopak's standard T&Cs. Identify every clause that deviates from standard."
 
-> "Update from BD: a competitor on Jurong Island has just submitted their response to ApexChem with 10% lower pricing. However, market intelligence suggests they don't have the fire suppression infrastructure for HMD. This is your differentiator. Adjust your counter-proposal to emphasize safety and technical capability."
+> **Required Deliverables:**
+>
+> - ⚡ **Technical Feasibility Note** — Can we handle 50,000 cbm Green Methanol? What modifications needed?
+> - ⚡ **Risk & Opportunity Matrix** — Hidden traps found, risk assessment, counter-positions
+> - ⚡ **The Vopak Difference** — 3 winning points (at least 1 from human knowledge, not AI)
+> - ⚡ **Executive Pitch Letter** — 3-paragraph response to OceanGreen's VP Procurement
+> - ⚡ **Counter-Proposal Slide Deck** — 5-7 slides via Slide Deck Creator Gem
+
+> **Optional Deliverables:**
+>
+> - 📋 **2-Minute Video Pitch** — via Google Vids
+> - 📋 **Strategic Pushback Email** — addressing the 3 problematic clauses
+
+**Mid-Challenge Update (at 30-min mark):**
+
+> "Breaking update: a competitor on Jurong Island — Pacific Terminals — has submitted a pre-emptive bid with 12% lower storage rates. However, they don't have Green Methanol certification and their safety record shows 2 reportable incidents in 18 months. Match the price — or win on value?"
 
 ---
 
