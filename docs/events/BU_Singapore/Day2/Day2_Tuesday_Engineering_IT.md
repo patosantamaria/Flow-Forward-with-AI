@@ -32,7 +32,7 @@
 2. **M2 "Day in the Life" slide:** Use Engineering + IT friction examples (SoW review, change advisory, API debugging)
 3. **M4 PTCF Demo slide:** Use the Engineering/IT-specific PTCF examples (see below)
 4. **M5 Quick-Fire slide:** Pre-load IT + Engineering + Operations prompts
-5. **Capstone brief slide:** "The Risk Radar" — Tank T-405 SoW Stress Test
+5. **Capstone brief slide:** "The BCSS JV Crude Alert Briefing" — 2-group challenge (Engineering + IT/OT)
 
 ---
 
@@ -311,44 +311,65 @@ Wait. The engineers will immediately ask: "What error? What system? What happene
 
 ---
 
-### 🏆 14:45 — Capstone: "The Risk Radar" (60 min)
+### 🏆 14:45 — Capstone: "The BCSS JV Crude Alert Briefing" (60 min)
 
-> **Source:** [`projects_engineering/capstone.md`](../../departments/projects_engineering/capstone.md)
+> **Primary:** [`capstones/capstone_crude_alert.md`](capstones/capstone_crude_alert.md)
+> **Alternative:** [`capstones/capstone_risk_radar.md`](capstones/capstone_risk_radar.md) _(generic version — use if the BCSS scenario doesn't fit)_
+> **Facilitator Gem:** [`gems/gem_crude_alert_coach.md`](gems/gem_crude_alert_coach.md)
 
 **Brief the challenge (5 min):**
 
-> "Here's your scenario: Your terminal is executing Project Phoenix — the conversion of Tank T-405 to handle ApexChem's new HMD product. You've received a Draft Scope of Work from the contractor, and your job is to stress-test it against the technical data before the budget is locked."
+> "Here's the scenario: A primary transfer pump — P-501A — at the BCSS terminal has failed. A VLCC is incoming in 10 days, and every hour of delay costs money. A vendor has offered a Quick-Ship replacement pump, but the specs look questionable."
 >
-> "The BU Director needs your risk assessment **before the board meeting**. You have 55 minutes."
+> "At the same time, the JV Board has asked BCSS to present its plans for AI adoption at the terminal. They want a governance framework and a 12-month roadmap."
+>
+> "So we're splitting into two teams. **Team A: Engineering Sprint** — you vet the vendor pump and plan the 7-day recovery. **Team B: IT/OT AI Strategy** — you build the AI Governance Framework and Roadmap for the JV Board."
+>
+> "At the end, **Kiat** — as BCSS GM — compiles both outputs into a single JV Board Briefing. Because that's exactly what a terminal GM does in real life."
+
+**Team Split:**
+
+- **Team A — Engineering Sprint:** Wang Wei, Dehua, Sing Ee, Kelvin Teo, Constance, Chin Teck Ming (6 people)
+- **Team B — IT/OT AI Strategy:** Mohit, Shaoqun, Kiat, Kelvin Leong, Vivian (5 people)
 
 **Data Room** (pre-shared or share now):
 
-- Project Plan Summary / Draft SoW
-- Engineering Specifications
-- Budget Forecast (Sheet)
-- Historical Project Delay Log (Sheet)
-- Risk Register Template (Sheet)
+- [`vendor_proposal_apex610c.md`](capstones/data_room/vendor_proposal_apex610c.md) — for Team A
+- [`bcss_terminal_specs.md`](capstones/data_room/bcss_terminal_specs.md) — for both teams
+- [`ai_policy_it_security.md`](capstones/data_room/ai_policy_it_security.md) — for Team B
 
-**Team Split:**
-3 teams of 3-4. Mix departments deliberately — put IT with Engineering, Ops with Engineering. Cross-function perspective produces the strongest risk assessments.
-
-**Step 1: NotebookLM (10 min)** — Upload Data Room, ask: "What are the 3 most critical risks I should focus on?"
+**Step 1: NotebookLM (10 min)** — Both teams upload their Data Room documents and do initial analysis.
 
 **Step 2: Deep Research (10 min):**
 
-> "Analyze this Draft Scope of Work for Tank T-405 conversion. Cross-reference it against the HMD Safety Data Sheet and the terminal utility capacity report. Identify gaps in: heating requirements, pipe specifications, material compatibility, and utility capacity."
+> **Team A:** "Evaluate whether Carbon Steel/Carbon seal faces are acceptable for Sour Crude with H₂S. Also assess risk of a Non-Ex Rated motor in Zone 1."
+> **Team B:** "Research AI governance frameworks for industrial terminals and Joint Ventures. Focus on OT/IT boundary enforcement and data classification."
 
-**Step 3: Drafting (25 min):**
+**Step 3: Drafting (15 min):**
 
-> **Deliverable 1 — Executive Memo:** "Based on the gaps identified, draft an emergency executive memo to the BU Director. Structure: (1) Executive Summary of the 3 critical risks, (2) Technical details for each risk with specific numbers, (3) Budget impact estimate, (4) Revised timeline recommendation, (5) Decision required. Tone: urgent but factual."
+> **Team A Deliverables:**
+>
+> - ⚡ **Technical Assessment Memo** (REQUIRED) — Approve/Reject with conditions
+> - ⚡ **7-Day Recovery Timeline** (REQUIRED) — with safety gates
+> - 📋 **5-Point JSA** (OPTIONAL) — for pump removal
+> - 📋 **Vendor Digital Access Policy** (OPTIONAL) — for Smart-Link laptop
 
-> **Deliverable 2 — Risk Matrix:** "Create a risk matrix: Risk | Probability | Impact | Mitigation | Owner. Ensure all numbers are specific and traceable to source documents."
-
-**Step 4: Slide Deck (10 min)** — Slide Deck Creator Gem for a 5-7 slide board presentation.
+> **Team B Deliverables:**
+>
+> - ⚡ **AI Guardrails Document** (REQUIRED) — data classification, OT security, human-in-the-loop
+> - ⚡ **3-Phase AI Roadmap** (REQUIRED) — 12 months, connect to predictive maintenance
 
 **Mid-Challenge Update (at 30-min mark):**
 
-> "Update from the Procurement team: the critical alloy fittings for the HMD transfer lines have a 6-8 week lead time. Your contractor's SoW assumed 3 weeks. This blows the Q3 commissioning schedule. Factor this into your risk assessment and revised timeline."
+> **To Team A:** "Update: the vendor confirms the motor IS Ex-rated — but only to Zone 2 (IIB). Your manifold is Zone 1 (IIC). The certification is insufficient."
+> **To Team B:** "Update: a JV Board member asks specifically 'How would AI have helped detect the pump issue earlier? Could predictive maintenance have prevented this?' Work this into your roadmap."
+
+**Step 4: Convergence (10 min):**
+
+> Both teams bring their outputs together. Kiat leads the assembly of a single JV Board Briefing deck using the **Slide Deck Creator Gem**. The story: "We handled the crisis using AI today — here's how we scale that capability across the terminal."
+
+> ⚡ **Board Briefing Deck** (REQUIRED) — 7 slides covering the pump fix AND the AI strategy.
+> 📋 **Narrated Video via Google Vids** (OPTIONAL BONUS)
 
 ---
 
@@ -386,7 +407,8 @@ Each team: 2 minutes to present their Risk Radar findings:
 
 - [ ] Customise slides with Engineering/IT "Day in the Life" examples
 - [ ] Pre-load the SoW stress-test demo prompt and API error diagnosis prompt
-- [ ] Prepare Data Room documents for "The Risk Radar" capstone
+- [ ] Prepare Data Room documents for "BCSS Crude Alert" capstone (vendor proposal, terminal specs, AI policies)
+- [ ] Share Crude Alert Coach Gem link with participants
 - [ ] Have a terminal/engineering photo ready for the Visual Analysis demo
 - [ ] Print name cards for 11 participants
 - [ ] Pre-open: `projects_engineering/prompts.md`, `it_ot_digital/prompts.md`, `operations/prompts.md`
@@ -394,9 +416,9 @@ Each team: 2 minutes to present their Risk Radar findings:
 ### During the Session
 
 - [ ] Move briskly through M1-M3 (technical audience absorbs foundations fast)
-- [ ] Give extra time to M7 demos — this group will want to push the tools
-- [ ] Ensure Kelvin Leong, Chin Teck Ming, Vivian have relevant exercises
-- [ ] Deliver mid-challenge update at 30-min mark
+- [ ] Split into 2 teams: Engineering Sprint (6) + IT/OT Strategy (5) — Kiat leads Team B
+- [ ] Deliver team-specific mid-challenge updates at 30-min mark
+- [ ] Facilitate convergence — Kiat compiles both outputs into Board Briefing
 
 ### After the Session
 
