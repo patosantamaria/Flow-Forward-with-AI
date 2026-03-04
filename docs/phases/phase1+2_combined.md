@@ -64,12 +64,13 @@
 
 A required foundation module based on the first 15 min of the **"Gemini Introductory"** internal training by Patricio Santamaria. Does not cover features — covers concepts.
 
-| Section | Content                                                                                    | Time  |
-| :------ | :----------------------------------------------------------------------------------------- | :---- |
-| 1.1     | What is AI — the progression from rule-based to Generative AI                              | 3 min |
-| 1.2     | What is Generative AI specifically — what it creates, how LLMs work                        | 3 min |
-| 1.3     | What is Gemini — and what does Vopak have access to (4 tools + Enterprise Data Protection) | 5 min |
-| 1.4     | What Gemini is good at and what it is not — the Smart Intern model                         | 4 min |
+| Section | Content                                                                                                              | Time  |
+| :------ | :------------------------------------------------------------------------------------------------------------------- | :---- |
+| 1.1     | What is AI — the progression from rule-based to Generative AI                                                        | 3 min |
+| 1.2     | What is Generative AI specifically — what it creates, how LLMs work                                                  | 3 min |
+| 1.3     | What is Gemini — and what does Vopak have access to (4 tools + Enterprise Data Protection)                           | 5 min |
+| 1.4     | What Gemini is good at and what it is not — the Smart Intern model                                                   | 4 min |
+| 1.5     | **The Bigger Picture** — AI is much broader (agentic AI, autonomous workflows); today is the foundation to get ready | 2 min |
 
 ### 📘 M2 · The Flow Forward Vision (15 min)
 

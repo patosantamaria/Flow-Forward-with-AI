@@ -4,11 +4,11 @@
 
 ## Overview
 
-| Field                    | Detail                                                                                                                                                                       |
-| :----------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Duration**             | 75 Minutes (Standard) to 90 Minutes (Extended Practice)                                                                                                                      |
-| **Format**               | Remote/Online Webinar OR On-site Townhall                                                                                                                                    |
-| **Prerequisites**        | None (This is the baseline program)                                                                                                                                          |
+| Field                    | Detail                                                                                                                                                                        |
+| :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Duration**             | 75 Minutes (Standard) to 90 Minutes (Extended Practice)                                                                                                                       |
+| **Format**               | Remote/Online Webinar OR On-site Townhall                                                                                                                                     |
+| **Prerequisites**        | None (This is the baseline program)                                                                                                                                           |
 | **What they leave with** | A clear understanding of what AI is, clear boundaries on what is safe, and the PTCF prompting formula — starting from PTCF basics and unlocking Persona as the power upgrade. |
 
 ### The 3 Building Blocks
@@ -27,27 +27,27 @@ This baseline session is modular to fit different company rhythms.
 
 ### Configuration A: The Full 90-Minute Interactive (Recommended)
 
-| Duration     | Block      | Activity                                                                  |
-| :----------- | :--------- | :------------------------------------------------------------------------ |
-| 15 min       | M1         | GenAI Foundations — What Is This Thing?                                   |
-| 10 min       | M2         | The "Flow Forward" Vision                                                 |
-| 15 min       | M3         | Security & Guardrails (Zero Trust)                                        |
+| Duration     | Block      | Activity                                                                   |
+| :----------- | :--------- | :------------------------------------------------------------------------- |
+| 15 min       | M1         | GenAI Foundations — What Is This Thing?                                    |
+| 10 min       | M2         | The "Flow Forward" Vision                                                  |
+| 15 min       | M3         | Security & Guardrails (Zero Trust)                                         |
 | 25 min       | M4         | The PTCF Prompting Framework (PTCF → Persona reveal + comparison exercise) |
-| 15 min       | M5         | Live Demo: The Difference                                                 |
-| 5 min        | Closing    | Homework & Next Steps                                                     |
-| **→ 90 min** | ✅ _Total_ | _Full interactive session_                                                |
+| 15 min       | M5         | Live Demo: The Difference                                                  |
+| 5 min        | Closing    | Homework & Next Steps                                                      |
+| **→ 90 min** | ✅ _Total_ | _Full interactive session_                                                 |
 
 ### Configuration B: The 60-Minute Executive Overview
 
-| Duration     | Block      | Activity                                               |
-| :----------- | :--------- | :----------------------------------------------------- |
-| 10 min       | M1         | GenAI Foundations — What Is This Thing?                |
-| 8 min        | M2         | The "Flow Forward" Vision                              |
-| 12 min       | M3         | Security & Guardrails                                  |
+| Duration     | Block      | Activity                                                |
+| :----------- | :--------- | :------------------------------------------------------ |
+| 10 min       | M1         | GenAI Foundations — What Is This Thing?                 |
+| 8 min        | M2         | The "Flow Forward" Vision                               |
+| 12 min       | M3         | Security & Guardrails                                   |
 | 20 min       | M4         | The PTCF Prompting Framework (focus on PTCF foundation) |
-| 10 min       | M5         | Live Demo: The Difference                              |
-| 5 min        | Closing    | Q&A & Next Steps                                       |
-| **→ 60 min** | ✅ _Total_ | _Executive Overview_                                   |
+| 10 min       | M5         | Live Demo: The Difference                               |
+| 5 min        | Closing    | Q&A & Next Steps                                        |
+| **→ 60 min** | ✅ _Total_ | _Executive Overview_                                    |
 
 > **Facilitator note for Config B:** Budget the last 5 minutes for Q&A — a senior audience will always have questions. Cut Module 1 to 6 minutes if needed, not Module 2.
 
@@ -141,6 +141,26 @@ This is fundamentally different from using AI tools on personal accounts. Always
 
 > [!IMPORTANT]
 > **AI is a tool — not a replacement for your expertise.** Your judgment, your experience with Vopak operations, and your professional accountability are what make the output valuable. Gemini makes you faster; it does not make you redundant.
+
+### 0.5 The Bigger Picture — Setting Expectations (2 min)
+
+> **Why this section matters:** Participants should understand from minute one that today's training is a starting point, and that AI capability extends well beyond what is covered. This builds motivation ("there's more to learn") and positions the programme as forward-looking rather than one-off.
+
+**Facilitator script:**
+
+> "Before we move on, I want to set expectations. What we'll cover today is the **foundation** — but AI is much, much bigger than what we'll see in this room."
+>
+> "There is **agentic AI** — systems that don't just answer your questions but execute multi-step workflows on your behalf. Imagine an AI agent that monitors your operations 24/7, detects anomalies, generates the incident ticket, drafts the root cause analysis, and notifies the right person — all autonomously. There are AI systems that write code, manage supply chains, negotiate contracts, and coordinate across departments."
+>
+> "We're not covering all of that today — and that's by design. **The intent of this training is to get everyone started.** To build a foundation so that when Vopak fully embarks on advanced AI — and it will — you're all ready. You can adapt, you can adopt, and you're not starting from zero."
+>
+> "Think of today as your **driver's licence**. We're teaching you to drive. Once you can drive, the type of vehicle you use — sedan, truck, Formula 1 — that comes next. But first, you need to be able to drive."
+
+**Facilitator tips:**
+
+- Tailor the agentic AI example to the departments in the room (e.g., for Finance: "an AI agent that reconciles your reports overnight"; for Safety: "an AI that monitors terminal sensors and flags anomalies in real time")
+- Keep this to 2 minutes — it's a motivational framing, not a deep dive
+- The driver's licence analogy lands well across all audiences
 
 ---
 
